@@ -22,7 +22,7 @@ npm start
 ## Langkah Ke-2
 #### Convert excel ke file json dengan run program dibawah
 ```
-node tojson.js
+node convert.js
 ```
 
 ## Langkah Ke-3
@@ -45,3 +45,6 @@ Inti dari project ini adalah untuk scraping website yang diproject ini website p
 ISC
 
 **Salam Kemajuan**
+
+### Agar lebih jelas bisa dilihat video dibawah ini
+[![Drawing-Recognition-Model](https://img.youtube.com/vi/LfywZHK48xU/0.jpg)](https://www.youtube.com/watch?v=LfywZHK48xU)
