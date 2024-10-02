@@ -47,4 +47,4 @@ ISC
 **Salam Kemajuan**
 
 ### Agar lebih jelas bisa dilihat video dibawah ini
-[![Drawing-Recognition-Model](https://img.youtube.com/vi/LfywZHK48xU/0.jpg)](https://www.youtube.com/watch?v=LfywZHK48xU)
+[![Drawing-Recognition-Model](https://img.youtube.com/vi/A0VRovzfWvg/0.jpg)](https://www.youtube.com/watch?v=A0VRovzfWvg)
