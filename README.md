@@ -22,7 +22,7 @@ npm start
 ## Langkah Ke-2
 #### Convert excel ke file json dengan run program dibawah
 ```
-node convert.js
+node tojson.js
 ```
 
 ## Langkah Ke-3
