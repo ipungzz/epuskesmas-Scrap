@@ -235,8 +235,8 @@ try {
                                 document.querySelector('#form_search > div:nth-child(2) > input').value = ''; // Mengganti dengan ID atau selector yang sesuai
                         });
                 }
-                await browser.close();
-        }      
+                
+        }await browser.close();
 })
 })();
 } catch (error){
