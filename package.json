@@ -1,0 +1,19 @@
+{
+  "name": "epuskesmas-Scrap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node input.js"
+  },
+  "keywords": [],
+  "author": "Ipungzz._",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "fs": "^0.0.1-security",
+    "puppeteer": "^23.4.0",
+    "puppeteer-core": "^23.4.0",
+    "xlsx": "^0.18.5"
+  }
+}
