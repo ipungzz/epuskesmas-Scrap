@@ -2,7 +2,7 @@ const puppeteer = require('puppeteer');
 const fs = require('fs');
 const axios = require('axios');
 const fileinput = './lib/data.json';
-const {tinggi, calculateAge, updateJsonStatusSucces, updateJsonStatusNotFound, beratIdeal} = require('./function/script');
+const {tinggi, calculateAge, updateJsonStatusSucces, updateJsonStatusNotFound, updateJsonStatusRegion, beratIdeal} = require('./function/script');
 const loginpustu = JSON.parse(fs.readFileSync('./lib/userlogin.json', 'utf-8'));
 const email = loginpustu[0].email;
 const password = loginpustu[0].password;
@@ -62,7 +62,9 @@ try {
                         waitUntill: "networkidle2"
                 }).then(async () =>{
                         for (const entry of datuser) {
-                        await new Promise(resolve => setTimeout(resolve, 1000));
+                            if(entry.status == ""){
+                                console.log(`${entry.nik }proses data disini`)
+                                await new Promise(resolve => setTimeout(resolve, 1000));
                         console.log(`[INFO] Melakukan Input No Nik ${entry.nik}`);
                         await page.type('#form_search > div:nth-child(2) > input', entry.nik);
                         await page.click('#form_search > button.btn.btn-sm.btn-info', { clickCount: 2 });
@@ -108,7 +110,7 @@ try {
                                 const resultbadan = beratIdeal(resulttinggi.toString(), hasilumur.toString(), dataPasien.jenisKelamin)
                                 console.log (`[IFNO] Sedang Memproses Data Status: ${statusBpjs} Nama: ${dataPasien.namaPasien} JK: ${dataPasien.jenisKelamin} Tanggal Lahir: ${dataPasien.tanggalLahir} Umur: ${hasilumur.toString()} dengan rata rata tinggi ${resulttinggi} dan rata rata berat ${resultbadan}`);
                                 // Cek jenis kelamin dan jalankan fungsi yang sesuai
-                                if(!statusBpjs === "Diluar Faskes"){
+                                if(statusBpjs == "Sesuai Faskes"){
                                     if (dataPasien.jenisKelamin === 'Perempuan') {
                                         await new Promise(resolve => setTimeout(resolve, 1000));
                                         await page.type('#tinggi_badan', resulttinggi.toString());
@@ -144,14 +146,14 @@ try {
                                                                 await new Promise(resolve => setTimeout(resolve, 2000));
                                                                 await page.click('#button_save');
                                                                 updateJsonStatusSucces(dataPasien.namaPasien, entry.nik, dataPasien.jenisKelamin,dataPasien.tanggalLahir, hasilumur.toString(), resulttinggi.toString(), resultbadan.toString());
-                                                                console.log("[INFO] Berhasil Menambahkan Data:", entry.nik, "Nama: ", entry.nama);
+                                                                console.log("[INFO] Berhasil Menambahkan Data:", entry.nik, "Nama: ", dataPasien.namaPasien);
                                                                 await new Promise(resolve => setTimeout(resolve, 2000));
                                                                 await page.goto(url1, {waitUntill: "networkidle2"});
                                                         } else {
                                                                 await new Promise(resolve => setTimeout(resolve, 2000));
                                                                 await page.click('#button_save');
                                                                 updateJsonStatusSucces(dataPasien.namaPasien, entry.nik, dataPasien.jenisKelamin,dataPasien.tanggalLahir, hasilumur.toString(), resulttinggi.toString(), resultbadan.toString());
-                                                                console.log("[INFO] Berhasil Menambahkan Data:", entry.nik, "Nama: ", entry.nama);
+                                                                console.log("[INFO] Berhasil Menambahkan Data:", entry.nik, "Nama: ", dataPasien.namaPasien);
                                                                 await new Promise(resolve => setTimeout(resolve, 2000));
                                                                 await page.goto(url1, {waitUntill: "networkidle2"});
                                                         }
@@ -173,14 +175,14 @@ try {
                                                                 await page.click('#button_save');
                                                                 updateJsonStatusSucces(dataPasien.namaPasien, entry.nik, dataPasien.jenisKelamin,dataPasien.tanggalLahir, hasilumur.toString(), resulttinggi.toString(), resultbadan.toString());
                                                                 await new Promise(resolve => setTimeout(resolve, 4000));
-                                                                console.log("[INFO] Berhasil Menambahkan Data:", entry.nik, "Nama: ", entry.nama);
+                                                                console.log("[INFO] Berhasil Menambahkan Data:", entry.nik, "Nama: ", dataPasien.namaPasien);
                                                                 await page.goto(url1, {waitUntill: "networkidle2"});
                                                         } else {
                                                                 await new Promise(resolve => setTimeout(resolve, 3000));
                                                                 await page.click('#button_save');
                                                                 updateJsonStatusSucces(dataPasien.namaPasien, entry.nik, dataPasien.jenisKelamin,dataPasien.tanggalLahir, hasilumur.toString(), resulttinggi.toString(), resultbadan.toString());
                                                                 await new Promise(resolve => setTimeout(resolve, 4000));
-                                                                console.log("[INFO] Berhasil Menambahkan Data:", entry.nik, "Nama: ", entry.nama);
+                                                                console.log("[INFO] Berhasil Menambahkan Data:", entry.nik, "Nama: ", dataPasien.namaPasien);
                                                                 await page.goto(url1, {waitUntill: "networkidle2"});
                                                         }
                                         } else{
@@ -199,14 +201,14 @@ try {
                                                                 await page.click('#button_save');
                                                                 updateJsonStatusSucces(dataPasien.namaPasien, entry.nik, dataPasien.jenisKelamin,dataPasien.tanggalLahir, hasilumur.toString(), resulttinggi.toString(), resultbadan.toString());
                                                                 await new Promise(resolve => setTimeout(resolve, 4000));
-                                                                console.log("[INFO] Berhasil Menambahkan Data:", entry.nik, "Nama: ", entry.nama);
+                                                                console.log("[INFO] Berhasil Menambahkan Data:", entry.nik, "Nama: ", dataPasien.namaPasien);
                                                                 await page.goto(url1, {waitUntill: "networkidle2"});
                                                         } else {
                                                                 await new Promise(resolve => setTimeout(resolve, 3000));
                                                                 await page.click('#button_save');
                                                                 updateJsonStatusSucces(dataPasien.namaPasien, entry.nik, dataPasien.jenisKelamin,dataPasien.tanggalLahir, hasilumur.toString(), resulttinggi.toString(), resultbadan.toString());
                                                                 await new Promise(resolve => setTimeout(resolve, 4000));
-                                                                console.log("[INFO] Berhasil Menambahkan Data:", entry.nik, "Nama: ", entry.nama);
+                                                                console.log("[INFO] Berhasil Menambahkan Data:", entry.nik, "Nama: ", dataPasien.namaPasien);
                                                                 await page.goto(url1, {waitUntill: "networkidle2"});
                                                         }
                                         }
@@ -232,19 +234,20 @@ try {
                                                         await page.click('#button_save');
                                                         updateJsonStatusSucces(dataPasien.namaPasien, entry.nik, dataPasien.jenisKelamin,dataPasien.tanggalLahir, hasilumur.toString(), resulttinggi.toString(), resultbadan.toString());
                                                         await new Promise(resolve => setTimeout(resolve, 4000));
-                                                        console.log("[INFO] Berhasil Menambahkan Data:", entry.nik, "Nama: ", entry.nama);
+                                                        console.log("[INFO] Berhasil Menambahkan Data:", entry.nik, "Nama: ", dataPasien.namaPasien);
                                                         await page.goto(url1, {waitUntill: "networkidle2"});
                                                 } else {
                                                         await new Promise(resolve => setTimeout(resolve, 3000));
                                                         await page.click('#button_save');
                                                         updateJsonStatusSucces(dataPasien.namaPasien, entry.nik, dataPasien.jenisKelamin,dataPasien.tanggalLahir, hasilumur.toString(), resulttinggi.toString(), resultbadan.toString());
                                                         await new Promise(resolve => setTimeout(resolve, 4000));
-                                                        console.log("[INFO] Berhasil Menambahkan Data:", entry.nik, "Nama: ", entry.nama);
+                                                        console.log("[INFO] Berhasil Menambahkan Data:", entry.nik, "Nama: ", dataPasien.namaPasien);
                                                         await page.goto(url1, {waitUntill: "networkidle2"});
                                                 }
                                 }
                                 }else{ //filter diluar faskes
                                     console.log("Pasien Diluar Faskes");
+                                    updateJsonStatusRegion(entry.nik);
                                     await new Promise(resolve => setTimeout(resolve, 3000));
                                     await page.goto(url1, {waitUntill: "networkidle2"});
                                 }
@@ -254,13 +257,13 @@ try {
                                 await page.goto(url1, {waitUntill: "networkidle2"});
                         }
                 }else{
-                        console.log("[INFO] Data dengan No Asuransi", entry.nik, "Tidak Ditemukan");
+                    console.log("[INFO] Data dengan No Asuransi", entry.nik, "Tidak Ditemukan");
                         updateJsonStatusNotFound(entry.nik);
                         await page.evaluate(() => {
                                 document.querySelector('#form_search > div:nth-child(2) > input').value = ''; // Mengganti dengan ID atau selector yang sesuai
                         });
                 }
-                
+                            }//kondisi kosong
         }await browser.close();
 })
 })();
