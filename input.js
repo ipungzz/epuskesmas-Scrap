@@ -243,7 +243,7 @@ try {
                                                         await page.goto(url1, {waitUntill: "networkidle2"});
                                                 }
                                 }
-                                }else{
+                                }else{ //filter diluar faskes
                                     console.log("Pasien Diluar Faskes");
                                     await new Promise(resolve => setTimeout(resolve, 3000));
                                     await page.goto(url1, {waitUntill: "networkidle2"});
