@@ -2,16 +2,14 @@ const puppeteer = require('puppeteer');
 const fs = require('fs');
 const axios = require('axios');
 const fileinput = './lib/data.json';
-const {tinggi, calculateAge, updateJsonStatusSucces, updateJsonStatusNotFound, updateJsonStatusRegion, updateJsonStatusBPJS, beratIdeal} = require('./function/script');
+const {tinggi, calculateAge, updateJsonStatusSucces, updateJsonStatusNotFound, updateJsonStatusRegion, updateJsonStatusBPJS, beratIdeal, askQuestion, updateUserLogin,rl} = require('./function/script');
 const loginpustu = JSON.parse(fs.readFileSync('./lib/userlogin.json', 'utf-8'));
 const email = loginpustu[0].email;
 const password = loginpustu[0].password;
 const url = "https://pasuruan.epuskesmas.id/login";
 const url1 = "https://pasuruan.epuskesmas.id/pasien?broadcastNotif=1";
 const datuser = JSON.parse(fs.readFileSync(fileinput, 'utf-8'));
-function isStatusEmpty(entry) {
-    return !entry.status; // Memeriksa apakah status kosong
-}
+
 
 //update sementara hanya ada disini wkwk
 //cek popup
@@ -27,6 +25,7 @@ async function checkPopup(page) {
     
 try {
         (async () => {
+            if(!loginpustu[0].email == ""){
                 // Launch browser
                 const browser = await puppeteer.launch({ headless: false });
                 const page = await browser.newPage();
@@ -282,7 +281,14 @@ try {
                             }//kondisi kosong
         }await browser.close();
 })
-})();
+rl.close();
+            }else{
+                const emailLogin = await askQuestion('Masukkan Email: ');
+                const passwordLogin = await askQuestion('Masukkan Password: ');
+                updateUserLogin(emailLogin, passwordLogin);
+                rl.close();
+            }
+        })();
 } catch (error){
         console.log('[ALERT] error bang')
 }
