@@ -164,6 +164,30 @@ const updateJsonStatusRegion = (nik) => {
     }
 };
 
+const updateJsonStatusBPJS = (nik) => {
+    try {
+        // Membaca file JSON dari file input
+        const data = JSON.parse(fs.readFileSync(fileinput, 'utf-8'));
+
+        // Mencari data berdasarkan NIK dan memperbarui status jika ditemukan
+        const entry = data.find(item => item.nik === nik);
+        if (entry) {
+            entry.status = "Tidak aktif"; // Mengubah status menjadi '404' (tidak ditemukan)
+
+            // Menyimpan kembali perubahan ke file input
+            fs.writeFileSync(fileinput, JSON.stringify(data, null, 2), 'utf-8');
+            //console.log(`Data dengan NIK ${nik} berhasil diperbarui statusnya menjadi 404 di file ${fileinput}.`);
+            
+            // Menambahkan data yang di-update ke file fix.json
+            addToFileFix(entry);
+        } else {
+            //console.log(`Data dengan NIK ${nik} tidak ditemukan di file ${fileinput}.`);
+        }
+    } catch (error) {
+        console.error("Terjadi kesalahan dalam pembacaan atau penulisan file:", error);
+    }
+};
+
 // Fungsi untuk menambahkan data yang telah di-update ke file fix.json
 const addToFileFix = (updatedEntry) => {
     try {
@@ -198,4 +222,5 @@ const addToFileFix = (updatedEntry) => {
         updateJsonStatusNotFound,
         addToFileFix,
         updateJsonStatusRegion,
+        updateJsonStatusBPJS,
     };
