@@ -1,6 +1,8 @@
 const fs = require('fs');
+const readline = require('readline');
 const fileinput = '\lib/data.json';
 const fileoutput = '\lib/fix.json';
+const dataUser = '\lib/userlogin.json';
 function tinggi(umur, jenisKelamin) {
         let heights;
     
@@ -188,6 +190,23 @@ const updateJsonStatusBPJS = (nik) => {
     }
 };
 
+const updateUserLogin = (email, password) =>{
+    try{
+        const data = JSON.parse(fs.readFileSync(dataUser, 'utf-8'));
+        const entry = data.find(item => item.email === "");
+        if(entry){
+            entry.email = email;
+            entry.password = password;
+            fs.writeFileSync(dataUser, JSON.stringify(data, null, 2), 'utf-8');
+            console.log(`Berhasil memasukan email "${email}" dan password "${password}" ke database, silahkan start ulang`);
+        }else{
+            console.log("gagal")
+        }
+    }catch (error) {
+        console.error("Terjadi kesalahan dalam pembacaan atau penulisan file:", error);
+    }
+}
+
 // Fungsi untuk menambahkan data yang telah di-update ke file fix.json
 const addToFileFix = (updatedEntry) => {
     try {
@@ -213,6 +232,16 @@ const addToFileFix = (updatedEntry) => {
         console.error("Terjadi kesalahan dalam pembacaan atau penulisan file output:", error);
     }
 };
+
+const rl = readline.createInterface({
+    input: process.stdin,
+    output: process.stdout
+});
+
+// Fungsi untuk meminta input dari pengguna
+function askQuestion(query) {
+    return new Promise(resolve => rl.question(query, resolve));
+}
     
     module.exports = {
         tinggi,
@@ -223,4 +252,7 @@ const addToFileFix = (updatedEntry) => {
         addToFileFix,
         updateJsonStatusRegion,
         updateJsonStatusBPJS,
+        askQuestion,
+        rl,
+        updateUserLogin,
     };
