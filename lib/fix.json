@@ -1,1 +1,7442 @@
-[]
+[
+  {
+    "id": 66,
+    "nokertas": 601,
+    "nik": "0000717920122",
+    "nama": "ISMAIL",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "22-05-1953",
+    "umur": "71",
+    "tinggi": "169",
+    "berat": "65.21",
+    "status": "200"
+  },
+  {
+    "id": 67,
+    "nokertas": 602,
+    "nik": "0000717921009",
+    "nama": "SUJIATI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-03-1960",
+    "umur": "64",
+    "tinggi": "164",
+    "berat": "57.12",
+    "status": "200"
+  },
+  {
+    "id": 68,
+    "nokertas": 603,
+    "nik": "0000717921202",
+    "nama": "M.USMAN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-11-1987",
+    "umur": "36",
+    "tinggi": "175",
+    "berat": "67.5",
+    "status": "200"
+  },
+  {
+    "id": 69,
+    "nokertas": 604,
+    "nik": "0000717926534",
+    "nama": "USMAN HADI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "30-12-1955",
+    "umur": "68",
+    "tinggi": "167",
+    "berat": "63.32",
+    "status": "200"
+  },
+  {
+    "id": 70,
+    "nokertas": 605,
+    "nik": "0000717926815",
+    "nama": "UMAR",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "13-07-1952",
+    "umur": "72",
+    "tinggi": "159",
+    "berat": "55.76",
+    "status": "200"
+  },
+  {
+    "id": 72,
+    "nokertas": 607,
+    "nik": "0000717928749",
+    "nama": "WIJIATI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "",
+    "umur": "NaN",
+    "tinggi": "162",
+    "berat": "52.7",
+    "status": "200"
+  },
+  {
+    "id": 73,
+    "nokertas": 608,
+    "nik": "0001043079715",
+    "nama": "AKHMAD SAHRI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "10-04-1970",
+    "umur": "54",
+    "tinggi": "175",
+    "berat": "67.5",
+    "status": "200"
+  },
+  {
+    "id": 74,
+    "nokertas": 609,
+    "nik": "0001043079726",
+    "nama": "KHABIBAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "12-10-1989",
+    "umur": "34",
+    "tinggi": "167",
+    "berat": "56.95",
+    "status": "200"
+  },
+  {
+    "id": 76,
+    "nokertas": 611,
+    "nik": "0001043079794",
+    "nama": "MACHMUDAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "15-06-1963",
+    "umur": "61",
+    "tinggi": "164",
+    "berat": "57.12",
+    "status": "200"
+  },
+  {
+    "id": 79,
+    "nokertas": 614,
+    "nik": "0001043079941",
+    "nama": "SULAMAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "10-10-1959",
+    "umur": "64",
+    "tinggi": "158",
+    "berat": "51.77",
+    "status": "200"
+  },
+  {
+    "id": 80,
+    "nokertas": 615,
+    "nik": "0001043080029",
+    "nama": "SUMARIYAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "08-04-1929",
+    "umur": "95",
+    "tinggi": "165",
+    "berat": "58.01",
+    "status": "200"
+  },
+  {
+    "id": 81,
+    "nokertas": 616,
+    "nik": "0001043080053",
+    "nama": "KURSIJA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "30-05-1959",
+    "umur": "65",
+    "tinggi": "163",
+    "berat": "56.23",
+    "status": "200"
+  },
+  {
+    "id": 82,
+    "nokertas": 617,
+    "nik": "0001043080054",
+    "status": "404"
+  },
+  {
+    "id": 83,
+    "nokertas": 618,
+    "nik": "0001043080108",
+    "nama": "SITI BIBIT",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "20-02-1956",
+    "umur": "68",
+    "tinggi": "164",
+    "berat": "57.12",
+    "status": "200"
+  },
+  {
+    "id": 84,
+    "nokertas": 619,
+    "nik": "0001043080143",
+    "nama": "LILIS WANINGSIH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "10-11-1969",
+    "umur": "54",
+    "tinggi": "161",
+    "berat": "51.85",
+    "status": "200"
+  },
+  {
+    "id": 85,
+    "nokertas": 620,
+    "nik": "0001043080165",
+    "nama": "SITI MAISAROH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-04-2000",
+    "umur": "24",
+    "tinggi": "161",
+    "berat": "51.85",
+    "status": "200"
+  },
+  {
+    "id": 86,
+    "nokertas": 621,
+    "nik": "0001043080176",
+    "nama": "MAULANA THORIQ KHASBULLOH",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "14-08-1998",
+    "umur": "26",
+    "tinggi": "168",
+    "berat": "61.2",
+    "status": "200"
+  },
+  {
+    "id": 87,
+    "nokertas": 622,
+    "nik": "0001043080187",
+    "nama": "SUYADI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-06-1957",
+    "umur": "67",
+    "tinggi": "162",
+    "berat": "58.59",
+    "status": "200"
+  },
+  {
+    "id": 88,
+    "nokertas": 623,
+    "nik": "0001043080198",
+    "nama": "SUKARLIN",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "12-06-1965",
+    "umur": "59",
+    "tinggi": "167",
+    "berat": "56.95",
+    "status": "200"
+  },
+  {
+    "id": 90,
+    "nokertas": 625,
+    "nik": "0001043080277",
+    "nama": "ENDAH ENY",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "19-09-1953",
+    "umur": "71",
+    "tinggi": "167",
+    "berat": "59.8",
+    "status": "200"
+  },
+  {
+    "id": 91,
+    "nokertas": 626,
+    "nik": "0001043080288",
+    "nama": "PURWO ENDARTO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-05-1971",
+    "umur": "53",
+    "tinggi": "171",
+    "berat": "63.9",
+    "status": "200"
+  },
+  {
+    "id": 92,
+    "nokertas": 627,
+    "nik": "0001043080367",
+    "nama": "SUGENG PURNOMO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "11-12-1952",
+    "umur": "71",
+    "tinggi": "170",
+    "berat": "66.15",
+    "status": "200"
+  },
+  {
+    "id": 93,
+    "nokertas": 628,
+    "nik": "0001043080378",
+    "nama": "SUTIAMI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "30-12-1960",
+    "umur": "63",
+    "tinggi": "158",
+    "berat": "51.77",
+    "status": "200"
+  },
+  {
+    "id": 95,
+    "nokertas": 630,
+    "nik": "0001043080435",
+    "status": "404"
+  },
+  {
+    "id": 96,
+    "nokertas": 631,
+    "nik": "0001043080479",
+    "status": "404"
+  },
+  {
+    "id": 98,
+    "nokertas": 633,
+    "nik": "0001043080503",
+    "nama": "MOCHAMAD FARUK",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "06-06-1977",
+    "umur": "47",
+    "tinggi": "165",
+    "berat": "58.5",
+    "status": "200"
+  },
+  {
+    "id": 100,
+    "nokertas": 635,
+    "nik": "0001043080525",
+    "nama": "PITOYO.",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-09-1949",
+    "umur": "75",
+    "tinggi": "162",
+    "berat": "58.59",
+    "status": "200"
+  },
+  {
+    "id": 101,
+    "nokertas": 636,
+    "nik": "0001043080536",
+    "nama": "NUR CHADIYAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "08-06-1959",
+    "umur": "65",
+    "tinggi": "163",
+    "berat": "56.23",
+    "status": "200"
+  },
+  {
+    "id": 102,
+    "nokertas": 637,
+    "nik": "0001043080558",
+    "nama": "AKHMAD GHOZALI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "21-07-1985",
+    "umur": "39",
+    "tinggi": "172",
+    "berat": "64.8",
+    "status": "200"
+  },
+  {
+    "id": 104,
+    "nokertas": 639,
+    "nik": "0001043080604",
+    "nama": "SULTON",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-04-1991",
+    "umur": "33",
+    "tinggi": "173",
+    "berat": "65.7",
+    "status": "200"
+  },
+  {
+    "id": 105,
+    "nokertas": 640,
+    "nik": "0001043080637",
+    "nama": "YULI HARIYANTO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "12-07-1988",
+    "umur": "36",
+    "tinggi": "165",
+    "berat": "58.5",
+    "status": "200"
+  },
+  {
+    "id": 106,
+    "nokertas": 641,
+    "nik": "0001043080626",
+    "nama": "SUTRISNO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-01-1984",
+    "umur": "40",
+    "tinggi": "165",
+    "berat": "58.5",
+    "status": "200"
+  },
+  {
+    "id": 107,
+    "nokertas": 642,
+    "nik": "0001043080661",
+    "nama": "JAMILAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-03-1970",
+    "umur": "54",
+    "tinggi": "164",
+    "berat": "54.4",
+    "status": "200"
+  },
+  {
+    "id": 108,
+    "nokertas": 643,
+    "nik": "0001043080672",
+    "nama": "CHOIRUDIN.",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-05-1980",
+    "umur": "44",
+    "tinggi": "167",
+    "berat": "60.3",
+    "status": "200"
+  },
+  {
+    "id": 109,
+    "nokertas": 644,
+    "nik": "0001043080683",
+    "nama": "DINA ARITA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "14-12-1980",
+    "umur": "43",
+    "tinggi": "158",
+    "berat": "49.3",
+    "status": "200"
+  },
+  {
+    "id": 110,
+    "nokertas": 645,
+    "nik": "0001043080694",
+    "nama": "MUCHAMMAD FITRA MAULANA",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-12-2003",
+    "umur": "20",
+    "tinggi": "166",
+    "berat": "59.4",
+    "status": "200"
+  },
+  {
+    "id": 111,
+    "nokertas": 646,
+    "nik": "0001043080705",
+    "nama": "FIRA DWI PANGESTU",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "09-04-2005",
+    "umur": "19",
+    "tinggi": "162",
+    "berat": "52.7",
+    "status": "200"
+  },
+  {
+    "id": 112,
+    "nokertas": 647,
+    "nik": "0001043080795",
+    "nama": "MUSLIKHA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "13-01-1975",
+    "umur": "49",
+    "tinggi": "164",
+    "berat": "54.4",
+    "status": "200"
+  },
+  {
+    "id": 114,
+    "nokertas": 649,
+    "nik": "0001043080817",
+    "nama": "SUTO GANDA KUSUMA HALIM",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "28-12-1982",
+    "umur": "41",
+    "tinggi": "173",
+    "berat": "65.7",
+    "status": "200"
+  },
+  {
+    "id": 115,
+    "nokertas": 650,
+    "nik": "0001043080839",
+    "nama": "SYLVIA KUSUMA HALIM",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-04-2005",
+    "umur": "19",
+    "tinggi": "157",
+    "berat": "48.45",
+    "status": "200"
+  },
+  {
+    "id": 116,
+    "nokertas": 651,
+    "nik": "0001043080841",
+    "nama": "HARIYONO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "07-05-1983",
+    "umur": "41",
+    "tinggi": "166",
+    "berat": "59.4",
+    "status": "200"
+  },
+  {
+    "id": 117,
+    "nokertas": 652,
+    "nik": "0001043080863",
+    "nama": "BILBA NUR FADDILAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "02-05-2005",
+    "umur": "19",
+    "tinggi": "158",
+    "berat": "49.3",
+    "status": "200"
+  },
+  {
+    "id": 119,
+    "nokertas": 654,
+    "nik": "0001043080929",
+    "status": "404"
+  },
+  {
+    "id": 120,
+    "nokertas": 655,
+    "nik": "0001043080918",
+    "status": "404"
+  },
+  {
+    "id": 121,
+    "nokertas": 656,
+    "nik": "0001043080975",
+    "nama": "DHIKA ADI MASTIAR",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "18-05-1998",
+    "umur": "26",
+    "tinggi": "172",
+    "berat": "64.8",
+    "status": "200"
+  },
+  {
+    "id": 122,
+    "nokertas": 657,
+    "nik": "0001043081019",
+    "nama": "MUJIONO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "03-11-1966",
+    "umur": "57",
+    "tinggi": "165",
+    "berat": "58.5",
+    "status": "200"
+  },
+  {
+    "id": 123,
+    "nokertas": 658,
+    "nik": "0001043081021",
+    "status": "404"
+  },
+  {
+    "id": 124,
+    "nokertas": 659,
+    "nik": "0001043081065",
+    "nama": "PATMI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-05-1954",
+    "umur": "70",
+    "tinggi": "163",
+    "berat": "59.54",
+    "status": "200"
+  },
+  {
+    "id": 125,
+    "nokertas": 660,
+    "nik": "0001043081076",
+    "nama": "ACHMAD RAFIK",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "28-04-1978",
+    "umur": "46",
+    "tinggi": "171",
+    "berat": "63.9",
+    "status": "200"
+  },
+  {
+    "id": 126,
+    "nokertas": 661,
+    "nik": "0001043081087",
+    "nama": "ROHMAN",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "03-01-1987",
+    "umur": "37",
+    "tinggi": "162",
+    "berat": "52.7",
+    "status": "200"
+  },
+  {
+    "id": 127,
+    "nokertas": 662,
+    "nik": "0001043081109",
+    "nama": "SULAIMAN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "18-04-1950",
+    "umur": "74",
+    "tinggi": "158",
+    "berat": "54.81",
+    "status": "200"
+  },
+  {
+    "id": 128,
+    "nokertas": 663,
+    "nik": "0001043081111",
+    "nama": "BADRIYAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-05-1951",
+    "umur": "73",
+    "tinggi": "163",
+    "berat": "56.23",
+    "status": "200"
+  },
+  {
+    "id": 129,
+    "nokertas": 664,
+    "nik": "0001043081144",
+    "nama": "SYAHRUL ROHMAD",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "26-04-1988",
+    "umur": "36",
+    "tinggi": "170",
+    "berat": "63",
+    "status": "200"
+  },
+  {
+    "id": 130,
+    "nokertas": 665,
+    "nik": "0001043081122",
+    "nama": "MOCH. SAWALLUDIN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "12-04-1992",
+    "umur": "32",
+    "tinggi": "166",
+    "berat": "59.4",
+    "status": "200"
+  },
+  {
+    "id": 131,
+    "nokertas": 666,
+    "nik": "0001043081155",
+    "nama": "MIFTACHUL HIDAYAT",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "07-09-1971",
+    "umur": "53",
+    "tinggi": "169",
+    "berat": "62.1",
+    "status": "200"
+  },
+  {
+    "id": 132,
+    "nokertas": 667,
+    "nik": "0001043081188",
+    "nama": "MUNAWAR",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-06-1949",
+    "umur": "75",
+    "tinggi": "157",
+    "berat": "53.87",
+    "status": "200"
+  },
+  {
+    "id": 133,
+    "nokertas": 668,
+    "nik": "0001043081199",
+    "nama": "RUPIATIN",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "30-04-1955",
+    "umur": "69",
+    "tinggi": "164",
+    "berat": "57.12",
+    "status": "200"
+  },
+  {
+    "id": 135,
+    "nokertas": 670,
+    "nik": "0001043081212",
+    "status": "404"
+  },
+  {
+    "id": 136,
+    "nokertas": 671,
+    "nik": "0001043081313",
+    "nama": "BASORI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-06-1960",
+    "umur": "64",
+    "tinggi": "158",
+    "berat": "54.81",
+    "status": "200"
+  },
+  {
+    "id": 137,
+    "nokertas": 672,
+    "nik": "0001043081324",
+    "nama": "SITI ASIYAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "10-04-1963",
+    "umur": "61",
+    "tinggi": "158",
+    "berat": "51.77",
+    "status": "200"
+  },
+  {
+    "id": 138,
+    "nokertas": 673,
+    "nik": "0001878622312",
+    "nama": "IWAN WIDIANTO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "28-10-1981",
+    "umur": "42",
+    "tinggi": "165",
+    "berat": "58.5",
+    "status": "200"
+  },
+  {
+    "id": 139,
+    "nokertas": 674,
+    "nik": "0001043081335",
+    "status": "404"
+  },
+  {
+    "id": 140,
+    "nokertas": 675,
+    "nik": "0001043081368",
+    "nama": "SUAMIR",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-05-1955",
+    "umur": "69",
+    "tinggi": "157",
+    "berat": "53.87",
+    "status": "200"
+  },
+  {
+    "id": 141,
+    "nokertas": 676,
+    "nik": "0001043081379",
+    "nama": "SUMIATIN",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "09-02-1970",
+    "umur": "54",
+    "tinggi": "165",
+    "berat": "55.25",
+    "status": "200"
+  },
+  {
+    "id": 142,
+    "nokertas": 677,
+    "nik": "0001043081425",
+    "nama": "SLAMET JOYO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-01-1964",
+    "umur": "60",
+    "tinggi": "167",
+    "berat": "63.32",
+    "status": "200"
+  },
+  {
+    "id": 143,
+    "nokertas": 678,
+    "nik": "0001043081436",
+    "nama": "SITI KHOTIJAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "16-06-1957",
+    "umur": "67",
+    "tinggi": "166",
+    "berat": "58.91",
+    "status": "200"
+  },
+  {
+    "id": 144,
+    "nokertas": 679,
+    "nik": "0001043081469",
+    "nama": "USMAN AFANDI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-10-1969",
+    "umur": "55",
+    "tinggi": "172",
+    "berat": "64.8",
+    "status": "200"
+  },
+  {
+    "id": 145,
+    "nokertas": 680,
+    "nik": "0001043081471",
+    "nama": "YULIA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "25-09-1969",
+    "umur": "55",
+    "tinggi": "167",
+    "berat": "56.95",
+    "status": "200"
+  },
+  {
+    "id": 146,
+    "nokertas": 681,
+    "nik": "0001043081482",
+    "nama": "FENI ANDI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-06-1991",
+    "umur": "33",
+    "tinggi": "174",
+    "berat": "66.6",
+    "status": "200"
+  },
+  {
+    "id": 147,
+    "nokertas": 682,
+    "nik": "0001043081515",
+    "nama": "M NIZAR",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "12-05-1960",
+    "umur": "64",
+    "tinggi": "170",
+    "berat": "66.15",
+    "status": "200"
+  },
+  {
+    "id": 148,
+    "nokertas": 683,
+    "nik": "0001043081526",
+    "nama": "KAYANI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-07-1965",
+    "umur": "59",
+    "tinggi": "167",
+    "berat": "56.95",
+    "status": "200"
+  },
+  {
+    "id": 149,
+    "nokertas": 684,
+    "nik": "0001043081537",
+    "nama": "SITI RUKAYAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-11-1980",
+    "umur": "43",
+    "tinggi": "163",
+    "berat": "53.55",
+    "status": "200"
+  },
+  {
+    "id": 150,
+    "nokertas": 685,
+    "nik": "0001043081559",
+    "status": "404"
+  },
+  {
+    "id": 152,
+    "nokertas": 687,
+    "nik": "0001043081616",
+    "nama": "MUSTOFA",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "04-10-1962",
+    "umur": "62",
+    "tinggi": "162",
+    "berat": "58.59",
+    "status": "200"
+  },
+  {
+    "id": 153,
+    "nokertas": 688,
+    "nik": "0001043081627",
+    "status": "404"
+  },
+  {
+    "id": 154,
+    "nokertas": 689,
+    "nik": "0001818432448",
+    "status": "404"
+  },
+  {
+    "id": 155,
+    "nokertas": 690,
+    "nik": "0001175148033",
+    "status": "404"
+  },
+  {
+    "id": 156,
+    "nokertas": 691,
+    "nik": "0002064234262",
+    "nama": "MOCHAMAD ESA AKBAR",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-04-2015",
+    "umur": "9",
+    "tinggi": "116",
+    "berat": "12.96",
+    "status": "200"
+  },
+  {
+    "id": 158,
+    "nokertas": 693,
+    "nik": "0001262077942",
+    "status": "404"
+  },
+  {
+    "id": 159,
+    "nokertas": 694,
+    "nik": "0001262649295",
+    "status": "404"
+  },
+  {
+    "id": 160,
+    "nokertas": 695,
+    "nik": "0001273634008",
+    "nama": "YUSUF",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "16-03-1961",
+    "umur": "63",
+    "tinggi": "158",
+    "berat": "54.81",
+    "status": "200"
+  },
+  {
+    "id": 161,
+    "nokertas": 696,
+    "nik": "0001275734125",
+    "nama": "SUPRIYANTO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "12-07-1978",
+    "umur": "46",
+    "tinggi": "175",
+    "berat": "67.5",
+    "status": "200"
+  },
+  {
+    "id": 162,
+    "nokertas": 697,
+    "nik": "0001275733888",
+    "status": "404"
+  },
+  {
+    "id": 163,
+    "nokertas": 698,
+    "nik": "0001275734564",
+    "status": "404"
+  },
+  {
+    "id": 164,
+    "nokertas": 699,
+    "nik": "0001275734439",
+    "status": "404"
+  },
+  {
+    "id": 165,
+    "nokertas": 700,
+    "nik": "0001282982534",
+    "nama": "ROCHMAD FITRI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "04-08-1981",
+    "umur": "43",
+    "tinggi": "175",
+    "berat": "67.5",
+    "status": "200"
+  },
+  {
+    "id": 166,
+    "nokertas": 701,
+    "nik": "0001282982949",
+    "nama": "JULAIKHA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "10-05-1985",
+    "umur": "39",
+    "tinggi": "164",
+    "berat": "54.4",
+    "status": "200"
+  },
+  {
+    "id": 167,
+    "nokertas": 702,
+    "nik": "0002615879002",
+    "nama": "MUKHAMAD BUDI PRASETYO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "13-06-2014",
+    "umur": "10",
+    "tinggi": "117",
+    "berat": "13.77",
+    "status": "200"
+  },
+  {
+    "id": 168,
+    "nokertas": 703,
+    "nik": "0001282983805",
+    "nama": "OKTA LIVIA RAMADHANI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "12-10-2006",
+    "umur": "17",
+    "tinggi": "163",
+    "berat": "53.55",
+    "status": "200"
+  },
+  {
+    "id": 169,
+    "nokertas": 704,
+    "nik": "0001284164112",
+    "status": "404"
+  },
+  {
+    "id": 170,
+    "nokertas": 705,
+    "nik": "0001285400374",
+    "status": "404"
+  },
+  {
+    "id": 171,
+    "nokertas": 706,
+    "nik": "0001294674186",
+    "status": "404"
+  },
+  {
+    "id": 172,
+    "nokertas": 707,
+    "nik": "0002328522928",
+    "nama": "ASMAUL FAUJIAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "03-11-2002",
+    "umur": "21",
+    "tinggi": "166",
+    "berat": "56.1",
+    "status": "200"
+  },
+  {
+    "id": 173,
+    "nokertas": 708,
+    "nik": "0002328523402",
+    "status": "404"
+  },
+  {
+    "id": 174,
+    "nokertas": 709,
+    "nik": "0001299934844",
+    "nama": "KATMINAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "19-05-1955",
+    "umur": "69",
+    "tinggi": "159",
+    "berat": "52.66",
+    "status": "200"
+  },
+  {
+    "id": 175,
+    "nokertas": 710,
+    "nik": "0001300390978",
+    "status": "404"
+  },
+  {
+    "id": 176,
+    "nokertas": 711,
+    "nik": "0001309146377",
+    "nama": "MOCHAMMAD HIDAYATULLOH",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "04-12-2011",
+    "umur": "12",
+    "tinggi": "115",
+    "berat": "12.15",
+    "status": "200"
+  },
+  {
+    "id": 177,
+    "nokertas": 712,
+    "nik": "0001315990978",
+    "nama": "MARIYAMAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "03-02-1977",
+    "umur": "47",
+    "tinggi": "162",
+    "berat": "52.7",
+    "status": "200"
+  },
+  {
+    "id": 178,
+    "nokertas": 713,
+    "nik": "0001323059995",
+    "status": "404"
+  },
+  {
+    "id": 180,
+    "nokertas": 715,
+    "nik": "0001899891742",
+    "nama": "BUADI M SOBAR",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-01-1955",
+    "umur": "69",
+    "tinggi": "155",
+    "berat": "51.98",
+    "status": "200"
+  },
+  {
+    "id": 181,
+    "nokertas": 716,
+    "nik": "0001384833497",
+    "status": "404"
+  },
+  {
+    "id": 182,
+    "nokertas": 717,
+    "nik": "0001388055958",
+    "nama": "ABDULLAH ASSWAN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "11-08-1964",
+    "umur": "60",
+    "tinggi": "169",
+    "berat": "65.21",
+    "status": "200"
+  },
+  {
+    "id": 183,
+    "nokertas": 718,
+    "nik": "0001388056972",
+    "nama": "DIAN ANGGRAENY",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "07-11-1993",
+    "umur": "30",
+    "tinggi": "156",
+    "berat": "47.6",
+    "status": "200"
+  },
+  {
+    "id": 185,
+    "nokertas": 720,
+    "nik": "0001402520567",
+    "status": "404"
+  },
+  {
+    "id": 186,
+    "nokertas": 721,
+    "nik": "0001402520578",
+    "nama": "KURNIA INAYATI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-01-1984",
+    "umur": "40",
+    "tinggi": "158",
+    "berat": "49.3",
+    "status": "200"
+  },
+  {
+    "id": 187,
+    "nokertas": 722,
+    "nik": "0001402520589",
+    "nama": "MUKHAMMAD RAIHAN PRATAMA",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "16-06-2013",
+    "umur": "11",
+    "tinggi": "121",
+    "berat": "17.01",
+    "status": "200"
+  },
+  {
+    "id": 188,
+    "nokertas": 723,
+    "nik": "0001423822926",
+    "nama": "KOHAR",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "28-08-1991",
+    "umur": "33",
+    "tinggi": "171",
+    "berat": "63.9",
+    "status": "200"
+  },
+  {
+    "id": 189,
+    "nokertas": 724,
+    "nik": "0001425152035",
+    "nama": "KEVIN SUGESTIANTO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "04-02-2011",
+    "umur": "13",
+    "tinggi": "124",
+    "berat": "19.44",
+    "status": "200"
+  },
+  {
+    "id": 190,
+    "nokertas": 725,
+    "nik": "0002773650879",
+    "nama": "SUGIARTI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "30-12-1983",
+    "umur": "40",
+    "tinggi": "165",
+    "berat": "55.25",
+    "status": "200"
+  },
+  {
+    "id": 192,
+    "nokertas": 727,
+    "nik": "0001427403429",
+    "nama": "NINO LEGISTIANTO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "07-06-2013",
+    "umur": "11",
+    "tinggi": "116",
+    "berat": "12.96",
+    "status": "200"
+  },
+  {
+    "id": 193,
+    "nokertas": 728,
+    "nik": "0002057180286",
+    "nama": "WARAS SUJONO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "12-04-1959",
+    "umur": "65",
+    "tinggi": "163",
+    "berat": "59.54",
+    "status": "200"
+  },
+  {
+    "id": 194,
+    "nokertas": 729,
+    "nik": "0001440338927",
+    "nama": "ALAN YOGA PRATAMA",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "25-11-1997",
+    "umur": "26",
+    "tinggi": "167",
+    "berat": "60.3",
+    "status": "200"
+  },
+  {
+    "id": 195,
+    "nokertas": 730,
+    "nik": "0001450674786",
+    "nama": "DEWI FIRDAUSYA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "19-09-1999",
+    "umur": "25",
+    "tinggi": "164",
+    "berat": "54.4",
+    "status": "200"
+  },
+  {
+    "id": 196,
+    "nokertas": 731,
+    "nik": "0001539260829",
+    "nama": "SAIKHUNAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "28-06-1973",
+    "umur": "51",
+    "tinggi": "160",
+    "berat": "51",
+    "status": "200"
+  },
+  {
+    "id": 197,
+    "nokertas": 732,
+    "nik": "0001539261922",
+    "nama": "MUKHAMMAD MAULUDDIN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "26-08-1994",
+    "umur": "30",
+    "tinggi": "168",
+    "berat": "61.2",
+    "status": "200"
+  },
+  {
+    "id": 198,
+    "nokertas": 733,
+    "nik": "0001706726518",
+    "nama": "ABDUL KODIR",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "02-07-1971",
+    "umur": "53",
+    "tinggi": "166",
+    "berat": "59.4",
+    "status": "200"
+  },
+  {
+    "id": 199,
+    "nokertas": 734,
+    "nik": "0001706726529",
+    "nama": "SUNDARI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "15-06-1978",
+    "umur": "46",
+    "tinggi": "156",
+    "berat": "47.6",
+    "status": "200"
+  },
+  {
+    "id": 200,
+    "nokertas": 735,
+    "nik": "0001706726531",
+    "nama": "IVAN DWI FIRLANA",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-03-2007",
+    "umur": "17",
+    "tinggi": "170",
+    "berat": "63",
+    "status": "200"
+  },
+  {
+    "id": 201,
+    "nokertas": 736,
+    "nik": "0001716263673",
+    "status": "404"
+  },
+  {
+    "id": 202,
+    "nokertas": 737,
+    "nik": "0007176263684",
+    "status": "404"
+  },
+  {
+    "id": 203,
+    "nokertas": 738,
+    "nik": "0001775720845",
+    "nama": "ALYAH FAHRIZA MISBAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "18-06-1997",
+    "umur": "27",
+    "tinggi": "165",
+    "berat": "55.25",
+    "status": "200"
+  },
+  {
+    "id": 205,
+    "nokertas": 740,
+    "nik": "0001812191859",
+    "nama": "CHAYATI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "17-03-1945",
+    "umur": "79",
+    "tinggi": "158",
+    "berat": "51.77",
+    "status": "200"
+  },
+  {
+    "id": 206,
+    "nokertas": 741,
+    "nik": "0001814564665",
+    "nama": "MUHAMMAD DICKY BIMANTARA",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "20-04-1997",
+    "umur": "27",
+    "tinggi": "169",
+    "berat": "62.1",
+    "status": "200"
+  },
+  {
+    "id": 207,
+    "nokertas": 742,
+    "nik": "0001814568063",
+    "nama": "MOCHAMMAD AUFAR APRILIANO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "19-04-2013",
+    "umur": "11",
+    "tinggi": "118",
+    "berat": "14.58",
+    "status": "200"
+  },
+  {
+    "id": 208,
+    "nokertas": 743,
+    "nik": "0001814566858",
+    "nama": "YUDHA BAGUS HERLAMBANG",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "08-09-2000",
+    "umur": "24",
+    "tinggi": "168",
+    "berat": "61.2",
+    "status": "200"
+  },
+  {
+    "id": 209,
+    "nokertas": 744,
+    "nik": "0001830990576",
+    "nama": "KUSMIATI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "12-10-1980",
+    "umur": "43",
+    "tinggi": "161",
+    "berat": "51.85",
+    "status": "200"
+  },
+  {
+    "id": 210,
+    "nokertas": 745,
+    "nik": "0001830994097",
+    "nama": "FITRI MAYA SARI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "12-10-2010",
+    "umur": "13",
+    "tinggi": "123",
+    "berat": "17.6",
+    "status": "200"
+  },
+  {
+    "id": 211,
+    "nokertas": 746,
+    "nik": "0001831035824",
+    "nama": "SUPARTINI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "10-01-1954",
+    "umur": "70",
+    "tinggi": "160",
+    "berat": "53.55",
+    "status": "200"
+  },
+  {
+    "id": 212,
+    "nokertas": 747,
+    "nik": "0001854595822",
+    "nama": "ANDAYANI RETNOWATI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "24-10-1960",
+    "umur": "63",
+    "tinggi": "167",
+    "berat": "59.8",
+    "status": "200"
+  },
+  {
+    "id": 213,
+    "nokertas": 748,
+    "nik": "0001854591669",
+    "nama": "EKA INDRIYANI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-05-1985",
+    "umur": "39",
+    "tinggi": "158",
+    "berat": "49.3",
+    "status": "200"
+  },
+  {
+    "id": 214,
+    "nokertas": 749,
+    "nik": "0001870453427",
+    "status": "404"
+  },
+  {
+    "id": 215,
+    "nokertas": 750,
+    "nik": "0001870454079",
+    "status": "404"
+  },
+  {
+    "id": 216,
+    "nokertas": 751,
+    "nik": "0001877053555",
+    "status": "404"
+  },
+  {
+    "id": 217,
+    "nokertas": 752,
+    "nik": "0001877055671",
+    "status": "404"
+  },
+  {
+    "id": 218,
+    "nokertas": 753,
+    "nik": "0001877056424",
+    "status": "404"
+  },
+  {
+    "id": 219,
+    "nokertas": 754,
+    "nik": "0001878621671",
+    "nama": "KASIAMI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "23-03-1957",
+    "umur": "67",
+    "tinggi": "158",
+    "berat": "51.77",
+    "status": "200"
+  },
+  {
+    "id": 222,
+    "nokertas": 757,
+    "nik": "0001900620369",
+    "nama": "SRI HARIYANI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "",
+    "umur": "NaN",
+    "tinggi": "162",
+    "berat": "52.7",
+    "status": "200"
+  },
+  {
+    "id": 276,
+    "nokertas": 811,
+    "nik": "0002314785903",
+    "status": "404"
+  },
+  {
+    "id": 278,
+    "nokertas": 813,
+    "nik": "0002318323994",
+    "status": "404"
+  },
+  {
+    "id": 280,
+    "nokertas": 815,
+    "nik": "0002328664443",
+    "nama": "SUGIANTORO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "21-03-1957",
+    "umur": "67",
+    "tinggi": "157",
+    "berat": "53.87",
+    "status": "200"
+  },
+  {
+    "id": 281,
+    "nokertas": 816,
+    "nik": "0002328664869",
+    "nama": "YUSMANTO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "05-05-1965",
+    "umur": "59",
+    "tinggi": "170",
+    "berat": "63",
+    "status": "200"
+  },
+  {
+    "id": 282,
+    "nokertas": 817,
+    "nik": "0002419951386",
+    "nama": "TOYIB",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "09-10-1950",
+    "umur": "74",
+    "tinggi": "170",
+    "berat": "66.15",
+    "status": "200"
+  },
+  {
+    "id": 284,
+    "nokertas": 819,
+    "nik": "0002428448679",
+    "nama": "GATOT SUPRIANTO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "19-12-1964",
+    "umur": "59",
+    "tinggi": "175",
+    "berat": "67.5",
+    "status": "200"
+  },
+  {
+    "id": 285,
+    "nokertas": 820,
+    "nik": "0002428449333",
+    "status": "404"
+  },
+  {
+    "id": 287,
+    "nokertas": 822,
+    "nik": "0002433993063",
+    "nama": "SATIK",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "20-06-1966",
+    "umur": "58",
+    "tinggi": "159",
+    "berat": "50.15",
+    "status": "200"
+  },
+  {
+    "id": 310,
+    "nokertas": 845,
+    "nik": "0002584594541",
+    "nama": "PUTRI KURNIA MAULITA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "24-05-2003",
+    "umur": "21",
+    "tinggi": "162",
+    "berat": "52.7",
+    "status": "200"
+  },
+  {
+    "id": 311,
+    "nokertas": 846,
+    "nik": "0002584594552",
+    "nama": "WARDATUL AWALIYAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "26-03-1982",
+    "umur": "42",
+    "tinggi": "163",
+    "berat": "53.55",
+    "status": "200"
+  },
+  {
+    "id": 312,
+    "nokertas": 847,
+    "nik": "0002593789716",
+    "nama": "SALWA NAUFA FAKHRIYAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "08-12-2011",
+    "umur": "12",
+    "tinggi": "129",
+    "berat": "22.19",
+    "status": "200"
+  },
+  {
+    "id": 313,
+    "nokertas": 848,
+    "nik": "0002584842085",
+    "nama": "KHOIROTUL NISAK",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-05-2008",
+    "umur": "16",
+    "tinggi": "162",
+    "berat": "52.7",
+    "status": "200"
+  },
+  {
+    "id": 314,
+    "nokertas": 849,
+    "nik": "0002584850995",
+    "nama": "IRA DATUSOLIKHA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "06-10-2007",
+    "umur": "17",
+    "tinggi": "159",
+    "berat": "50.15",
+    "status": "200"
+  },
+  {
+    "id": 315,
+    "nokertas": 850,
+    "nik": "0002584860489",
+    "nama": "SINTA NURIYA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "10-12-2011",
+    "umur": "12",
+    "tinggi": "117",
+    "berat": "13.01",
+    "status": "200"
+  },
+  {
+    "id": 316,
+    "nokertas": 851,
+    "nik": "0002584860491",
+    "nama": "NAOMI DEWI UTARI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "15-01-1984",
+    "umur": "40",
+    "tinggi": "158",
+    "berat": "49.3",
+    "status": "200"
+  },
+  {
+    "id": 317,
+    "nokertas": 852,
+    "nik": "0002588936488",
+    "nama": "ANNONA SASTRA LINGGA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "08-01-2011",
+    "umur": "13",
+    "tinggi": "129",
+    "berat": "22.19",
+    "status": "200"
+  },
+  {
+    "id": 318,
+    "nokertas": 853,
+    "nik": "0002585023255",
+    "nama": "SAHRI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "13-02-1981",
+    "umur": "43",
+    "tinggi": "172",
+    "berat": "64.8",
+    "status": "200"
+  },
+  {
+    "id": 319,
+    "nokertas": 854,
+    "nik": "0002589205239",
+    "nama": "SITI INDAHYANI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "09-01-1983",
+    "umur": "41",
+    "tinggi": "164",
+    "berat": "54.4",
+    "status": "200"
+  },
+  {
+    "id": 320,
+    "nokertas": 855,
+    "nik": "0002631186009",
+    "nama": "NURUL IZZAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "25-03-2008",
+    "umur": "16",
+    "tinggi": "163",
+    "berat": "53.55",
+    "status": "200"
+  },
+  {
+    "id": 321,
+    "nokertas": 856,
+    "nik": "0002637890379",
+    "nama": "AL FARIZI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "10-04-2002",
+    "umur": "22",
+    "tinggi": "165",
+    "berat": "58.5",
+    "status": "200"
+  },
+  {
+    "id": 323,
+    "nokertas": 858,
+    "nik": "0002604640274",
+    "nama": "IVO KARUNIA PUTRA",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "10-10-1999",
+    "umur": "25",
+    "tinggi": "165",
+    "berat": "58.5",
+    "status": "200"
+  },
+  {
+    "id": 324,
+    "nokertas": 859,
+    "nik": "0002585074037",
+    "status": "404"
+  },
+  {
+    "id": 325,
+    "nokertas": 860,
+    "nik": "0002633721366",
+    "nama": "KHUSEN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "03-10-1982",
+    "umur": "42",
+    "tinggi": "175",
+    "berat": "67.5",
+    "status": "200"
+  },
+  {
+    "id": 326,
+    "nokertas": 861,
+    "nik": "0002585591379",
+    "nama": "SRI NARULITA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "11-11-1980",
+    "umur": "43",
+    "tinggi": "163",
+    "berat": "53.55",
+    "status": "200"
+  },
+  {
+    "id": 327,
+    "nokertas": 862,
+    "nik": "0002595056905",
+    "nama": "FRINZA MEYZALUNA ARQULETA QUEEN",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "25-04-2009",
+    "umur": "15",
+    "tinggi": "116",
+    "berat": "12.24",
+    "status": "200"
+  },
+  {
+    "id": 328,
+    "nokertas": 863,
+    "nik": "0002585591414",
+    "nama": "TIWUK YUNI SETYA ARINI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "17-06-1968",
+    "umur": "56",
+    "tinggi": "167",
+    "berat": "56.95",
+    "status": "200"
+  },
+  {
+    "id": 329,
+    "nokertas": 864,
+    "nik": "0002630644391",
+    "nama": "ELVINA APRILIA LESTARI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "05-04-2004",
+    "umur": "20",
+    "tinggi": "159",
+    "berat": "50.15",
+    "status": "200"
+  },
+  {
+    "id": 330,
+    "nokertas": 865,
+    "nik": "0002585668522",
+    "nama": "JUMROTI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "02-04-1941",
+    "umur": "83",
+    "tinggi": "164",
+    "berat": "57.12",
+    "status": "200"
+  },
+  {
+    "id": 331,
+    "nokertas": 866,
+    "nik": "0002585892734",
+    "nama": "DJAMILAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "15-05-1970",
+    "umur": "54",
+    "tinggi": "157",
+    "berat": "48.45",
+    "status": "200"
+  },
+  {
+    "id": 332,
+    "nokertas": 867,
+    "nik": "0002585938004",
+    "nama": "MOCHAMMAD YUSUF",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "28-06-2006",
+    "umur": "18",
+    "tinggi": "166",
+    "berat": "59.4",
+    "status": "200"
+  },
+  {
+    "id": 333,
+    "nokertas": 868,
+    "nik": "0002587787728",
+    "nama": "CHOLILI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "03-09-1973",
+    "umur": "51",
+    "tinggi": "173",
+    "berat": "65.7",
+    "status": "200"
+  },
+  {
+    "id": 334,
+    "nokertas": 869,
+    "nik": "0002630013682",
+    "status": "404"
+  },
+  {
+    "id": 335,
+    "nokertas": 870,
+    "nik": "0002584001913",
+    "status": "404"
+  },
+  {
+    "id": 336,
+    "nokertas": 871,
+    "nik": "0002639392907",
+    "status": "404"
+  },
+  {
+    "id": "",
+    "nokertas": "",
+    "nik": "0002637329343",
+    "nama": "CHILMATUL BARO",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "13-12-1999",
+    "umur": "24",
+    "tinggi": "163",
+    "berat": "53.55",
+    "status": "200"
+  },
+  {
+    "id": "",
+    "nokertas": "",
+    "nik": "0002635989636",
+    "nama": "CHILMATUL BARO",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "13-12-1999",
+    "umur": "24",
+    "tinggi": "163",
+    "berat": "53.55",
+    "status": "404"
+  },
+  {
+    "id": 346,
+    "nokertas": 881,
+    "nik": "0002588554315",
+    "nama": "GOESNAIDI ADAM",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "08-11-1997",
+    "umur": "26",
+    "tinggi": "166",
+    "berat": "59.4",
+    "status": "200"
+  },
+  {
+    "id": 347,
+    "nokertas": 882,
+    "nik": "0002598340757",
+    "nama": "YENI IKAWATI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "05-05-1997",
+    "umur": "27",
+    "tinggi": "158",
+    "berat": "49.3",
+    "status": "200"
+  },
+  {
+    "id": 348,
+    "nokertas": 883,
+    "nik": "0002589205252",
+    "nama": "MACHMUDA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "19-11-1971",
+    "umur": "52",
+    "tinggi": "164",
+    "berat": "54.4",
+    "status": "200"
+  },
+  {
+    "id": 349,
+    "nokertas": 884,
+    "nik": "0002590404085",
+    "nama": "MOCH ALI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "10-08-1966",
+    "umur": "58",
+    "tinggi": "169",
+    "berat": "62.1",
+    "status": "200"
+  },
+  {
+    "id": 350,
+    "nokertas": 885,
+    "nik": "0002591087231",
+    "nama": "MUKHAMAD ABDILLAH NUR AZIZ",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "14-11-2009",
+    "umur": "14",
+    "tinggi": "116",
+    "berat": "12.96",
+    "status": "200"
+  },
+  {
+    "id": 351,
+    "nokertas": 886,
+    "nik": "0002591462621",
+    "nama": "ENI SULISTIYANI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "22-02-1970",
+    "umur": "54",
+    "tinggi": "165",
+    "berat": "55.25",
+    "status": "200"
+  },
+  {
+    "id": 352,
+    "nokertas": 887,
+    "nik": "0002593789828",
+    "status": "404"
+  },
+  {
+    "id": 353,
+    "nokertas": 888,
+    "nik": "0002594525725",
+    "status": "404"
+  },
+  {
+    "id": 354,
+    "nokertas": 889,
+    "nik": "0002594664202",
+    "nama": "MOCHAMAD YUSRON AFFANDI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "16-03-2003",
+    "umur": "21",
+    "tinggi": "165",
+    "berat": "58.5",
+    "status": "200"
+  },
+  {
+    "id": 355,
+    "nokertas": 890,
+    "nik": "0002594664213",
+    "nama": "MUKHAMAD DAFA ANDRYANSYAH",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "16-03-2008",
+    "umur": "16",
+    "tinggi": "169",
+    "berat": "62.1",
+    "status": "200"
+  },
+  {
+    "id": 356,
+    "nokertas": 891,
+    "nik": "0002595056916",
+    "nama": "TAMUNA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "30-06-1965",
+    "umur": "59",
+    "tinggi": "167",
+    "berat": "56.95",
+    "status": "200"
+  },
+  {
+    "id": 358,
+    "nokertas": 893,
+    "nik": "0002595628541",
+    "nama": "EKO PRASETIYO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "22-08-1975",
+    "umur": "49",
+    "tinggi": "174",
+    "berat": "66.6",
+    "status": "200"
+  },
+  {
+    "id": 359,
+    "nokertas": 894,
+    "nik": "0002596982477",
+    "nama": "ALIFA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "05-06-1978",
+    "umur": "46",
+    "tinggi": "159",
+    "berat": "50.15",
+    "status": "200"
+  },
+  {
+    "id": 360,
+    "nokertas": 895,
+    "nik": "0002597324106",
+    "nama": "ZIHAN SAFIRA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "27-04-2011",
+    "umur": "13",
+    "tinggi": "116",
+    "berat": "12.24",
+    "status": "200"
+  },
+  {
+    "id": 361,
+    "nokertas": 896,
+    "nik": "0002598233128",
+    "nama": "M MUCHIBUR ROCHMAN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "28-11-2003",
+    "umur": "20",
+    "tinggi": "166",
+    "berat": "59.4",
+    "status": "200"
+  },
+  {
+    "id": 362,
+    "nokertas": 897,
+    "nik": "0002598534797",
+    "nama": "YUNI SULISTIYO RINI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "09-06-1971",
+    "umur": "53",
+    "tinggi": "165",
+    "berat": "55.25",
+    "status": "200"
+  },
+  {
+    "id": 363,
+    "nokertas": 898,
+    "nik": "0002599005576",
+    "nama": "LULUK KHOIDAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "10-07-1975",
+    "umur": "49",
+    "tinggi": "159",
+    "berat": "50.15",
+    "status": "200"
+  },
+  {
+    "id": 364,
+    "nokertas": 899,
+    "nik": "0002595297161",
+    "nama": "AISYAH SHAKILA SABRINA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "15-09-2011",
+    "umur": "13",
+    "tinggi": "121",
+    "berat": "16.07",
+    "status": "200"
+  },
+  {
+    "id": 365,
+    "nokertas": 900,
+    "nik": "0002599161985",
+    "nama": "YUNITA VIRNANDA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "04-07-2006",
+    "umur": "18",
+    "tinggi": "163",
+    "berat": "53.55",
+    "status": "200"
+  },
+  {
+    "id": 367,
+    "nokertas": 902,
+    "nik": "0002596982703",
+    "nama": "JUWARIYAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "21-12-1946",
+    "umur": "77",
+    "tinggi": "163",
+    "berat": "56.23",
+    "status": "200"
+  },
+  {
+    "id": 368,
+    "nokertas": 903,
+    "nik": "0002600648796",
+    "nama": "NUR ASIYAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "16-03-1976",
+    "umur": "48",
+    "tinggi": "163",
+    "berat": "53.55",
+    "status": "200"
+  },
+  {
+    "id": 369,
+    "nokertas": 904,
+    "nik": "0002596983513",
+    "nama": "MOH FAHMI AL FADIZI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "12-04-2011",
+    "umur": "13",
+    "tinggi": "120",
+    "berat": "16.2",
+    "status": "200"
+  },
+  {
+    "id": 370,
+    "nokertas": 905,
+    "nik": "0002639448011",
+    "nama": "MOCH FERI ALFAJRI SODIKIN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "18-06-2005",
+    "umur": "19",
+    "tinggi": "169",
+    "berat": "62.1",
+    "status": "200"
+  },
+  {
+    "id": 371,
+    "nokertas": 906,
+    "nik": "0002600648842",
+    "nama": "RIZKA DWI AMILIA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "24-03-2006",
+    "umur": "18",
+    "tinggi": "160",
+    "berat": "51",
+    "status": "200"
+  },
+  {
+    "id": 372,
+    "nokertas": 907,
+    "nik": "0002600648875",
+    "nama": "AROFA DWI CAHYANI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "31-08-1986",
+    "umur": "38",
+    "tinggi": "166",
+    "berat": "56.1",
+    "status": "200"
+  },
+  {
+    "id": 373,
+    "nokertas": 908,
+    "nik": "0002608699836",
+    "nama": "DWI AISYAH PUTRI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "09-12-2014",
+    "umur": "9",
+    "tinggi": "116",
+    "berat": "12.24",
+    "status": "200"
+  },
+  {
+    "id": 374,
+    "nokertas": 909,
+    "nik": "0002605565823",
+    "nama": "DEWI ALFIATUSSOLICHA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "16-05-2010",
+    "umur": "14",
+    "tinggi": "127",
+    "berat": "20.66",
+    "status": "200"
+  },
+  {
+    "id": 375,
+    "nokertas": 910,
+    "nik": "0002600798589",
+    "nama": "HUSNUL KHOTIMAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "05-03-1991",
+    "umur": "33",
+    "tinggi": "163",
+    "berat": "53.55",
+    "status": "200"
+  },
+  {
+    "id": 376,
+    "nokertas": 911,
+    "nik": "0002607134387",
+    "nama": "M. ROUF ARDIANSYAH",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "09-10-2005",
+    "umur": "19",
+    "tinggi": "171",
+    "berat": "63.9",
+    "status": "200"
+  },
+  {
+    "id": 377,
+    "nokertas": 912,
+    "nik": "0002594437942",
+    "nama": "M SAHRIL AKBAR",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "22-09-2008",
+    "umur": "16",
+    "tinggi": "175",
+    "berat": "67.5",
+    "status": "200"
+  },
+  {
+    "id": 378,
+    "nokertas": 913,
+    "nik": "0002608047279",
+    "nama": "MOCHAMAD DANI MAULANA",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "21-04-2007",
+    "umur": "17",
+    "tinggi": "166",
+    "berat": "59.4",
+    "status": "200"
+  },
+  {
+    "id": 366,
+    "nokertas": 901,
+    "nik": "0002600648763",
+    "status": "404"
+  },
+  {
+    "id": 379,
+    "nokertas": 914,
+    "nik": "0002608240318",
+    "status": "404"
+  },
+  {
+    "id": 380,
+    "nokertas": 915,
+    "nik": "0002608336989",
+    "status": "404"
+  },
+  {
+    "id": 381,
+    "nokertas": 916,
+    "nik": "0002606343322",
+    "status": "404"
+  },
+  {
+    "id": 382,
+    "nokertas": 917,
+    "nik": "0002608672239",
+    "status": "404"
+  },
+  {
+    "id": 383,
+    "nokertas": 918,
+    "nik": "0002598534999\t",
+    "status": "404"
+  },
+  {
+    "id": 384,
+    "nokertas": 919,
+    "nik": "0002608750787",
+    "status": "404"
+  },
+  {
+    "id": 386,
+    "nokertas": 921,
+    "nik": "0002598534843",
+    "status": "404"
+  },
+  {
+    "id": 387,
+    "nokertas": 922,
+    "nik": "0002608751169",
+    "status": "404"
+  },
+  {
+    "id": 388,
+    "nokertas": 923,
+    "nik": "0002630286347",
+    "status": "404"
+  },
+  {
+    "id": 389,
+    "nokertas": 924,
+    "nik": "0002608751643",
+    "status": "404"
+  },
+  {
+    "id": 390,
+    "nokertas": 925,
+    "nik": "0002608751654",
+    "status": "404"
+  },
+  {
+    "id": 391,
+    "nokertas": 926,
+    "nik": "0002588936501",
+    "status": "404"
+  },
+  {
+    "id": 392,
+    "nokertas": 927,
+    "nik": "0002608897509",
+    "status": "404"
+  },
+  {
+    "id": 393,
+    "nokertas": 928,
+    "nik": "0002632159719",
+    "status": "404"
+  },
+  {
+    "id": 394,
+    "nokertas": 929,
+    "nik": "0002608957585",
+    "status": "404"
+  },
+  {
+    "id": 395,
+    "nokertas": 930,
+    "nik": "0002609750507",
+    "status": "404"
+  },
+  {
+    "id": 396,
+    "nokertas": 931,
+    "nik": "0002609750553",
+    "status": "404"
+  },
+  {
+    "id": 397,
+    "nokertas": 932,
+    "nik": "0002607847086",
+    "status": "404"
+  },
+  {
+    "id": 398,
+    "nokertas": 933,
+    "nik": "0002609851465",
+    "status": "404"
+  },
+  {
+    "id": 399,
+    "nokertas": 934,
+    "nik": "0002598403127",
+    "status": "404"
+  },
+  {
+    "id": 400,
+    "nokertas": 935,
+    "nik": "0002610580127",
+    "status": "404"
+  },
+  {
+    "id": 401,
+    "nokertas": 936,
+    "nik": "0002612942526",
+    "status": "404"
+  },
+  {
+    "id": 402,
+    "nokertas": 937,
+    "nik": "0002612942932",
+    "status": "404"
+  },
+  {
+    "id": 403,
+    "nokertas": 938,
+    "nik": "0002612944023",
+    "status": "404"
+  },
+  {
+    "id": 404,
+    "nokertas": 939,
+    "nik": "0002612943505",
+    "status": "404"
+  },
+  {
+    "id": 405,
+    "nokertas": 940,
+    "nik": "0002612944708",
+    "status": "404"
+  },
+  {
+    "id": 406,
+    "nokertas": 941,
+    "nik": "0002627249747",
+    "status": "404"
+  },
+  {
+    "id": 407,
+    "nokertas": 942,
+    "nik": "0002627290001",
+    "status": "404"
+  },
+  {
+    "id": 408,
+    "nokertas": 943,
+    "nik": "0002628351483",
+    "status": "404"
+  },
+  {
+    "id": 409,
+    "nokertas": 944,
+    "nik": "0002637890357",
+    "status": "404"
+  },
+  {
+    "id": 410,
+    "nokertas": 945,
+    "nik": "0002628709784",
+    "status": "404"
+  },
+  {
+    "id": 411,
+    "nokertas": 946,
+    "nik": "0002628813508",
+    "status": "404"
+  },
+  {
+    "id": 412,
+    "nokertas": 947,
+    "nik": "0002629116718",
+    "status": "404"
+  },
+  {
+    "id": 413,
+    "nokertas": 948,
+    "nik": "0002629116729",
+    "status": "404"
+  },
+  {
+    "id": 414,
+    "nokertas": 949,
+    "nik": "0002630013658",
+    "status": "404"
+  },
+  {
+    "id": 415,
+    "nokertas": 950,
+    "nik": "0002593789751",
+    "status": "404"
+  },
+  {
+    "id": 416,
+    "nokertas": 951,
+    "nik": "0002639009248",
+    "status": "404"
+  },
+  {
+    "id": 417,
+    "nokertas": 952,
+    "nik": "0002629116764",
+    "status": "404"
+  },
+  {
+    "id": 418,
+    "nokertas": 953,
+    "nik": "0002629171631",
+    "status": "404"
+  },
+  {
+    "id": 419,
+    "nokertas": 954,
+    "nik": "0002605795637",
+    "status": "404"
+  },
+  {
+    "id": 420,
+    "nokertas": 955,
+    "nik": "0002629871919",
+    "status": "404"
+  },
+  {
+    "id": 421,
+    "nokertas": 956,
+    "nik": "0002629975476",
+    "status": "404"
+  },
+  {
+    "id": 422,
+    "nokertas": 957,
+    "nik": "0002630013636",
+    "status": "404"
+  },
+  {
+    "id": 423,
+    "nokertas": 958,
+    "nik": "0002608047101",
+    "status": "404"
+  },
+  {
+    "id": 424,
+    "nokertas": 959,
+    "nik": "0002608751608",
+    "status": "404"
+  },
+  {
+    "id": 425,
+    "nokertas": 960,
+    "nik": "0002630013704",
+    "status": "404"
+  },
+  {
+    "id": 426,
+    "nokertas": 961,
+    "nik": "0002630644389",
+    "status": "404"
+  },
+  {
+    "id": 427,
+    "nokertas": 962,
+    "nik": "0002631866995",
+    "status": "404"
+  },
+  {
+    "id": 428,
+    "nokertas": 963,
+    "nik": "0002585892723",
+    "status": "404"
+  },
+  {
+    "id": 429,
+    "nokertas": 964,
+    "nik": "0002632414667",
+    "status": "404"
+  },
+  {
+    "id": 430,
+    "nokertas": 965,
+    "nik": "0002633721355",
+    "status": "404"
+  },
+  {
+    "id": 431,
+    "nokertas": 966,
+    "nik": "0002633721377",
+    "status": "404"
+  },
+  {
+    "id": 432,
+    "nokertas": 967,
+    "nik": "0002639314607",
+    "status": "404"
+  },
+  {
+    "id": 433,
+    "nokertas": 968,
+    "nik": "0002594437683",
+    "status": "404"
+  },
+  {
+    "id": 434,
+    "nokertas": 969,
+    "nik": "0002633745879",
+    "status": "404"
+  },
+  {
+    "id": 435,
+    "nokertas": 970,
+    "nik": "0002633746173",
+    "status": "404"
+  },
+  {
+    "id": 436,
+    "nokertas": 971,
+    "nik": "0002606607922",
+    "status": "404"
+  },
+  {
+    "id": 437,
+    "nokertas": 972,
+    "nik": "0002633746184",
+    "status": "404"
+  },
+  {
+    "id": 438,
+    "nokertas": 973,
+    "nik": "0002636030338",
+    "status": "404"
+  },
+  {
+    "id": 439,
+    "nokertas": 974,
+    "nik": "0002634448555",
+    "status": "404"
+  },
+  {
+    "id": 440,
+    "nokertas": 975,
+    "nik": "0002634738131",
+    "status": "404"
+  },
+  {
+    "id": 441,
+    "nokertas": 976,
+    "nik": "0002635105667",
+    "status": "404"
+  },
+  {
+    "id": 442,
+    "nokertas": 977,
+    "nik": "0002635327809",
+    "status": "404"
+  },
+  {
+    "id": 443,
+    "nokertas": 978,
+    "nik": "0002595647913",
+    "status": "404"
+  },
+  {
+    "id": 444,
+    "nokertas": 979,
+    "nik": "0002635682095",
+    "status": "404"
+  },
+  {
+    "id": 446,
+    "nokertas": 981,
+    "nik": "0002636369381",
+    "status": "404"
+  },
+  {
+    "id": 447,
+    "nokertas": 982,
+    "nik": "0002629871864",
+    "status": "404"
+  },
+  {
+    "id": 448,
+    "nokertas": 983,
+    "nik": "0002635682117",
+    "status": "404"
+  },
+  {
+    "id": 449,
+    "nokertas": 984,
+    "nik": "0002597323972",
+    "status": "404"
+  },
+  {
+    "id": 450,
+    "nokertas": 985,
+    "nik": "0002637329321",
+    "status": "404"
+  },
+  {
+    "id": 451,
+    "nokertas": 986,
+    "nik": "0002629631237",
+    "status": "404"
+  },
+  {
+    "id": 452,
+    "nokertas": 987,
+    "nik": "0002637525622",
+    "status": "404"
+  },
+  {
+    "id": 453,
+    "nokertas": 988,
+    "nik": "0002637705587",
+    "status": "404"
+  },
+  {
+    "id": 454,
+    "nokertas": 989,
+    "nik": "0002638645277",
+    "status": "404"
+  },
+  {
+    "id": 455,
+    "nokertas": 990,
+    "nik": "0002639009226",
+    "status": "404"
+  },
+  {
+    "id": 456,
+    "nokertas": 991,
+    "nik": "0002589205206",
+    "status": "404"
+  },
+  {
+    "id": 457,
+    "nokertas": 992,
+    "nik": "0002639392852",
+    "status": "404"
+  },
+  {
+    "id": 458,
+    "nokertas": 993,
+    "nik": "0002639448022",
+    "status": "404"
+  },
+  {
+    "id": 459,
+    "nokertas": 994,
+    "nik": "0002640062619",
+    "status": "404"
+  },
+  {
+    "id": 460,
+    "nokertas": 995,
+    "nik": "0002640063071",
+    "status": "404"
+  },
+  {
+    "id": 461,
+    "nokertas": 996,
+    "nik": "0002762827604",
+    "status": "404"
+  },
+  {
+    "id": 462,
+    "nokertas": 997,
+    "nik": "0002763712607",
+    "status": "404"
+  },
+  {
+    "id": 463,
+    "nokertas": 998,
+    "nik": "0002808741723",
+    "status": "404"
+  },
+  {
+    "id": 464,
+    "nokertas": 999,
+    "nik": "0002808741734",
+    "status": "404"
+  },
+  {
+    "id": 465,
+    "nokertas": 1000,
+    "nik": "0002808741745",
+    "status": "404"
+  },
+  {
+    "id": 466,
+    "nokertas": 1001,
+    "nik": "0002808741756",
+    "status": "404"
+  },
+  {
+    "id": 467,
+    "nokertas": 1002,
+    "nik": "0002808741767",
+    "status": "404"
+  },
+  {
+    "id": 468,
+    "nokertas": 1003,
+    "nik": "0002808741789",
+    "status": "404"
+  },
+  {
+    "id": 469,
+    "nokertas": 1004,
+    "nik": "0002808741824",
+    "status": "404"
+  },
+  {
+    "id": 470,
+    "nokertas": 1005,
+    "nik": "0002808741835",
+    "status": "404"
+  },
+  {
+    "id": 471,
+    "nokertas": 1006,
+    "nik": "0002808741846",
+    "status": "404"
+  },
+  {
+    "id": 472,
+    "nokertas": 1007,
+    "nik": "0002808741868",
+    "status": "200",
+    "nama": "HERMAN SUYANTO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "30-06-1958",
+    "umur": "66",
+    "tinggi": "159",
+    "berat": "55.76"
+  },
+  {
+    "id": 474,
+    "nokertas": 1009,
+    "nik": "0002808741881",
+    "status": "200",
+    "nama": "NUR KHASANAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "27-07-1932",
+    "umur": "92",
+    "tinggi": "155",
+    "berat": "49.09"
+  },
+  {
+    "id": 475,
+    "nokertas": 1010,
+    "nik": "0002808742151",
+    "status": "404"
+  },
+  {
+    "id": 476,
+    "nokertas": 1011,
+    "nik": "0002808742173",
+    "status": "404"
+  },
+  {
+    "id": 477,
+    "nokertas": 1012,
+    "nik": "0002808742184",
+    "status": "200",
+    "nama": "SUTADJI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "05-07-1949",
+    "umur": "75",
+    "tinggi": "160",
+    "berat": "56.7"
+  },
+  {
+    "id": 478,
+    "nokertas": 1013,
+    "nik": "0002808742228",
+    "status": "200",
+    "nama": "ENY MARYATI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "21-09-1961",
+    "umur": "63",
+    "tinggi": "155",
+    "berat": "49.09"
+  },
+  {
+    "id": 479,
+    "nokertas": 1014,
+    "nik": "0002808742239",
+    "status": "200",
+    "nama": "NANANG BUDI SANTOSO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "31-03-1983",
+    "umur": "41",
+    "tinggi": "166",
+    "berat": "59.4"
+  },
+  {
+    "id": 480,
+    "nokertas": 1015,
+    "nik": "0002808742241",
+    "status": "404"
+  },
+  {
+    "id": 481,
+    "nokertas": 1016,
+    "nik": "0002808742252",
+    "status": "404"
+  },
+  {
+    "id": 483,
+    "nokertas": 1018,
+    "nik": "0002808742386",
+    "status": "404"
+  },
+  {
+    "id": 486,
+    "nokertas": 1021,
+    "nik": "0002808742724",
+    "status": "404"
+  },
+  {
+    "id": 493,
+    "nokertas": 1028,
+    "nik": "0002808743297",
+    "status": "404"
+  },
+  {
+    "id": 494,
+    "nokertas": 1029,
+    "nik": "0002808743308",
+    "status": "404"
+  },
+  {
+    "id": 497,
+    "nokertas": 1032,
+    "nik": "0002808743567 ",
+    "status": "404"
+  },
+  {
+    "id": 499,
+    "nokertas": 1034,
+    "nik": "0002808743589 ",
+    "status": "404"
+  },
+  {
+    "id": 501,
+    "nokertas": 1036,
+    "nik": "0002808743602",
+    "status": "404"
+  },
+  {
+    "id": 504,
+    "nokertas": 1039,
+    "nik": "0002808743747",
+    "status": "404"
+  },
+  {
+    "id": 507,
+    "nokertas": 1042,
+    "nik": "0002808743782",
+    "status": "404"
+  },
+  {
+    "id": 508,
+    "nokertas": 1043,
+    "nik": "0002808743793",
+    "status": "404"
+  },
+  {
+    "id": 510,
+    "nokertas": 1045,
+    "nik": "0002808743883",
+    "status": "404"
+  },
+  {
+    "id": 511,
+    "nokertas": 1046,
+    "nik": "0002808743894",
+    "status": "404"
+  },
+  {
+    "id": 512,
+    "nokertas": 1047,
+    "nik": "0002808743949",
+    "status": "404"
+  },
+  {
+    "id": 517,
+    "nokertas": 1052,
+    "nik": "0002808744366",
+    "status": "404"
+  },
+  {
+    "id": 521,
+    "nokertas": 1056,
+    "nik": "0002808744614",
+    "status": "404"
+  },
+  {
+    "id": 522,
+    "nokertas": 1057,
+    "nik": "0002808744625",
+    "status": "404"
+  },
+  {
+    "id": 485,
+    "nokertas": 1020,
+    "nik": "0002808742713",
+    "status": "200",
+    "nama": "UDIYONO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "05-11-1958",
+    "umur": "65",
+    "tinggi": "165",
+    "berat": "61.43"
+  },
+  {
+    "id": 487,
+    "nokertas": 1022,
+    "nik": "0002808742781",
+    "status": "200",
+    "nama": "DJUMINGAN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "30-06-1955",
+    "umur": "69",
+    "tinggi": "159",
+    "berat": "55.76"
+  },
+  {
+    "id": 488,
+    "nokertas": 1023,
+    "nik": "0002808742792",
+    "status": "200",
+    "nama": "SUMIATI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "08-04-1960",
+    "umur": "64",
+    "tinggi": "165",
+    "berat": "58.01"
+  },
+  {
+    "id": 489,
+    "nokertas": 1024,
+    "nik": "0002808742893",
+    "status": "200",
+    "nama": "ALIVIA NUR INAYAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "12-11-2010",
+    "umur": "13",
+    "tinggi": "119",
+    "berat": "14.53"
+  },
+  {
+    "id": 490,
+    "nokertas": 1025,
+    "nik": "0002808743231",
+    "status": "200",
+    "nama": "ABD. GHOFUR",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "19-09-1973",
+    "umur": "51",
+    "tinggi": "171",
+    "berat": "63.9"
+  },
+  {
+    "id": 491,
+    "nokertas": 1026,
+    "nik": "0002808743242",
+    "status": "200",
+    "nama": "ANNIDA SAFITRI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "24-03-2006",
+    "umur": "18",
+    "tinggi": "167",
+    "berat": "56.95"
+  },
+  {
+    "id": 492,
+    "nokertas": 1027,
+    "nik": "0002808743286",
+    "status": "200",
+    "nama": "ULFIYAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "18-11-1982",
+    "umur": "41",
+    "tinggi": "167",
+    "berat": "56.95"
+  },
+  {
+    "id": 496,
+    "nokertas": 1031,
+    "nik": "0002808743444",
+    "status": "200",
+    "nama": "SLAMET JULI PUJIONO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "09-07-1982",
+    "umur": "42",
+    "tinggi": "170",
+    "berat": "63"
+  },
+  {
+    "id": 498,
+    "nokertas": 1033,
+    "nik": "0002808743556",
+    "status": "200",
+    "nama": "MOCHAMMAD ZUHDI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "11-09-1972",
+    "umur": "52",
+    "tinggi": "174",
+    "berat": "66.6"
+  },
+  {
+    "id": 500,
+    "nokertas": 1035,
+    "nik": "0002808743591",
+    "status": "200",
+    "nama": "NILA TAQRIMA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "09-09-2000",
+    "umur": "24",
+    "tinggi": "162",
+    "berat": "52.7"
+  },
+  {
+    "id": 502,
+    "nokertas": 1037,
+    "nik": "0002808743613",
+    "status": "200",
+    "nama": "CHASAN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "05-12-1971",
+    "umur": "52",
+    "tinggi": "169",
+    "berat": "62.1"
+  },
+  {
+    "id": 503,
+    "nokertas": 1038,
+    "nik": "0002808743736",
+    "status": "200",
+    "nama": "MOCH.FUAD",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "15-04-1970",
+    "umur": "54",
+    "tinggi": "174",
+    "berat": "66.6"
+  },
+  {
+    "id": 505,
+    "nokertas": 1040,
+    "nik": "0002808743758",
+    "status": "200",
+    "nama": "SISWATI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "20-07-1974",
+    "umur": "50",
+    "tinggi": "163",
+    "berat": "53.55"
+  },
+  {
+    "id": 506,
+    "nokertas": 1041,
+    "nik": "0002808743771",
+    "status": "200",
+    "nama": "MOCH. SOLEH",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "10-05-1960",
+    "umur": "64",
+    "tinggi": "162",
+    "berat": "58.59"
+  },
+  {
+    "id": 509,
+    "nokertas": 1044,
+    "nik": "0002808743804",
+    "status": "200",
+    "nama": "ALBUKHORI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "25-01-1997",
+    "umur": "27",
+    "tinggi": "167",
+    "berat": "60.3"
+  },
+  {
+    "id": 513,
+    "nokertas": 1048,
+    "nik": "0002808744164",
+    "status": "200",
+    "nama": "MOCH.SAIFUL CHALID ABIDIN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "14-02-2008",
+    "umur": "16",
+    "tinggi": "174",
+    "berat": "66.6"
+  },
+  {
+    "id": 515,
+    "nokertas": 1050,
+    "nik": "0002808744221",
+    "status": "200",
+    "nama": "KHUNAYAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "21-01-1963",
+    "umur": "61",
+    "tinggi": "157",
+    "berat": "50.87"
+  },
+  {
+    "id": 516,
+    "nokertas": 1051,
+    "nik": "0002808744254",
+    "status": "200",
+    "nama": "KARMILA KUSUMA HALIM",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "20-07-2013",
+    "umur": "11",
+    "tinggi": "116",
+    "berat": "12.24"
+  },
+  {
+    "id": 518,
+    "nokertas": 1053,
+    "nik": "0002808744377",
+    "status": "405"
+  },
+  {
+    "id": 519,
+    "nokertas": 1054,
+    "nik": "0002808744513",
+    "status": "200",
+    "nama": "ABDUL DJALIL",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "15-06-1966",
+    "umur": "58",
+    "tinggi": "175",
+    "berat": "67.5"
+  },
+  {
+    "id": 520,
+    "nokertas": 1055,
+    "nik": "0002808744524",
+    "status": "200",
+    "nama": "RIZA RAHMAWATI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "27-09-1999",
+    "umur": "25",
+    "tinggi": "160",
+    "berat": "51"
+  },
+  {
+    "id": 523,
+    "nokertas": 1058,
+    "nik": "0002808744636",
+    "status": "404"
+  },
+  {
+    "id": 524,
+    "nokertas": 1059,
+    "nik": "0002808744726 ",
+    "status": "200",
+    "nama": "HAMIDAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "31-12-1960",
+    "umur": "63",
+    "tinggi": "157",
+    "berat": "50.87"
+  },
+  {
+    "id": 525,
+    "nokertas": 1060,
+    "nik": "0002808744772",
+    "status": "404"
+  },
+  {
+    "id": 526,
+    "nokertas": 1061,
+    "nik": "0002808744783",
+    "status": "200",
+    "nama": "SUPARJIONO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "04-07-1967",
+    "umur": "57",
+    "tinggi": "168",
+    "berat": "61.2"
+  },
+  {
+    "id": 527,
+    "nokertas": 1062,
+    "nik": "0002808744794",
+    "status": "200",
+    "nama": "ANIK MURJIASTUTIK",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "12-04-1969",
+    "umur": "55",
+    "tinggi": "167",
+    "berat": "56.95"
+  },
+  {
+    "id": 528,
+    "nokertas": 1063,
+    "nik": "0002808744805",
+    "status": "404"
+  },
+  {
+    "id": 529,
+    "nokertas": 1064,
+    "nik": "0002808744895",
+    "status": "404"
+  },
+  {
+    "id": 530,
+    "nokertas": 1065,
+    "nik": "0002808744996",
+    "status": "200",
+    "nama": "NAILI FIRDA AKMALA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "09-09-2002",
+    "umur": "22",
+    "tinggi": "156",
+    "berat": "47.6"
+  },
+  {
+    "id": 531,
+    "nokertas": 1066,
+    "nik": "0002808745029",
+    "status": "404"
+  },
+  {
+    "id": 532,
+    "nokertas": 1067,
+    "nik": "0002808745121",
+    "status": "405"
+  },
+  {
+    "id": 533,
+    "nokertas": 1068,
+    "nik": "0002808745132",
+    "status": "404"
+  },
+  {
+    "id": 534,
+    "nokertas": 1069,
+    "nik": "0002808745266",
+    "status": "404"
+  },
+  {
+    "id": 535,
+    "nokertas": 1070,
+    "nik": "0002808745277",
+    "status": "200",
+    "nama": "HANIK STANIA YUNIARTI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "18-06-2003",
+    "umur": "21",
+    "tinggi": "167",
+    "berat": "56.95"
+  },
+  {
+    "id": 536,
+    "nokertas": 1071,
+    "nik": "0002808745367",
+    "status": "200",
+    "nama": "ADI SURIYONO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "14-10-1988",
+    "umur": "36",
+    "tinggi": "170",
+    "berat": "63"
+  },
+  {
+    "id": 537,
+    "nokertas": 1072,
+    "nik": "0002808745637",
+    "status": "404"
+  },
+  {
+    "id": 1,
+    "nokertas": 536,
+    "nik": "0000717720232",
+    "status": "404"
+  },
+  {
+    "id": 2,
+    "nokertas": 537,
+    "nik": "0000717721481",
+    "status": "200",
+    "nama": "LULUK MAULIDIYAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "23-08-1993",
+    "umur": "31",
+    "tinggi": "156",
+    "berat": "47.6"
+  },
+  {
+    "id": 3,
+    "nokertas": 538,
+    "nik": "0000717722695",
+    "status": "404"
+  },
+  {
+    "id": 4,
+    "nokertas": 539,
+    "nik": "0000717723641",
+    "status": "200",
+    "nama": "KETANG",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "19-09-1959",
+    "umur": "65",
+    "tinggi": "163",
+    "berat": "56.23"
+  },
+  {
+    "id": 5,
+    "nokertas": 540,
+    "nik": "0000717724225",
+    "status": "200",
+    "nama": "SURADI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "06-03-1950",
+    "umur": "74",
+    "tinggi": "164",
+    "berat": "60.48"
+  },
+  {
+    "id": 6,
+    "nokertas": 541,
+    "nik": "0000717725485",
+    "status": "200",
+    "nama": "SITI HINDUN",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "09-06-1955",
+    "umur": "69",
+    "tinggi": "160",
+    "berat": "53.55"
+  },
+  {
+    "id": 7,
+    "nokertas": 542,
+    "nik": "0000717725709",
+    "status": "200",
+    "nama": "SUDARTO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "05-07-1982",
+    "umur": "42",
+    "tinggi": "165",
+    "berat": "58.5"
+  },
+  {
+    "id": 8,
+    "nokertas": 543,
+    "nik": "0000717727656",
+    "status": "200",
+    "nama": "NASLUKHA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "10-10-1989",
+    "umur": "35",
+    "tinggi": "163",
+    "berat": "53.55"
+  },
+  {
+    "id": 9,
+    "nokertas": 544,
+    "nik": "0000717729377",
+    "status": "200",
+    "nama": "SURODJO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "08-08-1954",
+    "umur": "70",
+    "tinggi": "156",
+    "berat": "52.92"
+  },
+  {
+    "id": 10,
+    "nokertas": 545,
+    "nik": "0000717729401",
+    "status": "200",
+    "nama": "SUNARSIH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "29-12-1953",
+    "umur": "70",
+    "tinggi": "164",
+    "berat": "57.12"
+  },
+  {
+    "id": 11,
+    "nokertas": 546,
+    "nik": "0000717730571",
+    "status": "404"
+  },
+  {
+    "id": 12,
+    "nokertas": 547,
+    "nik": "0000717739805",
+    "status": "404"
+  },
+  {
+    "id": 13,
+    "nokertas": 548,
+    "nik": "0000717739772",
+    "status": "404"
+  },
+  {
+    "id": 14,
+    "nokertas": 549,
+    "nik": "0000717730907",
+    "status": "404"
+  },
+  {
+    "id": 16,
+    "nokertas": 551,
+    "nik": "0000717734722",
+    "status": "200",
+    "nama": "EVAS EKO SAPUTRA",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "18-10-1999",
+    "umur": "25",
+    "tinggi": "165",
+    "berat": "58.5"
+  },
+  {
+    "id": 17,
+    "nokertas": 552,
+    "nik": "0000717735014",
+    "status": "200",
+    "nama": "MOCH. MUDRIK",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-02-1971",
+    "umur": "53",
+    "tinggi": "172",
+    "berat": "64.8"
+  },
+  {
+    "id": 18,
+    "nokertas": 553,
+    "nik": "0000717735712",
+    "status": "200",
+    "nama": "MUJIATI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "20-01-1969",
+    "umur": "55",
+    "tinggi": "161",
+    "berat": "51.85"
+  },
+  {
+    "id": 19,
+    "nokertas": 554,
+    "nik": "0000717736522",
+    "status": "200",
+    "nama": "MUHAMMAD MULYONO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "02-09-1994",
+    "umur": "30",
+    "tinggi": "172",
+    "berat": "64.8"
+  },
+  {
+    "id": 20,
+    "nokertas": 555,
+    "nik": "0000717741112",
+    "status": "200",
+    "nama": "FATHUR",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "29-12-1960",
+    "umur": "63",
+    "tinggi": "155",
+    "berat": "51.98"
+  },
+  {
+    "id": 21,
+    "nokertas": 556,
+    "nik": "0000717742089",
+    "status": "200",
+    "nama": "FARIDA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "03-09-1948",
+    "umur": "76",
+    "tinggi": "167",
+    "berat": "59.8"
+  },
+  {
+    "id": 22,
+    "nokertas": 557,
+    "nik": "0000717742427",
+    "status": "200",
+    "nama": "FADJAR ASWAD",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "12-02-1961",
+    "umur": "63",
+    "tinggi": "163",
+    "berat": "59.54"
+  },
+  {
+    "id": 23,
+    "nokertas": 558,
+    "nik": "0000717742787",
+    "status": "404"
+  },
+  {
+    "id": 24,
+    "nokertas": 559,
+    "nik": "0000717743338",
+    "status": "200",
+    "nama": "KHAMIDA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "19-08-1977",
+    "umur": "47",
+    "tinggi": "156",
+    "berat": "47.6"
+  },
+  {
+    "id": 25,
+    "nokertas": 560,
+    "nik": "0000717743812",
+    "status": "200",
+    "nama": "NUR BAITI NULIANA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-05-2001",
+    "umur": "23",
+    "tinggi": "161",
+    "berat": "51.85"
+  },
+  {
+    "id": 26,
+    "nokertas": 561,
+    "nik": "0000717743542",
+    "status": "200",
+    "nama": "NUR LAILA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "07-01-1997",
+    "umur": "27",
+    "tinggi": "167",
+    "berat": "56.95"
+  },
+  {
+    "id": 27,
+    "nokertas": 562,
+    "nik": "0000717744216",
+    "status": "200",
+    "nama": "SAKUR",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "04-12-1966",
+    "umur": "57",
+    "tinggi": "169",
+    "berat": "62.1"
+  },
+  {
+    "id": 28,
+    "nokertas": 563,
+    "nik": "0000717744431",
+    "status": "200",
+    "nama": "SALMAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "25-08-1970",
+    "umur": "54",
+    "tinggi": "162",
+    "berat": "52.7"
+  },
+  {
+    "id": 29,
+    "nokertas": 564,
+    "nik": "0000717745342",
+    "status": "200",
+    "nama": "MASRIYADI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "05-04-1992",
+    "umur": "32",
+    "tinggi": "171",
+    "berat": "63.9"
+  },
+  {
+    "id": 30,
+    "nokertas": 565,
+    "nik": "0000717745803",
+    "status": "200",
+    "nama": "SODIKIN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "15-12-1978",
+    "umur": "45",
+    "tinggi": "174",
+    "berat": "66.6"
+  },
+  {
+    "id": 31,
+    "nokertas": 566,
+    "nik": "0000717745915",
+    "status": "200",
+    "nama": "SULAIMAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "25-01-1985",
+    "umur": "39",
+    "tinggi": "163",
+    "berat": "53.55"
+  },
+  {
+    "id": 32,
+    "nokertas": 567,
+    "nik": "0000717744938",
+    "status": "404"
+  },
+  {
+    "id": 33,
+    "nokertas": 568,
+    "nik": "0000717750191",
+    "status": "200",
+    "nama": "NUR AINI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-06-1972",
+    "umur": "52",
+    "tinggi": "161",
+    "berat": "51.85"
+  },
+  {
+    "id": 34,
+    "nokertas": 569,
+    "nik": "0000717750279",
+    "status": "200",
+    "nama": "M.SUBHAN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-02-2002",
+    "umur": "22",
+    "tinggi": "171",
+    "berat": "63.9"
+  },
+  {
+    "id": 35,
+    "nokertas": 570,
+    "nik": "0000717750551",
+    "status": "404"
+  },
+  {
+    "id": 37,
+    "nokertas": 572,
+    "nik": "0000717752711",
+    "status": "200",
+    "nama": "MIRATI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-07-1946",
+    "umur": "78",
+    "tinggi": "165",
+    "berat": "58.01"
+  },
+  {
+    "id": 38,
+    "nokertas": 573,
+    "nik": "0000717755071",
+    "status": "404"
+  },
+  {
+    "id": 39,
+    "nokertas": 574,
+    "nik": "0000717756917",
+    "status": "200",
+    "nama": "MIFTAKHUS SYIFAK",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "07-07-2000",
+    "umur": "24",
+    "tinggi": "167",
+    "berat": "60.3"
+  },
+  {
+    "id": 40,
+    "nokertas": 575,
+    "nik": "0000717756017",
+    "status": "200",
+    "nama": "HENDRIK PRIYANTO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "12-05-1984",
+    "umur": "40",
+    "tinggi": "170",
+    "berat": "63"
+  },
+  {
+    "id": 41,
+    "nokertas": 576,
+    "nik": "0000717757086",
+    "status": "200",
+    "nama": "SUNARYO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-12-1960",
+    "umur": "63",
+    "tinggi": "157",
+    "berat": "53.87"
+  },
+  {
+    "id": 42,
+    "nokertas": 577,
+    "nik": "0000717757378",
+    "status": "200",
+    "nama": "JUMIATI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "06-04-1971",
+    "umur": "53",
+    "tinggi": "158",
+    "berat": "49.3"
+  },
+  {
+    "id": 43,
+    "nokertas": 578,
+    "nik": "0000717760168",
+    "status": "200",
+    "nama": "MOKHAMAD CHOTIB",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "17-07-1971",
+    "umur": "53",
+    "tinggi": "168",
+    "berat": "61.2"
+  },
+  {
+    "id": 44,
+    "nokertas": 579,
+    "nik": "0000717761169",
+    "status": "200",
+    "nama": "MARIYATI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "03-07-1968",
+    "umur": "56",
+    "tinggi": "158",
+    "berat": "49.3"
+  },
+  {
+    "id": 45,
+    "nokertas": 580,
+    "nik": "0000717763127",
+    "status": "200",
+    "nama": "SUWANTI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "16-06-1995",
+    "umur": "29",
+    "tinggi": "167",
+    "berat": "56.95"
+  },
+  {
+    "id": 46,
+    "nokertas": 581,
+    "nik": "0000717762655",
+    "status": "200",
+    "nama": "SITI KHODIJAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "24-10-1995",
+    "umur": "29",
+    "tinggi": "158",
+    "berat": "49.3"
+  },
+  {
+    "id": 47,
+    "nokertas": 582,
+    "nik": "0000717761294",
+    "status": "200",
+    "nama": "M.YUSUF",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "14-12-1988",
+    "umur": "35",
+    "tinggi": "170",
+    "berat": "63"
+  },
+  {
+    "id": 48,
+    "nokertas": 583,
+    "nik": "0000717763184",
+    "status": "405"
+  },
+  {
+    "id": 49,
+    "nokertas": 584,
+    "nik": "0000717763252",
+    "status": "404"
+  },
+  {
+    "id": 50,
+    "nokertas": 585,
+    "nik": "0000717764657",
+    "status": "405"
+  },
+  {
+    "id": 51,
+    "nokertas": 586,
+    "nik": "0000717763858",
+    "status": "405"
+  },
+  {
+    "id": 52,
+    "nokertas": 587,
+    "nik": "0000717764501",
+    "status": "200",
+    "nama": "INDRA PRASETYO AJI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "02-09-1993",
+    "umur": "31",
+    "tinggi": "173",
+    "berat": "65.7"
+  },
+  {
+    "id": 53,
+    "nokertas": 588,
+    "nik": "0000717764848",
+    "status": "404"
+  },
+  {
+    "id": 54,
+    "nokertas": 589,
+    "nik": "0000717769732",
+    "status": "200",
+    "nama": "WAGIOWATI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "30-06-1960",
+    "umur": "64",
+    "tinggi": "160",
+    "berat": "53.55"
+  },
+  {
+    "id": 55,
+    "nokertas": 590,
+    "nik": "0000717772746",
+    "status": "200",
+    "nama": "AISAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "09-07-1965",
+    "umur": "59",
+    "tinggi": "165",
+    "berat": "55.25"
+  },
+  {
+    "id": 56,
+    "nokertas": 591,
+    "nik": "0000717774276",
+    "status": "404"
+  },
+  {
+    "id": 57,
+    "nokertas": 592,
+    "nik": "0000717775154",
+    "status": "200",
+    "nama": "SULASTRI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "26-09-1987",
+    "umur": "37",
+    "tinggi": "162",
+    "berat": "52.7"
+  },
+  {
+    "id": 58,
+    "nokertas": 593,
+    "nik": "0000717775435",
+    "status": "404"
+  },
+  {
+    "id": 59,
+    "nokertas": 594,
+    "nik": "0000717778372",
+    "status": "200",
+    "nama": "HARIATI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "03-03-1963",
+    "umur": "61",
+    "tinggi": "159",
+    "berat": "52.66"
+  },
+  {
+    "id": 61,
+    "nokertas": 596,
+    "nik": "0000717778258",
+    "status": "404"
+  },
+  {
+    "id": 62,
+    "nokertas": 597,
+    "nik": "0000717779913",
+    "status": "404"
+  },
+  {
+    "id": 63,
+    "nokertas": 598,
+    "nik": "0000717779979",
+    "status": "404"
+  },
+  {
+    "id": 64,
+    "nokertas": 599,
+    "nik": "0000717918669",
+    "status": "200",
+    "nama": "SURYANI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "03-06-1942",
+    "umur": "82",
+    "tinggi": "163",
+    "berat": "56.23"
+  },
+  {
+    "id": 65,
+    "nokertas": 600,
+    "nik": "0000717919323",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 71,
+    "nokertas": 606,
+    "nik": "0000717928176",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 113,
+    "nokertas": 648,
+    "nik": "0001043080806",
+    "status": "405"
+  },
+  {
+    "id": 118,
+    "nokertas": 653,
+    "nik": "0001043080896",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 134,
+    "nokertas": 669,
+    "nik": "0001043081201",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 138,
+    "nokertas": 673,
+    "nik": "0001043081346",
+    "status": "200",
+    "nama": "CHOIRUL A",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-07-1986",
+    "umur": "38",
+    "tinggi": "165",
+    "berat": "58.5"
+  },
+  {
+    "id": 151,
+    "nokertas": 686,
+    "nik": "0001043081561",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 157,
+    "nokertas": 692,
+    "nik": "0001260893698",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 179,
+    "nokertas": 714,
+    "nik": "0001328492542",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 184,
+    "nokertas": 719,
+    "nik": "0002450960043",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 204,
+    "nokertas": 739,
+    "nik": "0001809013331",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 221,
+    "nokertas": 756,
+    "nik": "0001900619087",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 223,
+    "nokertas": 758,
+    "nik": "0001901803353",
+    "status": "200",
+    "nama": "ARMALA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "11-06-1962",
+    "umur": "62",
+    "tinggi": "155",
+    "berat": "49.09"
+  },
+  {
+    "id": 224,
+    "nokertas": 759,
+    "nik": "0001903513601",
+    "status": "200",
+    "nama": "ABDUL MANAP",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "05-12-1987",
+    "umur": "36",
+    "tinggi": "171",
+    "berat": "63.9"
+  },
+  {
+    "id": 225,
+    "nokertas": 760,
+    "nik": "0001960667076",
+    "status": "200",
+    "nama": "AL AN FAL",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "25-01-1979",
+    "umur": "45",
+    "tinggi": "171",
+    "berat": "63.9"
+  },
+  {
+    "id": 226,
+    "nokertas": 761,
+    "nik": "0001963354296",
+    "status": "404"
+  },
+  {
+    "id": 227,
+    "nokertas": 762,
+    "nik": "0001965427097",
+    "status": "200",
+    "nama": "HERU PURWOKO, BSC",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "16-08-1960",
+    "umur": "64",
+    "tinggi": "163",
+    "berat": "59.54"
+  },
+  {
+    "id": 228,
+    "nokertas": 763,
+    "nik": "0001965427558",
+    "status": "200",
+    "nama": "SITI MUFRIKA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "26-03-1968",
+    "umur": "56",
+    "tinggi": "167",
+    "berat": "56.95"
+  },
+  {
+    "id": 229,
+    "nokertas": 764,
+    "nik": "0001965428291",
+    "status": "200",
+    "nama": "BAGUS PRASETYA",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "14-11-1998",
+    "umur": "26",
+    "tinggi": "165",
+    "berat": "58.5"
+  },
+  {
+    "id": 230,
+    "nokertas": 765,
+    "nik": "0002048851539",
+    "status": "404"
+  },
+  {
+    "id": 231,
+    "nokertas": 766,
+    "nik": "0002048853093",
+    "status": "404"
+  },
+  {
+    "id": 232,
+    "nokertas": 767,
+    "nik": "0002059719849",
+    "status": "404"
+  },
+  {
+    "id": 233,
+    "nokertas": 768,
+    "nik": "0002066388028",
+    "status": "200",
+    "nama": "SUWARNI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "24-09-1975",
+    "umur": "49",
+    "tinggi": "157",
+    "berat": "48.45"
+  },
+  {
+    "id": 234,
+    "nokertas": 769,
+    "nik": "0002068126727",
+    "status": "200",
+    "nama": "REDI HARTANTO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "05-05-1995",
+    "umur": "29",
+    "tinggi": "165",
+    "berat": "58.5"
+  },
+  {
+    "id": 235,
+    "nokertas": 770,
+    "nik": "0002082337852",
+    "status": "200",
+    "nama": "MISNI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "30-12-1955",
+    "umur": "68",
+    "tinggi": "155",
+    "berat": "49.09"
+  },
+  {
+    "id": 236,
+    "nokertas": 771,
+    "nik": "0002086604842",
+    "status": "404"
+  },
+  {
+    "id": 237,
+    "nokertas": 772,
+    "nik": "0002090154892",
+    "status": "404"
+  },
+  {
+    "id": 238,
+    "nokertas": 773,
+    "nik": "0002090157096",
+    "status": "404"
+  },
+  {
+    "id": 239,
+    "nokertas": 774,
+    "nik": "0002090157579",
+    "status": "404"
+  },
+  {
+    "id": 240,
+    "nokertas": 775,
+    "nik": "0002090157827",
+    "status": "404"
+  },
+  {
+    "id": 241,
+    "nokertas": 776,
+    "nik": "0002156417897",
+    "status": "200",
+    "nama": "RAHMAH ULIYA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "04-07-2011",
+    "umur": "13",
+    "tinggi": "115",
+    "berat": "11.48"
+  },
+  {
+    "id": 242,
+    "nokertas": 777,
+    "nik": "0002161799267",
+    "status": "200",
+    "nama": "NAZAMUDDIN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-01-1955",
+    "umur": "69",
+    "tinggi": "166",
+    "berat": "62.37"
+  },
+  {
+    "id": 243,
+    "nokertas": 778,
+    "nik": "0002161799357",
+    "status": "200",
+    "nama": "ANISAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "08-08-1965",
+    "umur": "59",
+    "tinggi": "158",
+    "berat": "49.3"
+  },
+  {
+    "id": 244,
+    "nokertas": 779,
+    "nik": "0002161799368",
+    "status": "404"
+  },
+  {
+    "id": 245,
+    "nokertas": 780,
+    "nik": "0002162266222",
+    "status": "200",
+    "nama": "ACHMAD YANI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "29-05-2000",
+    "umur": "24",
+    "tinggi": "169",
+    "berat": "62.1"
+  },
+  {
+    "id": 246,
+    "nokertas": 781,
+    "nik": "0002203042498",
+    "status": "404"
+  },
+  {
+    "id": 247,
+    "nokertas": 782,
+    "nik": "0002203042904",
+    "status": "404"
+  },
+  {
+    "id": 248,
+    "nokertas": 783,
+    "nik": "0002207701056",
+    "status": "404"
+  },
+  {
+    "id": 249,
+    "nokertas": 784,
+    "nik": "0002207701912",
+    "status": "404"
+  },
+  {
+    "id": 250,
+    "nokertas": 785,
+    "nik": "0002207702575",
+    "status": "404"
+  },
+  {
+    "id": 251,
+    "nokertas": 786,
+    "nik": "0002208377924",
+    "status": "404"
+  },
+  {
+    "id": 252,
+    "nokertas": 787,
+    "nik": "0002211630412",
+    "status": "200",
+    "nama": "FATEKHAN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "28-03-1979",
+    "umur": "45",
+    "tinggi": "165",
+    "berat": "58.5"
+  },
+  {
+    "id": 253,
+    "nokertas": 788,
+    "nik": "0002211630851",
+    "status": "200",
+    "nama": "NUR MASRUCHA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "22-07-1981",
+    "umur": "43",
+    "tinggi": "166",
+    "berat": "56.1"
+  },
+  {
+    "id": 254,
+    "nokertas": 789,
+    "nik": "0002211632054",
+    "status": "200",
+    "nama": "M. FIKRI MUJAHIDDIN ABDULLAH",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "28-10-2006",
+    "umur": "18",
+    "tinggi": "174",
+    "berat": "66.6"
+  },
+  {
+    "id": 255,
+    "nokertas": 790,
+    "nik": "0002211631378",
+    "status": "200",
+    "nama": "PUTRI INDAH SARI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "03-08-2002",
+    "umur": "22",
+    "tinggi": "159",
+    "berat": "50.15"
+  },
+  {
+    "id": 256,
+    "nokertas": 791,
+    "nik": "0002224841668",
+    "status": "200",
+    "nama": "DJUWADI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "09-10-1960",
+    "umur": "64",
+    "tinggi": "164",
+    "berat": "60.48"
+  },
+  {
+    "id": 257,
+    "nokertas": 792,
+    "nik": "0002224842445",
+    "status": "200",
+    "nama": "WAGINI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "17-01-1954",
+    "umur": "70",
+    "tinggi": "165",
+    "berat": "58.01"
+  },
+  {
+    "id": 258,
+    "nokertas": 793,
+    "nik": "0002229879453",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 259,
+    "nokertas": 794,
+    "nik": "0002229880206",
+    "status": "200",
+    "nama": "TUNIK",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "30-06-1960",
+    "umur": "64",
+    "tinggi": "162",
+    "berat": "55.34"
+  },
+  {
+    "id": 260,
+    "nokertas": 795,
+    "nik": "0002243984163",
+    "status": "404"
+  },
+  {
+    "id": 261,
+    "nokertas": 796,
+    "nik": "0002243985052",
+    "status": "404"
+  },
+  {
+    "id": 262,
+    "nokertas": 797,
+    "nik": "0002244047602",
+    "status": "404"
+  },
+  {
+    "id": 263,
+    "nokertas": 798,
+    "nik": "0000717580001",
+    "status": "404"
+  },
+  {
+    "id": 264,
+    "nokertas": 799,
+    "nik": "0002244052574",
+    "status": "404"
+  },
+  {
+    "id": 265,
+    "nokertas": 800,
+    "nik": "0002249727862",
+    "status": "200",
+    "nama": "KHOIRUL ANAM",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "15-05-1973",
+    "umur": "51",
+    "tinggi": "175",
+    "berat": "67.5"
+  },
+  {
+    "id": 266,
+    "nokertas": 801,
+    "nik": "0002249728029",
+    "status": "200",
+    "nama": "SUPRAPTI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-01-1980",
+    "umur": "44",
+    "tinggi": "162",
+    "berat": "52.7"
+  },
+  {
+    "id": 267,
+    "nokertas": 802,
+    "nik": "0002249728615",
+    "status": "200",
+    "nama": "MISBAHUDIN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-02-1994",
+    "umur": "30",
+    "tinggi": "169",
+    "berat": "62.1"
+  },
+  {
+    "id": 268,
+    "nokertas": 803,
+    "nik": "0002251217564",
+    "status": "404"
+  },
+  {
+    "id": 269,
+    "nokertas": 804,
+    "nik": "0002259043176",
+    "status": "200",
+    "nama": "JUWARIAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "20-10-1977",
+    "umur": "47",
+    "tinggi": "162",
+    "berat": "52.7"
+  },
+  {
+    "id": 270,
+    "nokertas": 805,
+    "nik": "0002259045009",
+    "status": "200",
+    "nama": "MOKHAMMAD WILDAN SYAFIUDDIN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "08-10-2002",
+    "umur": "22",
+    "tinggi": "175",
+    "berat": "67.5"
+  },
+  {
+    "id": 271,
+    "nokertas": 806,
+    "nik": "0002275627691",
+    "status": "200",
+    "nama": "ZUHROTUL QOMARIYAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "26-02-2011",
+    "umur": "13",
+    "tinggi": "128",
+    "berat": "21.42"
+  },
+  {
+    "id": 272,
+    "nokertas": 807,
+    "nik": "0002292957909",
+    "status": "405"
+  },
+  {
+    "id": 273,
+    "nokertas": 808,
+    "nik": "0002298753145",
+    "status": "404"
+  },
+  {
+    "id": 275,
+    "nokertas": 810,
+    "nik": "0002311290123",
+    "status": "200",
+    "nama": "ANDI YULIANTO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "20-07-2002",
+    "umur": "22",
+    "tinggi": "172",
+    "berat": "64.8"
+  },
+  {
+    "id": 277,
+    "nokertas": 812,
+    "nik": "0002318323522",
+    "status": "405"
+  },
+  {
+    "id": 279,
+    "nokertas": 814,
+    "nik": "0002318325491",
+    "status": "405"
+  },
+  {
+    "id": 283,
+    "nokertas": 818,
+    "nik": "0002419952354",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 286,
+    "nokertas": 821,
+    "nik": "0002433992769",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 288,
+    "nokertas": 823,
+    "nik": "0002434578052 ",
+    "status": "200",
+    "nama": "MUKHAMMAD FARDIANSYAH",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "13-09-1988",
+    "umur": "36",
+    "tinggi": "175",
+    "berat": "67.5"
+  },
+  {
+    "id": 289,
+    "nokertas": 824,
+    "nik": "0002441601944 ",
+    "status": "404"
+  },
+  {
+    "id": 290,
+    "nokertas": 825,
+    "nik": "0002441605588 ",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 291,
+    "nokertas": 826,
+    "nik": "0002441604036 ",
+    "status": "404"
+  },
+  {
+    "id": 292,
+    "nokertas": 827,
+    "nik": "0002466077128 ",
+    "status": "200",
+    "nama": "MOCHAMMAD ZIKRI ABSAH",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "15-03-1999",
+    "umur": "25",
+    "tinggi": "165",
+    "berat": "58.5"
+  },
+  {
+    "id": 293,
+    "nokertas": 828,
+    "nik": "0002466289563 ",
+    "status": "404"
+  },
+  {
+    "id": 294,
+    "nokertas": 829,
+    "nik": "0002466289811 ",
+    "status": "405"
+  },
+  {
+    "id": 295,
+    "nokertas": 830,
+    "nik": "0002466327868 ",
+    "status": "200",
+    "nama": "ALI SUUD",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "13-07-1965",
+    "umur": "59",
+    "tinggi": "168",
+    "berat": "61.2"
+  },
+  {
+    "id": 296,
+    "nokertas": 831,
+    "nik": "0002466328138 ",
+    "status": "404"
+  },
+  {
+    "id": 297,
+    "nokertas": 832,
+    "nik": "0002466328342 ",
+    "status": "404"
+  },
+  {
+    "id": 298,
+    "nokertas": 833,
+    "nik": "0002474914127 ",
+    "status": "200",
+    "nama": "SITI KHUZAIMI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "18-07-1982",
+    "umur": "42",
+    "tinggi": "158",
+    "berat": "49.3"
+  },
+  {
+    "id": 299,
+    "nokertas": 834,
+    "nik": "0002474914386 ",
+    "status": "200",
+    "nama": "RAKHMADINI ISLAMIA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "12-08-2009",
+    "umur": "15",
+    "tinggi": "128",
+    "berat": "21.42"
+  },
+  {
+    "id": 300,
+    "nokertas": 835,
+    "nik": "0002474914263 ",
+    "status": "200",
+    "nama": "WIDYA ALBA'ROINI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "25-08-2002",
+    "umur": "22",
+    "tinggi": "166",
+    "berat": "56.1"
+  },
+  {
+    "id": 301,
+    "nokertas": 836,
+    "nik": "0002489033619 ",
+    "status": "404"
+  },
+  {
+    "id": 302,
+    "nokertas": 837,
+    "nik": "0002582171335 ",
+    "status": "200",
+    "nama": "JAKA RESTU DAHANA",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "23-02-1982",
+    "umur": "42",
+    "tinggi": "173",
+    "berat": "65.7"
+  },
+  {
+    "id": 303,
+    "nokertas": 838,
+    "nik": "0002582716612 ",
+    "status": "200",
+    "nama": "SAIDAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "26-05-1995",
+    "umur": "29",
+    "tinggi": "167",
+    "berat": "56.95"
+  },
+  {
+    "id": 304,
+    "nokertas": 839,
+    "nik": "0002606121663",
+    "status": "200",
+    "nama": "EKA WINDA SEPTIANI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "09-09-2013",
+    "umur": "11",
+    "tinggi": "129",
+    "berat": "22.19"
+  },
+  {
+    "id": 305,
+    "nokertas": 840,
+    "nik": "0002583090448 ",
+    "status": "200",
+    "nama": "NAILI NUR ISLAMIYAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "09-08-2008",
+    "umur": "16",
+    "tinggi": "157",
+    "berat": "48.45"
+  },
+  {
+    "id": 306,
+    "nokertas": 841,
+    "nik": "0002583090461 ",
+    "status": "200",
+    "nama": "TITIN HARTATIK NUR INDAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "13-08-1973",
+    "umur": "51",
+    "tinggi": "156",
+    "berat": "47.6"
+  },
+  {
+    "id": 307,
+    "nokertas": 842,
+    "nik": "0002583141851",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 308,
+    "nokertas": 843,
+    "nik": "0002583142424",
+    "status": "200",
+    "nama": "FATIMAH SALNI NABILA CELSA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "14-12-2014",
+    "umur": "9",
+    "tinggi": "121",
+    "berat": "16.07"
+  },
+  {
+    "id": 309,
+    "nokertas": 844,
+    "nik": "0002584379845",
+    "status": "200",
+    "nama": "MISBAHUDIN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-02-1994",
+    "umur": "30",
+    "tinggi": "168",
+    "berat": "61.2"
+  },
+  {
+    "id": 322,
+    "nokertas": 857,
+    "nik": "0002585023301",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 337,
+    "nokertas": 872,
+    "nik": "0002588298873",
+    "status": "200",
+    "nama": "CHOIRUL ANAM",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "12-02-1982",
+    "umur": "42",
+    "tinggi": "174",
+    "berat": "66.6"
+  },
+  {
+    "id": 338,
+    "nokertas": 873,
+    "nik": "0002606347539",
+    "status": "200",
+    "nama": "NI NYOMAN NADI CHUSNUL",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "18-10-1982",
+    "umur": "42",
+    "tinggi": "157",
+    "berat": "48.45"
+  },
+  {
+    "id": 339,
+    "nokertas": 874,
+    "nik": "0002604979315",
+    "status": "200",
+    "nama": "MOCHAMAT ALDO JULIANSYAH",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "21-07-2008",
+    "umur": "16",
+    "tinggi": "173",
+    "berat": "65.7"
+  },
+  {
+    "id": 340,
+    "nokertas": 875,
+    "nik": "0002605535043",
+    "status": "200",
+    "nama": "ALVIANA AYU MUKHAROMA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "28-10-2005",
+    "umur": "19",
+    "tinggi": "159",
+    "berat": "50.15"
+  },
+  {
+    "id": 341,
+    "nokertas": 876,
+    "nik": "0002588298996",
+    "status": "200",
+    "nama": "DIKA RIZKY",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "31-10-2010",
+    "umur": "14",
+    "tinggi": "120",
+    "berat": "16.2"
+  },
+  {
+    "id": 342,
+    "nokertas": 877,
+    "nik": "0002588936556",
+    "status": "200",
+    "nama": "SITI NURSIYAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "28-02-1983",
+    "umur": "41",
+    "tinggi": "159",
+    "berat": "50.15"
+  },
+  {
+    "id": 343,
+    "nokertas": 878,
+    "nik": "0002640062632",
+    "status": "200",
+    "nama": "MIFTAKHUL JANNAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "19-10-2011",
+    "umur": "13",
+    "tinggi": "120",
+    "berat": "15.3"
+  },
+  {
+    "id": 344,
+    "nokertas": 879,
+    "nik": "0002589076449",
+    "status": "200",
+    "nama": "SRI AMI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "20-10-1972",
+    "umur": "52",
+    "tinggi": "167",
+    "berat": "56.95"
+  },
+  {
+    "id": 345,
+    "nokertas": 880,
+    "nik": "0002628950646",
+    "status": "200",
+    "nama": "ALIFAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "20-08-1995",
+    "umur": "29",
+    "tinggi": "163",
+    "berat": "53.55"
+  },
+  {
+    "id": 357,
+    "nokertas": 892,
+    "nik": "0002585591425",
+    "status": "405"
+  },
+  {
+    "id": 473,
+    "nokertas": 1008,
+    "nik": "0002808741879",
+    "status": "200",
+    "nama": "ALIFAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "30-06-1962",
+    "umur": "62",
+    "tinggi": "165",
+    "berat": "58.01"
+  },
+  {
+    "id": 484,
+    "nokertas": 1019,
+    "nik": "0002808742432",
+    "status": "200",
+    "nama": "SAUMI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "08-08-1942",
+    "umur": "82",
+    "tinggi": "157",
+    "berat": "50.87"
+  },
+  {
+    "id": 495,
+    "nokertas": 1030,
+    "nik": "0002808743422",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 514,
+    "nokertas": 1049,
+    "nik": "0002808744175",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 61,
+    "nokertas": 1133,
+    "nik": "0002808750385",
+    "status": "200",
+    "nama": "SRI SUDARWATI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "26-01-1971",
+    "umur": "53",
+    "tinggi": "165",
+    "berat": "55.25"
+  },
+  {
+    "id": 62,
+    "nokertas": 1134,
+    "nik": "0002808750543",
+    "status": "200",
+    "nama": "MUTMAINAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "08-06-1970",
+    "umur": "54",
+    "tinggi": "166",
+    "berat": "56.1"
+  },
+  {
+    "id": 63,
+    "nokertas": 1135,
+    "nik": "0002808750598",
+    "status": "404"
+  },
+  {
+    "id": 64,
+    "nokertas": 1136,
+    "nik": "0002808750655",
+    "status": "405"
+  },
+  {
+    "id": 65,
+    "nokertas": 1137,
+    "nik": "0002808750734",
+    "status": "404"
+  },
+  {
+    "id": 66,
+    "nokertas": 1138,
+    "nik": "0002808750835",
+    "status": "200",
+    "nama": "SUPONO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "20-01-1990",
+    "umur": "34",
+    "tinggi": "173",
+    "berat": "65.7"
+  },
+  {
+    "id": 67,
+    "nokertas": 1139,
+    "nik": "0002808751037",
+    "status": "404"
+  },
+  {
+    "id": 68,
+    "nokertas": 1140,
+    "nik": "0002808751094",
+    "status": "200",
+    "nama": "RIZKY RIYAN RAKHMAN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "26-11-1997",
+    "umur": "27",
+    "tinggi": "169",
+    "berat": "62.1"
+  },
+  {
+    "id": 69,
+    "nokertas": 1141,
+    "nik": "0002808751239",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 70,
+    "nokertas": 1142,
+    "nik": "0002808751375",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 71,
+    "nokertas": 1143,
+    "nik": "0002808751386",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 72,
+    "nokertas": 1144,
+    "nik": "0002808751397",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 73,
+    "nokertas": 1145,
+    "nik": "0002808751847",
+    "status": "200",
+    "nama": "MUNTOLIB",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "07-02-1966",
+    "umur": "58",
+    "tinggi": "171",
+    "berat": "63.9"
+  },
+  {
+    "id": 74,
+    "nokertas": 1146,
+    "nik": "0002808751915",
+    "status": "404"
+  },
+  {
+    "id": 75,
+    "nokertas": 1147,
+    "nik": "0002808751937",
+    "status": "404"
+  },
+  {
+    "id": 76,
+    "nokertas": 1148,
+    "nik": "0002808752141",
+    "status": "404"
+  },
+  {
+    "id": 77,
+    "nokertas": 1149,
+    "nik": "0002808752152",
+    "status": "404"
+  },
+  {
+    "id": 78,
+    "nokertas": 1150,
+    "nik": "0002808752332",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 79,
+    "nokertas": 1151,
+    "nik": "0002808752703",
+    "status": "200",
+    "nama": "MUDJIJATI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-02-1961",
+    "umur": "63",
+    "tinggi": "162",
+    "berat": "55.34"
+  },
+  {
+    "id": 80,
+    "nokertas": 1152,
+    "nik": "0002808752714 ",
+    "status": "200",
+    "nama": "BAMBANG KURNIAWAN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "29-07-1994",
+    "umur": "30",
+    "tinggi": "166",
+    "berat": "59.4"
+  },
+  {
+    "id": 81,
+    "nokertas": 1153,
+    "nik": "0002808752771",
+    "status": "200",
+    "nama": "MUCHAMMAD DAFID HARDIANSYAH",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "15-05-2010",
+    "umur": "14",
+    "tinggi": "123",
+    "berat": "18.63"
+  },
+  {
+    "id": 82,
+    "nokertas": 1154,
+    "nik": "0002808752859 ",
+    "status": "404"
+  },
+  {
+    "id": 83,
+    "nokertas": 1155,
+    "nik": "0002808753085 ",
+    "status": "404"
+  },
+  {
+    "id": 84,
+    "nokertas": 1156,
+    "nik": "0002808753107",
+    "status": "200",
+    "nama": "ENDANG SUBIANTI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "02-03-1943",
+    "umur": "81",
+    "tinggi": "157",
+    "berat": "50.87"
+  },
+  {
+    "id": 85,
+    "nokertas": 1157,
+    "nik": "0002808753164",
+    "status": "404"
+  },
+  {
+    "id": 86,
+    "nokertas": 1158,
+    "nik": "0002808753186",
+    "status": "404"
+  },
+  {
+    "id": 87,
+    "nokertas": 1159,
+    "nik": "0002808753298",
+    "status": "404"
+  },
+  {
+    "id": 88,
+    "nokertas": 1160,
+    "nik": "0002808753388\t",
+    "status": "404"
+  },
+  {
+    "id": 89,
+    "nokertas": 1161,
+    "nik": "0002808753399",
+    "status": "404"
+  },
+  {
+    "id": 90,
+    "nokertas": 1162,
+    "nik": "0002808753401",
+    "status": "404"
+  },
+  {
+    "id": 91,
+    "nokertas": 1163,
+    "nik": "0002808753456",
+    "status": "200",
+    "nama": "LUHTITISARI PITALOKA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "09-06-2006",
+    "umur": "18",
+    "tinggi": "162",
+    "berat": "52.7"
+  },
+  {
+    "id": 92,
+    "nokertas": 1164,
+    "nik": "0002808753502",
+    "status": "200",
+    "nama": "MUHAMMAD ALFAN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "02-03-1986",
+    "umur": "38",
+    "tinggi": "174",
+    "berat": "66.6"
+  },
+  {
+    "id": 93,
+    "nokertas": 1165,
+    "nik": "0002808753737",
+    "status": "404"
+  },
+  {
+    "id": 94,
+    "nokertas": 1166,
+    "nik": "0002808753873",
+    "status": "200",
+    "nama": "TOYIBA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "19-06-1950",
+    "umur": "74",
+    "tinggi": "164",
+    "berat": "57.12"
+  },
+  {
+    "id": 95,
+    "nokertas": 1167,
+    "nik": "0002808753917",
+    "status": "200",
+    "nama": "MISBAHUDIN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-02-1994",
+    "umur": "30",
+    "tinggi": "165",
+    "berat": "58.5"
+  },
+  {
+    "id": 96,
+    "nokertas": 1168,
+    "nik": "0002808753952",
+    "status": "200",
+    "nama": "AZIZAH REYNATUR FITRI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "10-11-2014",
+    "umur": "10",
+    "tinggi": "118",
+    "berat": "13.77"
+  },
+  {
+    "id": 97,
+    "nokertas": 1169,
+    "nik": "0002808753985",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 98,
+    "nokertas": 1170,
+    "nik": "0002808754029\t\t",
+    "status": "200",
+    "nama": "MUHAMMAD TAUFAN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "",
+    "umur": "NaN",
+    "tinggi": "162",
+    "berat": "55.8"
+  },
+  {
+    "id": 99,
+    "nokertas": 1171,
+    "nik": "0002808754108",
+    "status": "404"
+  },
+  {
+    "id": 100,
+    "nokertas": 1172,
+    "nik": "0002808754244 ",
+    "status": "404"
+  },
+  {
+    "id": 101,
+    "nokertas": 1173,
+    "nik": "0002808754367",
+    "status": "200",
+    "nama": "HASYIM",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "12-12-1963",
+    "umur": "60",
+    "tinggi": "168",
+    "berat": "64.26"
+  },
+  {
+    "id": 102,
+    "nokertas": 1174,
+    "nik": "0002808754492 ",
+    "status": "404"
+  },
+  {
+    "id": 103,
+    "nokertas": 1175,
+    "nik": "0002808754503",
+    "status": "200",
+    "nama": "LISWATI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "21-03-1957",
+    "umur": "67",
+    "tinggi": "167",
+    "berat": "59.8"
+  },
+  {
+    "id": 104,
+    "nokertas": 1176,
+    "nik": "0002808754841",
+    "status": "404"
+  },
+  {
+    "id": 105,
+    "nokertas": 1177,
+    "nik": "0002808754964",
+    "status": "404"
+  },
+  {
+    "id": 106,
+    "nokertas": 1178,
+    "nik": "0002808755212",
+    "status": "200",
+    "nama": "ACHMAD DOFIR",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "30-08-1979",
+    "umur": "45",
+    "tinggi": "167",
+    "berat": "60.3"
+  },
+  {
+    "id": 107,
+    "nokertas": 1179,
+    "nik": "0002808755223",
+    "status": "404"
+  },
+  {
+    "id": 108,
+    "nokertas": 1180,
+    "nik": "0002808755234",
+    "status": "200",
+    "nama": "NURUL NIKMAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "20-12-1979",
+    "umur": "44",
+    "tinggi": "161",
+    "berat": "51.85"
+  },
+  {
+    "id": 109,
+    "nokertas": 1181,
+    "nik": "0002808755245",
+    "status": "404"
+  },
+  {
+    "id": 110,
+    "nokertas": 1182,
+    "nik": "0002808755256",
+    "status": "404"
+  },
+  {
+    "id": 111,
+    "nokertas": 1183,
+    "nik": "0002808755324",
+    "status": "404"
+  },
+  {
+    "id": 112,
+    "nokertas": 1184,
+    "nik": "0002808755403",
+    "status": "404"
+  },
+  {
+    "id": 113,
+    "nokertas": 1185,
+    "nik": "0002808755436",
+    "status": "200",
+    "nama": "RUSMINI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "03-06-1958",
+    "umur": "66",
+    "tinggi": "165",
+    "berat": "58.01"
+  },
+  {
+    "id": 114,
+    "nokertas": 1186,
+    "nik": "0002808755458",
+    "status": "404"
+  },
+  {
+    "id": 115,
+    "nokertas": 1187,
+    "nik": "0002808755447",
+    "status": "404"
+  },
+  {
+    "id": 116,
+    "nokertas": 1188,
+    "nik": "0002808755853",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 117,
+    "nokertas": 1189,
+    "nik": "0002808755864",
+    "status": "404"
+  },
+  {
+    "id": 118,
+    "nokertas": 1190,
+    "nik": "0002808755875",
+    "status": "404"
+  },
+  {
+    "id": 119,
+    "nokertas": 1191,
+    "nik": "0002808755886",
+    "status": "404"
+  },
+  {
+    "id": 120,
+    "nokertas": 1192,
+    "nik": "0002808755932",
+    "status": "200",
+    "nama": "SUCIATI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "04-12-1960",
+    "umur": "63",
+    "tinggi": "163",
+    "berat": "56.23"
+  },
+  {
+    "id": 121,
+    "nokertas": 1193,
+    "nik": "0002808755954",
+    "status": "200",
+    "nama": "MUHAMMAD SUFYAN AL MASYHUD",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "05-07-2012",
+    "umur": "12",
+    "tinggi": "128",
+    "berat": "22.68"
+  },
+  {
+    "id": 122,
+    "nokertas": 1194,
+    "nik": "0002808756191",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 123,
+    "nokertas": 1195,
+    "nik": "0002808756224",
+    "status": "200",
+    "nama": "MARSA SALSABILA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "04-05-2008",
+    "umur": "16",
+    "tinggi": "158",
+    "berat": "49.3"
+  },
+  {
+    "id": 124,
+    "nokertas": 1196,
+    "nik": "0002808756415",
+    "status": "404"
+  },
+  {
+    "id": 125,
+    "nokertas": 1197,
+    "nik": "0002808756426",
+    "status": "200",
+    "nama": "ALEXTRA QUINNEYRA ALONA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-04-2014",
+    "umur": "10",
+    "tinggi": "125",
+    "berat": "19.13"
+  },
+  {
+    "id": 126,
+    "nokertas": 1198,
+    "nik": "0002808756448",
+    "status": "200",
+    "nama": "SOLICHAN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "30-08-1969",
+    "umur": "55",
+    "tinggi": "172",
+    "berat": "64.8"
+  },
+  {
+    "id": 127,
+    "nokertas": 1199,
+    "nik": "0002808756459",
+    "status": "404"
+  },
+  {
+    "id": 128,
+    "nokertas": 1200,
+    "nik": "0002808756516",
+    "status": "200",
+    "nama": "CHOMARIYATI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "27-01-1969",
+    "umur": "55",
+    "tinggi": "166",
+    "berat": "56.1"
+  },
+  {
+    "id": 129,
+    "nokertas": 1201,
+    "nik": "0002808756549",
+    "status": "404"
+  },
+  {
+    "id": 130,
+    "nokertas": 1202,
+    "nik": "0002808756573",
+    "status": "404"
+  },
+  {
+    "id": 131,
+    "nokertas": 1203,
+    "nik": "0002808756742",
+    "status": "404"
+  },
+  {
+    "id": 132,
+    "nokertas": 1204,
+    "nik": "0002808756775",
+    "status": "200",
+    "nama": "WAHYUNINGSIH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "09-11-1986",
+    "umur": "38",
+    "tinggi": "166",
+    "berat": "56.1"
+  },
+  {
+    "id": 133,
+    "nokertas": 1205,
+    "nik": "0002808756876",
+    "status": "404"
+  },
+  {
+    "id": 134,
+    "nokertas": 1206,
+    "nik": "0002808756887",
+    "status": "404"
+  },
+  {
+    "id": 15,
+    "nokertas": 550,
+    "nik": "0000717731291",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 36,
+    "nokertas": 571,
+    "nik": "0000717751383",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 60,
+    "nokertas": 595,
+    "nik": "0000717778427",
+    "status": "200",
+    "nama": "DEWI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "",
+    "umur": "Format tanggal tidak valid. Harus dalam format DD-MM-YYYY.",
+    "tinggi": "164",
+    "berat": "54.4"
+  },
+  {
+    "id": 75,
+    "nokertas": 610,
+    "nik": "0001043079783",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 77,
+    "nokertas": 612,
+    "nik": "0001043079816",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 78,
+    "nokertas": 613,
+    "nik": "0001043079939",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 89,
+    "nokertas": 624,
+    "nik": "0001043080222",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 94,
+    "nokertas": 629,
+    "nik": "0001043080402",
+    "status": "200",
+    "nama": "CHALIMAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-06-1959",
+    "umur": "65",
+    "tinggi": "163",
+    "berat": "56.23"
+  },
+  {
+    "id": 97,
+    "nokertas": 632,
+    "nik": "0001043080492",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 99,
+    "nokertas": 634,
+    "nik": "0001043080514",
+    "status": "405"
+  },
+  {
+    "id": 103,
+    "nokertas": 638,
+    "nik": "0001043080593",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 274,
+    "nokertas": 809,
+    "nik": "0002298753641",
+    "status": "405"
+  },
+  {
+    "id": 482,
+    "nokertas": 1017,
+    "nik": "0002808742329",
+    "status": "405"
+  },
+  {
+    "id": 538,
+    "nokertas": 1073,
+    "nik": "0002808745648",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 539,
+    "nokertas": 1074,
+    "nik": "0002808745659",
+    "status": "404"
+  },
+  {
+    "id": 540,
+    "nokertas": 1075,
+    "nik": "0002808745929",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 541,
+    "nokertas": 1076,
+    "nik": "0002808745931",
+    "status": "200",
+    "nama": "DEWI SEKARTAJI MAULIDIYAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "17-01-2014",
+    "umur": "10",
+    "tinggi": "118",
+    "berat": "13.77"
+  },
+  {
+    "id": 542,
+    "nokertas": 1077,
+    "nik": "0002808745986",
+    "status": "200",
+    "nama": "UNTUNG SUGIK HARTO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "06-10-1983",
+    "umur": "41",
+    "tinggi": "165",
+    "berat": "58.5"
+  },
+  {
+    "id": 543,
+    "nokertas": 1078,
+    "nik": "0002808746008",
+    "status": "404"
+  },
+  {
+    "id": 544,
+    "nokertas": 1079,
+    "nik": "0002808746019",
+    "status": "200",
+    "nama": "M. SAPI'I",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "12-11-1960",
+    "umur": "64",
+    "tinggi": "167",
+    "berat": "63.32"
+  },
+  {
+    "id": 545,
+    "nokertas": 1080,
+    "nik": "0002808746098",
+    "status": "405"
+  },
+  {
+    "id": 546,
+    "nokertas": 1081,
+    "nik": "0002808746109",
+    "status": "200",
+    "nama": "SUAIBAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "04-02-1963",
+    "umur": "61",
+    "tinggi": "157",
+    "berat": "50.87"
+  },
+  {
+    "id": 547,
+    "nokertas": 1082,
+    "nik": "0002808746111",
+    "status": "404"
+  },
+  {
+    "id": 548,
+    "nokertas": 1083,
+    "nik": "0002808746144",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 549,
+    "nokertas": 1084,
+    "nik": "0002808746436",
+    "status": "200",
+    "nama": "MUSTAJAM",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "15-03-1950",
+    "umur": "74",
+    "tinggi": "156",
+    "berat": "52.92"
+  },
+  {
+    "id": 550,
+    "nokertas": 1085,
+    "nik": "0002808746842",
+    "status": "404"
+  },
+  {
+    "id": 551,
+    "nokertas": 1086,
+    "nik": "0002808747123",
+    "status": "404"
+  },
+  {
+    "id": 552,
+    "nokertas": 1087,
+    "nik": "0002808747382",
+    "status": "200",
+    "nama": "KHOLIL",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "18-05-1976",
+    "umur": "48",
+    "tinggi": "171",
+    "berat": "63.9"
+  },
+  {
+    "id": 553,
+    "nokertas": 1088,
+    "nik": "0002808747944",
+    "status": "404"
+  },
+  {
+    "id": 554,
+    "nokertas": 1089,
+    "nik": "0002808747955",
+    "status": "200",
+    "nama": "ABDUL MAJID",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "11-09-1971",
+    "umur": "53",
+    "tinggi": "172",
+    "berat": "64.8"
+  },
+  {
+    "id": 555,
+    "nokertas": 1090,
+    "nik": "0002808748089",
+    "status": "200",
+    "nama": "SUAIBAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "25-06-1983",
+    "umur": "41",
+    "tinggi": "167",
+    "berat": "56.95"
+  },
+  {
+    "id": 556,
+    "nokertas": 1091,
+    "nik": "0002808748091",
+    "status": "200",
+    "nama": "MOCHAMAD ADITYA PRATAMA",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-06-2007",
+    "umur": "17",
+    "tinggi": "170",
+    "berat": "63"
+  },
+  {
+    "id": 557,
+    "nokertas": 1092,
+    "nik": "0002808748113",
+    "status": "404"
+  },
+  {
+    "id": 558,
+    "nokertas": 1093,
+    "nik": "0002808748361",
+    "status": "404"
+  },
+  {
+    "id": 559,
+    "nokertas": 1094,
+    "nik": "0002808748539",
+    "status": "200",
+    "nama": "BAMBANG SUGIARTO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "12-08-1955",
+    "umur": "69",
+    "tinggi": "159",
+    "berat": "55.76"
+  },
+  {
+    "id": 560,
+    "nokertas": 1095,
+    "nik": "0002808748541",
+    "status": "200",
+    "nama": "KIBTIYAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "28-04-1956",
+    "umur": "68",
+    "tinggi": "166",
+    "berat": "58.91"
+  },
+  {
+    "id": 561,
+    "nokertas": 1096,
+    "nik": "0002808748563",
+    "status": "404"
+  },
+  {
+    "id": 562,
+    "nokertas": 1097,
+    "nik": "0002808748664",
+    "status": "200",
+    "nama": "DEWI RATNAWATI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "19-01-1948",
+    "umur": "76",
+    "tinggi": "164",
+    "berat": "57.12"
+  },
+  {
+    "id": 563,
+    "nokertas": 1098,
+    "nik": "0002808748675",
+    "status": "404"
+  },
+  {
+    "id": 564,
+    "nokertas": 1099,
+    "nik": "0002808748686",
+    "status": "404"
+  },
+  {
+    "id": 565,
+    "nokertas": 1100,
+    "nik": "0002808748697",
+    "status": "200",
+    "nama": "SUTIYONO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "25-03-1956",
+    "umur": "68",
+    "tinggi": "169",
+    "berat": "65.21"
+  },
+  {
+    "id": 566,
+    "nokertas": 1101,
+    "nik": "0002808748732",
+    "status": "404"
+  },
+  {
+    "id": 567,
+    "nokertas": 1102,
+    "nik": "0002808748754",
+    "status": "200",
+    "nama": "RAMELAN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "03-04-1950",
+    "umur": "74",
+    "tinggi": "159",
+    "berat": "55.76"
+  },
+  {
+    "id": 568,
+    "nokertas": 1103,
+    "nik": "0002808748765",
+    "status": "200",
+    "nama": "SUSMINARTI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "14-04-1958",
+    "umur": "66",
+    "tinggi": "166",
+    "berat": "58.91"
+  },
+  {
+    "id": 569,
+    "nokertas": 1104,
+    "nik": "0002808748787",
+    "status": "200",
+    "nama": "HERU RISDIYANTO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "05-11-1987",
+    "umur": "37",
+    "tinggi": "165",
+    "berat": "58.5"
+  },
+  {
+    "id": 570,
+    "nokertas": 1105,
+    "nik": "0002808748855",
+    "status": "404"
+  },
+  {
+    "id": 571,
+    "nokertas": 1106,
+    "nik": "0002808748866",
+    "status": "200",
+    "nama": "ERNA PUJINOVIATI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "03-11-1959",
+    "umur": "65",
+    "tinggi": "165",
+    "berat": "58.01"
+  },
+  {
+    "id": 572,
+    "nokertas": 1107,
+    "nik": "0002808748967",
+    "status": "404"
+  },
+  {
+    "id": 573,
+    "nokertas": 1108,
+    "nik": "0002808748978",
+    "status": "200",
+    "nama": "BUANG SUYANTO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "05-05-1950",
+    "umur": "74",
+    "tinggi": "167",
+    "berat": "63.32"
+  },
+  {
+    "id": 574,
+    "nokertas": 1109,
+    "nik": "0002808748989",
+    "status": "200",
+    "nama": "SRIATUN",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "25-06-1959",
+    "umur": "65",
+    "tinggi": "163",
+    "berat": "56.23"
+  },
+  {
+    "id": 575,
+    "nokertas": 1110,
+    "nik": "0002808749035",
+    "status": "200",
+    "nama": "LILIK SISWATI NINGSARI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "12-05-1960",
+    "umur": "64",
+    "tinggi": "160",
+    "berat": "53.55"
+  },
+  {
+    "id": 576,
+    "nokertas": 1111,
+    "nik": "0002808749046",
+    "status": "404"
+  },
+  {
+    "id": 577,
+    "nokertas": 1112,
+    "nik": "0002808749081",
+    "status": "200",
+    "nama": "DEDIK MEILIAN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "03-05-1982",
+    "umur": "42",
+    "tinggi": "173",
+    "berat": "65.7"
+  },
+  {
+    "id": 578,
+    "nokertas": 1113,
+    "nik": "0002808749103",
+    "status": "200",
+    "nama": "ZUNI ASTUTIK",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "11-06-1957",
+    "umur": "67",
+    "tinggi": "166",
+    "berat": "58.91"
+  },
+  {
+    "id": 579,
+    "nokertas": 1114,
+    "nik": "0002808749193",
+    "status": "200",
+    "nama": "AGUS SUDARNO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "15-02-1977",
+    "umur": "47",
+    "tinggi": "174",
+    "berat": "66.6"
+  },
+  {
+    "id": 580,
+    "nokertas": 1115,
+    "nik": "0002808749215",
+    "status": "404"
+  },
+  {
+    "id": 581,
+    "nokertas": 1116,
+    "nik": "0002808749204",
+    "status": "404"
+  },
+  {
+    "id": 582,
+    "nokertas": 1117,
+    "nik": "0002808749226",
+    "status": "200",
+    "nama": "MUSAROFAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "12-10-1943",
+    "umur": "81",
+    "tinggi": "164",
+    "berat": "57.12"
+  },
+  {
+    "id": 583,
+    "nokertas": 1118,
+    "nik": "0002808749283",
+    "status": "404"
+  },
+  {
+    "id": 584,
+    "nokertas": 1119,
+    "nik": "0002808749452",
+    "status": "200",
+    "nama": "SEPTIAN ANDRIANSAH",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "14-09-1990",
+    "umur": "34",
+    "tinggi": "174",
+    "berat": "66.6"
+  },
+  {
+    "id": 585,
+    "nokertas": 1120,
+    "nik": "0002808749518",
+    "status": "200",
+    "nama": "AMINATUN",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "16-08-1952",
+    "umur": "72",
+    "tinggi": "157",
+    "berat": "50.87"
+  },
+  {
+    "id": 586,
+    "nokertas": 1121,
+    "nik": "0002808749744",
+    "status": "200",
+    "nama": "YESI MARISA NINGRUM",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "04-03-1992",
+    "umur": "32",
+    "tinggi": "162",
+    "berat": "52.7"
+  },
+  {
+    "id": 587,
+    "nokertas": 1122,
+    "nik": "0002808749733",
+    "status": "200",
+    "nama": "KHOIRUL IKHWAN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "25-12-1987",
+    "umur": "37",
+    "tinggi": "172",
+    "berat": "64.8"
+  },
+  {
+    "id": 588,
+    "nokertas": 1123,
+    "nik": "0002808749856",
+    "status": "404"
+  },
+  {
+    "id": 589,
+    "nokertas": 1124,
+    "nik": "0002808749913",
+    "status": "200",
+    "nama": "SANUSI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "30-06-1962",
+    "umur": "62",
+    "tinggi": "159",
+    "berat": "55.76"
+  },
+  {
+    "id": 590,
+    "nokertas": 1125,
+    "nik": "0002808749924",
+    "status": "200",
+    "nama": "ZULAIKHA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "16-08-1970",
+    "umur": "54",
+    "tinggi": "165",
+    "berat": "55.25"
+  },
+  {
+    "id": 591,
+    "nokertas": 1126,
+    "nik": "0002808749935",
+    "status": "405"
+  },
+  {
+    "id": 592,
+    "nokertas": 1127,
+    "nik": "0002808749946",
+    "status": "404"
+  },
+  {
+    "id": 402,
+    "nokertas": 20,
+    "nik": "0000717079274",
+    "status": "200",
+    "nama": "DIANA SAFITRI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "15-11-1992",
+    "umur": "32",
+    "tinggi": "160",
+    "berat": "51"
+  },
+  {
+    "id": 403,
+    "nokertas": 21,
+    "nik": "0000717080073",
+    "status": "200",
+    "nama": "TAUFIQ RAMADHAN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "15-01-1998",
+    "umur": "27",
+    "tinggi": "175",
+    "berat": "67.5"
+  },
+  {
+    "id": 404,
+    "nokertas": 22,
+    "nik": "0000717083087",
+    "status": "200",
+    "nama": "SATUNI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-10-1959",
+    "umur": "65",
+    "tinggi": "157",
+    "berat": "50.87"
+  },
+  {
+    "id": 405,
+    "nokertas": 23,
+    "nik": "0000717083662",
+    "status": "404"
+  },
+  {
+    "id": 406,
+    "nokertas": 24,
+    "nik": "0000717084933",
+    "status": "404"
+  },
+  {
+    "id": 407,
+    "nokertas": 25,
+    "nik": "0000717085719",
+    "status": "404"
+  },
+  {
+    "id": 408,
+    "nokertas": 26,
+    "nik": "0000717086981",
+    "status": "405"
+  },
+  {
+    "id": 409,
+    "nokertas": 27,
+    "nik": "0000717088408",
+    "status": "200",
+    "nama": "SRIANAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "28-12-1969",
+    "umur": "55",
+    "tinggi": "161",
+    "berat": "51.85"
+  },
+  {
+    "id": 410,
+    "nokertas": 28,
+    "nik": "0000717088792",
+    "status": "200",
+    "nama": "ALI MUSTOFA",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-02-1967",
+    "umur": "57",
+    "tinggi": "170",
+    "berat": "63"
+  },
+  {
+    "id": 411,
+    "nokertas": 29,
+    "nik": "0000717088972",
+    "status": "200",
+    "nama": "SITI FATIMAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-07-1975",
+    "umur": "49",
+    "tinggi": "163",
+    "berat": "53.55"
+  },
+  {
+    "id": 412,
+    "nokertas": 30,
+    "nik": "0000717089049",
+    "status": "200",
+    "nama": "ERNI SUSANTI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-07-1992",
+    "umur": "32",
+    "tinggi": "166",
+    "berat": "56.1"
+  },
+  {
+    "id": 413,
+    "nokertas": 31,
+    "nik": "0000717089286",
+    "status": "200",
+    "nama": "MUHAMMAD ZAINUL ABIDIN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "19-01-1996",
+    "umur": "29",
+    "tinggi": "175",
+    "berat": "67.5"
+  },
+  {
+    "id": 414,
+    "nokertas": 32,
+    "nik": "0000717092515",
+    "status": "200",
+    "nama": "RASELI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "30-06-1963",
+    "umur": "61",
+    "tinggi": "168",
+    "berat": "64.26"
+  },
+  {
+    "id": 415,
+    "nokertas": 33,
+    "nik": "0000717095417",
+    "status": "404"
+  },
+  {
+    "id": 416,
+    "nokertas": 34,
+    "nik": "0000717097285",
+    "status": "200",
+    "nama": "HARI WIJAYA",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "26-06-1970",
+    "umur": "54",
+    "tinggi": "170",
+    "berat": "63"
+  },
+  {
+    "id": 417,
+    "nokertas": 35,
+    "nik": "0000717098837",
+    "status": "404"
+  },
+  {
+    "id": 418,
+    "nokertas": 36,
+    "nik": "0000717101392",
+    "status": "200",
+    "nama": "KORWOTO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "19-06-1965",
+    "umur": "59",
+    "tinggi": "170",
+    "berat": "63"
+  },
+  {
+    "id": 419,
+    "nokertas": 37,
+    "nik": "0000717101616",
+    "status": "200",
+    "nama": "RAHAYU",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-08-1966",
+    "umur": "58",
+    "tinggi": "161",
+    "berat": "51.85"
+  },
+  {
+    "id": 420,
+    "nokertas": 38,
+    "nik": "0000717101864",
+    "status": "200",
+    "nama": "SAIFUL ANAM",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-03-1975",
+    "umur": "49",
+    "tinggi": "172",
+    "berat": "64.8"
+  },
+  {
+    "id": 421,
+    "nokertas": 39,
+    "nik": "0000717101897",
+    "status": "200",
+    "nama": "URIFAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-03-1978",
+    "umur": "46",
+    "tinggi": "165",
+    "berat": "55.25"
+  },
+  {
+    "id": 422,
+    "nokertas": 40,
+    "nik": "0000717102191",
+    "status": "404"
+  },
+  {
+    "id": 423,
+    "nokertas": 41,
+    "nik": "0000717102955",
+    "status": "200",
+    "nama": "DWI ANGGUN ZHAZKIA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-05-2008",
+    "umur": "16",
+    "tinggi": "158",
+    "berat": "49.3"
+  },
+  {
+    "id": 424,
+    "nokertas": 42,
+    "nik": "0000717103427",
+    "status": "200",
+    "nama": "WANISO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-05-1960",
+    "umur": "64",
+    "tinggi": "168",
+    "berat": "64.26"
+  },
+  {
+    "id": 425,
+    "nokertas": 43,
+    "nik": "0000717104136",
+    "status": "200",
+    "nama": "SUHA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "24-06-1964",
+    "umur": "60",
+    "tinggi": "157",
+    "berat": "50.87"
+  },
+  {
+    "id": 426,
+    "nokertas": 44,
+    "nik": "0000717105058",
+    "status": "200",
+    "nama": "ZAINUL ARIFIN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "23-03-1965",
+    "umur": "59",
+    "tinggi": "174",
+    "berat": "66.6"
+  },
+  {
+    "id": 427,
+    "nokertas": 45,
+    "nik": "0000717105857",
+    "status": "200",
+    "nama": "SITI AISAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "13-08-1974",
+    "umur": "50",
+    "tinggi": "159",
+    "berat": "50.15"
+  },
+  {
+    "id": 428,
+    "nokertas": 46,
+    "nik": "0000717106612",
+    "status": "200",
+    "nama": "ACHMAD DJAINURI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "02-01-1969",
+    "umur": "56",
+    "tinggi": "167",
+    "berat": "60.3"
+  },
+  {
+    "id": 429,
+    "nokertas": 47,
+    "nik": "0000717106678",
+    "status": "200",
+    "nama": "KHASANAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "13-08-1979",
+    "umur": "45",
+    "tinggi": "157",
+    "berat": "48.45"
+  },
+  {
+    "id": 430,
+    "nokertas": 48,
+    "nik": "0000717107905",
+    "status": "200",
+    "nama": "MOCHAMMAD LUKMAN HAKIM",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "02-01-2002",
+    "umur": "23",
+    "tinggi": "171",
+    "berat": "63.9"
+  },
+  {
+    "id": 431,
+    "nokertas": 49,
+    "nik": "0000717108041",
+    "status": "200",
+    "nama": "PATEMI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-06-1955",
+    "umur": "69",
+    "tinggi": "158",
+    "berat": "51.77"
+  },
+  {
+    "id": 432,
+    "nokertas": 50,
+    "nik": "0000717108287",
+    "status": "200",
+    "nama": "LUKMAN HAKIM",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-07-1987",
+    "umur": "37",
+    "tinggi": "165",
+    "berat": "58.5"
+  },
+  {
+    "id": 433,
+    "nokertas": 51,
+    "nik": "0000717109176",
+    "status": "405"
+  },
+  {
+    "id": 434,
+    "nokertas": 52,
+    "nik": "0000717112293",
+    "status": "200",
+    "nama": "YANA NOVITASARI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "30-11-2001",
+    "umur": "23",
+    "tinggi": "161",
+    "berat": "51.85"
+  },
+  {
+    "id": 435,
+    "nokertas": 53,
+    "nik": "0000717114082",
+    "status": "200",
+    "nama": "SANIMAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-04-1946",
+    "umur": "78",
+    "tinggi": "156",
+    "berat": "49.98"
+  },
+  {
+    "id": 436,
+    "nokertas": 54,
+    "nik": "0000717114183",
+    "status": "200",
+    "nama": "SUHARSONO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-09-1966",
+    "umur": "58",
+    "tinggi": "165",
+    "berat": "58.5"
+  },
+  {
+    "id": 437,
+    "nokertas": 55,
+    "nik": "0000717114363",
+    "status": "200",
+    "nama": "SUHERMAN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-11-1968",
+    "umur": "56",
+    "tinggi": "166",
+    "berat": "59.4"
+  },
+  {
+    "id": 438,
+    "nokertas": 56,
+    "nik": "0000717117423",
+    "status": "200",
+    "nama": "MALIKA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "06-11-1956",
+    "umur": "68",
+    "tinggi": "156",
+    "berat": "49.98"
+  },
+  {
+    "id": 439,
+    "nokertas": 57,
+    "nik": "0000717117816",
+    "status": "404"
+  },
+  {
+    "id": 440,
+    "nokertas": 58,
+    "nik": "0000717117862",
+    "status": "404"
+  },
+  {
+    "id": 441,
+    "nokertas": 59,
+    "nik": "0000717118042",
+    "status": "200",
+    "nama": "ENDANG ANDAYANI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "17-04-1968",
+    "umur": "56",
+    "tinggi": "158",
+    "berat": "49.3"
+  },
+  {
+    "id": 442,
+    "nokertas": 60,
+    "nik": "0000717118119",
+    "status": "404"
+  },
+  {
+    "id": 443,
+    "nokertas": 61,
+    "nik": "0000717118479",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 444,
+    "nokertas": 62,
+    "nik": "0000717120459",
+    "status": "404"
+  },
+  {
+    "id": 445,
+    "nokertas": 63,
+    "nik": "0000717121359",
+    "status": "200",
+    "nama": "NASICHA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-06-1963",
+    "umur": "61",
+    "tinggi": "162",
+    "berat": "55.34"
+  },
+  {
+    "id": 446,
+    "nokertas": 64,
+    "nik": "0000717122946",
+    "status": "200",
+    "nama": "M SAICHON",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-06-1994",
+    "umur": "30",
+    "tinggi": "165",
+    "berat": "58.5"
+  },
+  {
+    "id": 447,
+    "nokertas": 65,
+    "nik": "0000717123249",
+    "status": "404"
+  },
+  {
+    "id": 448,
+    "nokertas": 66,
+    "nik": "0000717125736",
+    "status": "200",
+    "nama": "SUROSO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-11-1971",
+    "umur": "53",
+    "tinggi": "174",
+    "berat": "66.6"
+  },
+  {
+    "id": 449,
+    "nokertas": 67,
+    "nik": "0000717127986",
+    "status": "200",
+    "nama": "BAMBANG HERMANTO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-06-1960",
+    "umur": "64",
+    "tinggi": "159",
+    "berat": "55.76"
+  },
+  {
+    "id": 450,
+    "nokertas": 68,
+    "nik": "0000717128335",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 451,
+    "nokertas": 69,
+    "nik": "0000717128763",
+    "status": "200",
+    "nama": "KARTINI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "16-03-1961",
+    "umur": "63",
+    "tinggi": "167",
+    "berat": "59.8"
+  },
+  {
+    "id": 452,
+    "nokertas": 70,
+    "nik": "0000717128954",
+    "status": "404"
+  },
+  {
+    "id": 453,
+    "nokertas": 71,
+    "nik": "0000717129314",
+    "status": "200",
+    "nama": "MUDAWAMAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-06-1964",
+    "umur": "60",
+    "tinggi": "159",
+    "berat": "52.66"
+  },
+  {
+    "id": 454,
+    "nokertas": 72,
+    "nik": "0000717129819",
+    "status": "200",
+    "nama": "ATIM",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-04-1987",
+    "umur": "37",
+    "tinggi": "172",
+    "berat": "64.8"
+  },
+  {
+    "id": 455,
+    "nokertas": 73,
+    "nik": "0000717130258",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 593,
+    "nokertas": 1138,
+    "nik": "0002808749957",
+    "status": "200",
+    "nama": "ITA SULISTIYOWATI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "09-07-1981",
+    "umur": "43",
+    "tinggi": "164",
+    "berat": "54.4"
+  },
+  {
+    "id": 594,
+    "nokertas": 1139,
+    "nik": "0002808750148",
+    "status": "200",
+    "nama": "SUMARNI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-05-1949",
+    "umur": "75",
+    "tinggi": "165",
+    "berat": "58.01"
+  },
+  {
+    "id": 595,
+    "nokertas": 1140,
+    "nik": "0002808750161",
+    "status": "200",
+    "nama": "MOCH. KHOLIL",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "17-07-1982",
+    "umur": "42",
+    "tinggi": "168",
+    "berat": "61.2"
+  },
+  {
+    "id": 596,
+    "nokertas": 1141,
+    "nik": "0002808750317",
+    "status": "404"
+  },
+  {
+    "id": 597,
+    "nokertas": 1142,
+    "nik": "0002808750352",
+    "status": "200",
+    "nama": "MOKHAMAD NIDOM",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "24-05-1972",
+    "umur": "52",
+    "tinggi": "170",
+    "berat": "63"
+  },
+  {
+    "id": 672,
+    "nokertas": 1217,
+    "nik": "0000717217301",
+    "status": "404"
+  },
+  {
+    "id": 673,
+    "nokertas": 1218,
+    "nik": "0000717217413",
+    "status": "200",
+    "nama": "ANITA ZAHRO",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "20-03-2002",
+    "umur": "22",
+    "tinggi": "163",
+    "berat": "53.55"
+  },
+  {
+    "id": 674,
+    "nokertas": 1219,
+    "nik": "0000717217446",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 675,
+    "nokertas": 1220,
+    "nik": "0000717218289",
+    "status": "200",
+    "nama": "NAFIAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "30-07-1957",
+    "umur": "67",
+    "tinggi": "163",
+    "berat": "56.23"
+  },
+  {
+    "id": 676,
+    "nokertas": 1221,
+    "nik": "0000717221193",
+    "status": "200",
+    "nama": "PURWANTO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-09-1976",
+    "umur": "48",
+    "tinggi": "173",
+    "berat": "65.7"
+  },
+  {
+    "id": 677,
+    "nokertas": 1222,
+    "nik": "0000717221878",
+    "status": "200",
+    "nama": "DJUMAL",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "18-06-1942",
+    "umur": "82",
+    "tinggi": "167",
+    "berat": "63.32"
+  },
+  {
+    "id": 678,
+    "nokertas": 1223,
+    "nik": "0000717224433",
+    "status": "200",
+    "nama": "MADRAWI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "02-08-1948",
+    "umur": "76",
+    "tinggi": "158",
+    "berat": "54.81"
+  },
+  {
+    "id": 679,
+    "nokertas": 1224,
+    "nik": "0000717224681",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 680,
+    "nokertas": 1225,
+    "nik": "0000717224758",
+    "status": "404"
+  },
+  {
+    "id": 681,
+    "nokertas": 1226,
+    "nik": "0000717225546",
+    "status": "200",
+    "nama": "NIKMATUL IZZA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "30-12-1993",
+    "umur": "31",
+    "tinggi": "162",
+    "berat": "52.7"
+  },
+  {
+    "id": 682,
+    "nokertas": 1227,
+    "nik": "0000717228437",
+    "status": "200",
+    "nama": "MIFTAKHUL JANNAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "23-10-2003",
+    "umur": "21",
+    "tinggi": "163",
+    "berat": "53.55"
+  },
+  {
+    "id": 683,
+    "nokertas": 1228,
+    "nik": "0000717229113",
+    "status": "404"
+  },
+  {
+    "id": 684,
+    "nokertas": 1229,
+    "nik": "0000717230024",
+    "status": "404"
+  },
+  {
+    "id": 685,
+    "nokertas": 1230,
+    "nik": "0000717230114",
+    "status": "200",
+    "nama": "M.BAWON",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-12-1968",
+    "umur": "56",
+    "tinggi": "167",
+    "berat": "60.3"
+  },
+  {
+    "id": 686,
+    "nokertas": 1231,
+    "nik": "0000717230935",
+    "status": "200",
+    "nama": "CHAYUMI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "29-04-1969",
+    "umur": "55",
+    "tinggi": "163",
+    "berat": "53.55"
+  },
+  {
+    "id": 687,
+    "nokertas": 1232,
+    "nik": "0000717231339",
+    "status": "200",
+    "nama": "ZELIA FITRI RACHMAWATI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-12-2001",
+    "umur": "23",
+    "tinggi": "161",
+    "berat": "51.85"
+  },
+  {
+    "id": 688,
+    "nokertas": 1233,
+    "nik": "0000717230979",
+    "status": "200",
+    "nama": "NUR AINI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "21-10-1996",
+    "umur": "28",
+    "tinggi": "163",
+    "berat": "53.55"
+  },
+  {
+    "id": 689,
+    "nokertas": 1234,
+    "nik": "0000717231508",
+    "status": "404"
+  },
+  {
+    "id": 690,
+    "nokertas": 1235,
+    "nik": "0000717232015",
+    "status": "200",
+    "nama": "CHAYUMAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "19-10-1964",
+    "umur": "60",
+    "tinggi": "159",
+    "berat": "52.66"
+  },
+  {
+    "id": 691,
+    "nokertas": 1236,
+    "nik": "0000717232037",
+    "status": "200",
+    "nama": "M ALI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-06-2001",
+    "umur": "23",
+    "tinggi": "165",
+    "berat": "58.5"
+  },
+  {
+    "id": 692,
+    "nokertas": 1237,
+    "nik": "0000717232959",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 693,
+    "nokertas": 1238,
+    "nik": "0000717234377",
+    "status": "200",
+    "nama": "SIAMI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "25-10-1968",
+    "umur": "56",
+    "tinggi": "158",
+    "berat": "49.3"
+  },
+  {
+    "id": 694,
+    "nokertas": 1239,
+    "nik": "0000717235672",
+    "status": "200",
+    "nama": "KOSIM",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "03-08-1966",
+    "umur": "58",
+    "tinggi": "174",
+    "berat": "66.6"
+  },
+  {
+    "id": 695,
+    "nokertas": 1240,
+    "nik": "0000717236616",
+    "status": "200",
+    "nama": "SAADAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-06-1972",
+    "umur": "52",
+    "tinggi": "157",
+    "berat": "48.45"
+  },
+  {
+    "id": 696,
+    "nokertas": 1241,
+    "nik": "0000717236919",
+    "status": "200",
+    "nama": "ALIYAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-08-1955",
+    "umur": "69",
+    "tinggi": "165",
+    "berat": "58.01"
+  },
+  {
+    "id": 697,
+    "nokertas": 1242,
+    "nik": "0000717237235",
+    "status": "200",
+    "nama": "AISAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-08-1979",
+    "umur": "45",
+    "tinggi": "156",
+    "berat": "47.6"
+  },
+  {
+    "id": 698,
+    "nokertas": 1243,
+    "nik": "0000717237358",
+    "status": "404"
+  },
+  {
+    "id": 699,
+    "nokertas": 1244,
+    "nik": "0000717237775",
+    "status": "200",
+    "nama": "M.SOFAN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "06-11-1972",
+    "umur": "52",
+    "tinggi": "169",
+    "berat": "62.1"
+  },
+  {
+    "id": 700,
+    "nokertas": 1245,
+    "nik": "0000717237854",
+    "status": "200",
+    "nama": "LILIK JANNAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "25-02-1973",
+    "umur": "51",
+    "tinggi": "162",
+    "berat": "52.7"
+  },
+  {
+    "id": 701,
+    "nokertas": 1246,
+    "nik": "0000717238113",
+    "status": "200",
+    "nama": "IS'ADURROFIQ",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "25-12-2000",
+    "umur": "24",
+    "tinggi": "171",
+    "berat": "63.9"
+  },
+  {
+    "id": 702,
+    "nokertas": 1247,
+    "nik": "0000717239711",
+    "status": "405"
+  },
+  {
+    "id": 703,
+    "nokertas": 1248,
+    "nik": "0000717239744",
+    "status": "405"
+  },
+  {
+    "id": 704,
+    "nokertas": 1249,
+    "nik": "0000717240521",
+    "status": "404"
+  },
+  {
+    "id": 705,
+    "nokertas": 1250,
+    "nik": "0000717242681",
+    "status": "200",
+    "nama": "ABDUL WAKHID",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "03-02-1978",
+    "umur": "47",
+    "tinggi": "165",
+    "berat": "58.5"
+  },
+  {
+    "id": 706,
+    "nokertas": 1251,
+    "nik": "0000717242758",
+    "status": "200",
+    "nama": "LULUK MUCHOLIP.",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-09-1980",
+    "umur": "44",
+    "tinggi": "164",
+    "berat": "54.4"
+  },
+  {
+    "id": 707,
+    "nokertas": 1252,
+    "nik": "0000717243028",
+    "status": "405"
+  },
+  {
+    "id": 708,
+    "nokertas": 1253,
+    "nik": "0000717243478",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 709,
+    "nokertas": 1254,
+    "nik": "0000717243737",
+    "status": "200",
+    "nama": "PINARSIH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "03-08-1949",
+    "umur": "75",
+    "tinggi": "165",
+    "berat": "58.01"
+  },
+  {
+    "id": 710,
+    "nokertas": 1255,
+    "nik": "0000717248654",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 711,
+    "nokertas": 1256,
+    "nik": "0000717248957",
+    "status": "200",
+    "nama": "WARNITI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "16-06-1952",
+    "umur": "72",
+    "tinggi": "167",
+    "berat": "59.8"
+  },
+  {
+    "id": 712,
+    "nokertas": 1257,
+    "nik": "0000717249778",
+    "status": "200",
+    "nama": "SAMSUL ARIFIN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-10-1975",
+    "umur": "49",
+    "tinggi": "172",
+    "berat": "64.8"
+  },
+  {
+    "id": 713,
+    "nokertas": 1258,
+    "nik": "0000717250397",
+    "status": "200",
+    "nama": "RITA SAHARA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "",
+    "umur": "Format tanggal tidak valid. Harus dalam format DD-MM-YYYY.",
+    "tinggi": "157",
+    "berat": "48.45"
+  },
+  {
+    "id": 714,
+    "nokertas": 1259,
+    "nik": "0000717250432",
+    "status": "200",
+    "nama": "M FAIZIN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-02-1996",
+    "umur": "29",
+    "tinggi": "172",
+    "berat": "64.8"
+  },
+  {
+    "id": 715,
+    "nokertas": 1260,
+    "nik": "0000717252074",
+    "status": "200",
+    "nama": "SYAHRUL ABADI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "09-10-2006",
+    "umur": "18",
+    "tinggi": "169",
+    "berat": "62.1"
+  },
+  {
+    "id": 716,
+    "nokertas": 1261,
+    "nik": "0000717251679",
+    "status": "200",
+    "nama": "LAILATUL CHIKMA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "25-07-2000",
+    "umur": "24",
+    "tinggi": "159",
+    "berat": "50.15"
+  },
+  {
+    "id": 717,
+    "nokertas": 1262,
+    "nik": "0000717253997",
+    "status": "200",
+    "nama": "MOCH. FADELI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "24-11-1956",
+    "umur": "68",
+    "tinggi": "163",
+    "berat": "59.54"
+  },
+  {
+    "id": 718,
+    "nokertas": 1263,
+    "nik": "0000717255628",
+    "status": "200",
+    "nama": "MUNAWAROH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-10-1967",
+    "umur": "57",
+    "tinggi": "167",
+    "berat": "56.95"
+  },
+  {
+    "id": 719,
+    "nokertas": 1264,
+    "nik": "0000717256056",
+    "status": "404"
+  },
+  {
+    "id": 720,
+    "nokertas": 1265,
+    "nik": "0000717255887",
+    "status": "404"
+  },
+  {
+    "id": 721,
+    "nokertas": 1266,
+    "nik": "0000717258205",
+    "status": "200",
+    "nama": "KHOLIQ",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-08-1967",
+    "umur": "57",
+    "tinggi": "174",
+    "berat": "66.6"
+  },
+  {
+    "id": 722,
+    "nokertas": 1267,
+    "nik": "0000717258374",
+    "status": "200",
+    "nama": "SUYAMI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-08-1977",
+    "umur": "47",
+    "tinggi": "167",
+    "berat": "56.95"
+  },
+  {
+    "id": 723,
+    "nokertas": 1268,
+    "nik": "0000717259263",
+    "status": "404"
+  },
+  {
+    "id": 724,
+    "nokertas": 1269,
+    "nik": "0000717259825",
+    "status": "200",
+    "nama": "GOZALI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "17-01-1958",
+    "umur": "67",
+    "tinggi": "163",
+    "berat": "59.54"
+  },
+  {
+    "id": 725,
+    "nokertas": 1270,
+    "nik": "0000717259937",
+    "status": "200",
+    "nama": "HURIN",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-01-1970",
+    "umur": "55",
+    "tinggi": "158",
+    "berat": "49.3"
+  },
+  {
+    "id": 726,
+    "nokertas": 1271,
+    "nik": "0000717261129",
+    "status": "200",
+    "nama": "BUSRO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-08-1999",
+    "umur": "25",
+    "tinggi": "170",
+    "berat": "63"
+  },
+  {
+    "id": 727,
+    "nokertas": 1272,
+    "nik": "0000717261647",
+    "status": "200",
+    "nama": "LASENO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-01-1950",
+    "umur": "75",
+    "tinggi": "169",
+    "berat": "65.21"
+  },
+  {
+    "id": 728,
+    "nokertas": 1273,
+    "nik": "0000717261906",
+    "status": "200",
+    "nama": "SAROHA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-12-1962",
+    "umur": "62",
+    "tinggi": "155",
+    "berat": "49.09"
+  },
+  {
+    "id": 729,
+    "nokertas": 1274,
+    "nik": "0000717261952",
+    "status": "200",
+    "nama": "SLAMET ISROIL",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "05-02-1990",
+    "umur": "35",
+    "tinggi": "175",
+    "berat": "67.5"
+  },
+  {
+    "id": 730,
+    "nokertas": 1275,
+    "nik": "0000717262211",
+    "status": "404"
+  },
+  {
+    "id": 731,
+    "nokertas": 1276,
+    "nik": "0000717262255",
+    "status": "200",
+    "nama": "ABD. GHOFUR",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "02-03-1965",
+    "umur": "59",
+    "tinggi": "173",
+    "berat": "65.7"
+  },
+  {
+    "id": 732,
+    "nokertas": 1277,
+    "nik": "0000717263998",
+    "status": "200",
+    "nama": "MOCHAMMAD IRODAD",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "24-08-2004",
+    "umur": "20",
+    "tinggi": "171",
+    "berat": "63.9"
+  },
+  {
+    "id": 733,
+    "nokertas": 1278,
+    "nik": "0000717262716",
+    "status": "404"
+  },
+  {
+    "id": 734,
+    "nokertas": 1279,
+    "nik": "0000717264178",
+    "status": "200",
+    "nama": "M MANAKIBUL",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-12-1972",
+    "umur": "52",
+    "tinggi": "170",
+    "berat": "63"
+  },
+  {
+    "id": 735,
+    "nokertas": 1280,
+    "nik": "0000717264898",
+    "status": "200",
+    "nama": "HAULA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-10-1975",
+    "umur": "49",
+    "tinggi": "166",
+    "berat": "56.1"
+  },
+  {
+    "id": 736,
+    "nokertas": 1281,
+    "nik": "0000717266373",
+    "status": "200",
+    "nama": "KHOIRRU ANISAK",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "18-01-2002",
+    "umur": "23",
+    "tinggi": "156",
+    "berat": "47.6"
+  },
+  {
+    "id": 737,
+    "nokertas": 1282,
+    "nik": "0000717265269",
+    "status": "200",
+    "nama": "NURUL HUDA",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-12-1992",
+    "umur": "32",
+    "tinggi": "167",
+    "berat": "60.3"
+  },
+  {
+    "id": 738,
+    "nokertas": 1283,
+    "nik": "0000717267161",
+    "status": "200",
+    "nama": "MUDJIONO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "05-05-1960",
+    "umur": "64",
+    "tinggi": "162",
+    "berat": "58.59"
+  },
+  {
+    "id": 739,
+    "nokertas": 1284,
+    "nik": "0000717267284",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 740,
+    "nokertas": 1285,
+    "nik": "0000717267868",
+    "status": "200",
+    "nama": "HARTONO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "06-10-1965",
+    "umur": "59",
+    "tinggi": "172",
+    "berat": "64.8"
+  },
+  {
+    "id": 741,
+    "nokertas": 1286,
+    "nik": "0000717268149",
+    "status": "200",
+    "nama": "NUR ROKHMAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "15-05-1972",
+    "umur": "52",
+    "tinggi": "158",
+    "berat": "49.3"
+  },
+  {
+    "id": 742,
+    "nokertas": 1287,
+    "nik": "0000717272177",
+    "status": "200",
+    "nama": "SAKUR",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-12-1977",
+    "umur": "47",
+    "tinggi": "169",
+    "berat": "62.1"
+  },
+  {
+    "id": 743,
+    "nokertas": 1288,
+    "nik": "0000717272706",
+    "status": "200",
+    "nama": "YATIMAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-07-1976",
+    "umur": "48",
+    "tinggi": "156",
+    "berat": "47.6"
+  },
+  {
+    "id": 744,
+    "nokertas": 1289,
+    "nik": "0000717273562",
+    "status": "200",
+    "nama": "SLAMET FAUJI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-12-2009",
+    "umur": "15",
+    "tinggi": "128",
+    "berat": "22.68"
+  },
+  {
+    "id": 745,
+    "nokertas": 1290,
+    "nik": "0000717272807",
+    "status": "200",
+    "nama": "B ULUM",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-07-2001",
+    "umur": "23",
+    "tinggi": "174",
+    "berat": "66.6"
+  },
+  {
+    "id": 746,
+    "nokertas": 1291,
+    "nik": "0000717272908",
+    "status": "200",
+    "nama": "M FAJAR",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-01-2007",
+    "umur": "18",
+    "tinggi": "171",
+    "berat": "63.9"
+  }
+]

@@ -64,23 +64,38 @@ function beratIdeal(tinggi, umur, jenisKelamin) {
 
 //menghitung selisih umur
 function calculateAge(umur) {
-    // Memisahkan tanggal, bulan, dan tahun dari input
-    const [day, month, year] = umur.split('-').map(Number);
+    try {
+        // Validasi format input dan pisahkan tanggal, bulan, dan tahun
+        const [day, month, year] = umur.split('-').map(Number);
 
-    // Membuat objek Date dengan tahun, bulan (0-11), dan tanggal
-    const birth = new Date(year, month - 1, day); // Bulan - 1 karena bulan di JavaScript dimulai dari 0
-    const today = new Date(); // Mendapatkan tanggal hari ini
+        // Pastikan nilai day, month, dan year valid
+        if (!day || !month || !year || day < 1 || day > 31 || month < 1 || month > 12 || year < 0) {
+            throw new Error("Format tanggal tidak valid. Harus dalam format DD-MM-YYYY.");
+        }
 
-    let age = today.getFullYear() - birth.getFullYear(); // Menghitung selisih tahun
-    const monthDiff = today.getMonth() - birth.getMonth(); // Selisih bulan
+        // Membuat objek Date untuk tanggal lahir
+        const birth = new Date(year, month - 1, day); // Bulan - 1 karena bulan di JavaScript dimulai dari 0
+        const today = new Date(); // Tanggal hari ini
 
-    // Jika bulan saat ini kurang dari bulan lahir, kurangi umur 1 tahun
-    if (monthDiff < 0 || (monthDiff === 0 && today.getDate() < birth.getDate())) {
-        age--;
+        // Periksa apakah tanggal lahir valid (misalnya, 30 Februari tidak ada)
+        if (birth > today || birth.getDate() !== day || birth.getMonth() !== (month - 1)) {
+            throw new Error("Tanggal lahir tidak valid.");
+        }
+
+        let age = today.getFullYear() - birth.getFullYear(); // Selisih tahun
+        const monthDiff = today.getMonth() - birth.getMonth(); // Selisih bulan
+
+        // Jika bulan saat ini lebih kecil dari bulan lahir, atau sama tetapi tanggal hari ini lebih kecil, kurangi umur 1
+        if (monthDiff < 0 || (monthDiff === 0 && today.getDate() < birth.getDate())) {
+            age--;
+        }
+
+        return age; // Mengembalikan umur
+    } catch (error) {
+        return error.message; // Mengembalikan pesan error jika ada masalah
     }
-
-    return age; // Mengembalikan umur
 }
+
 
 // Fungsi untuk memperbarui status menjadi '200' dan menambahkannya ke file fix.json
 const updateJsonStatusSucces = (nama, nik, jeniskelamin, tanggallahir, umur, tinggi, berat) => {
@@ -195,10 +210,10 @@ const updateUserLogin = (email, password) =>{
         const data = JSON.parse(fs.readFileSync(dataUser, 'utf-8'));
         const entry = data.find(item => item.email === "");
         if(entry){
-            entry.email = email;
-            entry.password = password;
+            entry.email = `${email}`;
+            entry.password = `${password}`;
             fs.writeFileSync(dataUser, JSON.stringify(data, null, 2), 'utf-8');
-            console.log(`Berhasil memasukan email "${email}" dan password "${password}" ke database, silahkan start ulang`);
+            console.log(`[INFO] Berhasil menambahkan data email "${email}" dan password "${password}" ke database`);
         }else{
             console.log("gagal")
         }

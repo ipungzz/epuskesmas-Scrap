@@ -1,1 +1,4340 @@
-[]
+[
+  {
+    "id": 565,
+    "nokertas": 1110,
+    "nik": "0000717114363",
+    "status": "200",
+    "nama": "SUHERMAN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-11-1968",
+    "umur": "56",
+    "tinggi": "174",
+    "berat": "66.6"
+  },
+  {
+    "id": 566,
+    "nokertas": 1111,
+    "nik": "0000717117423",
+    "status": "200",
+    "nama": "MALIKA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "06-11-1956",
+    "umur": "68",
+    "tinggi": "164",
+    "berat": "57.12"
+  },
+  {
+    "id": 567,
+    "nokertas": 1112,
+    "nik": "0000717117816",
+    "status": "404"
+  },
+  {
+    "id": 568,
+    "nokertas": 1113,
+    "nik": "0000717120459",
+    "status": "404"
+  },
+  {
+    "id": 569,
+    "nokertas": 1114,
+    "nik": "0000717121359",
+    "status": "200",
+    "nama": "NASICHA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-06-1963",
+    "umur": "61",
+    "tinggi": "160",
+    "berat": "53.55"
+  },
+  {
+    "id": 570,
+    "nokertas": 1115,
+    "nik": "0000717122946",
+    "status": "200",
+    "nama": "M SAICHON",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-06-1994",
+    "umur": "30",
+    "tinggi": "174",
+    "berat": "66.6"
+  },
+  {
+    "id": 571,
+    "nokertas": 1116,
+    "nik": "0000717123249",
+    "status": "404"
+  },
+  {
+    "id": 572,
+    "nokertas": 1117,
+    "nik": "0000717125736",
+    "status": "200",
+    "nama": "SUROSO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-11-1971",
+    "umur": "53",
+    "tinggi": "166",
+    "berat": "59.4"
+  },
+  {
+    "id": 573,
+    "nokertas": 1118,
+    "nik": "0000717127986",
+    "status": "200",
+    "nama": "BAMBANG HERMANTO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-06-1960",
+    "umur": "64",
+    "tinggi": "158",
+    "berat": "54.81"
+  },
+  {
+    "id": 574,
+    "nokertas": 1119,
+    "nik": "0000717224758",
+    "status": "404"
+  },
+  {
+    "id": 575,
+    "nokertas": 1120,
+    "nik": "0000717225546",
+    "status": "200",
+    "nama": "NIKMATUL IZZA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "30-12-1993",
+    "umur": "31",
+    "tinggi": "156",
+    "berat": "47.6"
+  },
+  {
+    "id": 576,
+    "nokertas": 1121,
+    "nik": "0000717228437",
+    "status": "200",
+    "nama": "MIFTAKHUL JANNAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "23-10-2003",
+    "umur": "21",
+    "tinggi": "163",
+    "berat": "53.55"
+  },
+  {
+    "id": 577,
+    "nokertas": 1122,
+    "nik": "0000717229113",
+    "status": "404"
+  },
+  {
+    "id": 578,
+    "nokertas": 1123,
+    "nik": "0000717230024",
+    "status": "404"
+  },
+  {
+    "id": 579,
+    "nokertas": 1124,
+    "nik": "0000717230114",
+    "status": "200",
+    "nama": "M.BAWON",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-12-1968",
+    "umur": "56",
+    "tinggi": "175",
+    "berat": "67.5"
+  },
+  {
+    "id": 580,
+    "nokertas": 1125,
+    "nik": "0000717230935",
+    "status": "200",
+    "nama": "CHAYUMI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "29-04-1969",
+    "umur": "55",
+    "tinggi": "160",
+    "berat": "51"
+  },
+  {
+    "id": 581,
+    "nokertas": 1126,
+    "nik": "0000717231339",
+    "status": "200",
+    "nama": "ZELIA FITRI RACHMAWATI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-12-2001",
+    "umur": "23",
+    "tinggi": "160",
+    "berat": "51"
+  },
+  {
+    "id": 582,
+    "nokertas": 1127,
+    "nik": "0000717230979",
+    "status": "200",
+    "nama": "NUR AINI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "21-10-1996",
+    "umur": "28",
+    "tinggi": "159",
+    "berat": "50.15"
+  },
+  {
+    "id": 583,
+    "nokertas": 1128,
+    "nik": "0000717231508",
+    "status": "404"
+  },
+  {
+    "id": 584,
+    "nokertas": 1129,
+    "nik": "0000717232015",
+    "status": "200",
+    "nama": "CHAYUMAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "19-10-1964",
+    "umur": "60",
+    "tinggi": "164",
+    "berat": "57.12"
+  },
+  {
+    "id": 585,
+    "nokertas": 1130,
+    "nik": "0000717232037",
+    "status": "200",
+    "nama": "M ALI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-06-2001",
+    "umur": "23",
+    "tinggi": "165",
+    "berat": "58.5"
+  },
+  {
+    "id": 586,
+    "nokertas": 1131,
+    "nik": "0000717232959",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 587,
+    "nokertas": 1132,
+    "nik": "0000717234377",
+    "status": "200",
+    "nama": "SIAMI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "25-10-1968",
+    "umur": "56",
+    "tinggi": "156",
+    "berat": "47.6"
+  },
+  {
+    "id": 588,
+    "nokertas": 1133,
+    "nik": "0000717235672",
+    "status": "200",
+    "nama": "KOSIM",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "03-08-1966",
+    "umur": "58",
+    "tinggi": "171",
+    "berat": "63.9"
+  },
+  {
+    "id": 589,
+    "nokertas": 1134,
+    "nik": "0000717236616",
+    "status": "200",
+    "nama": "SAADAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-06-1972",
+    "umur": "52",
+    "tinggi": "156",
+    "berat": "47.6"
+  },
+  {
+    "id": 590,
+    "nokertas": 1135,
+    "nik": "0000717236919",
+    "status": "200",
+    "nama": "ALIYAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-08-1955",
+    "umur": "69",
+    "tinggi": "165",
+    "berat": "58.01"
+  },
+  {
+    "id": 591,
+    "nokertas": 1136,
+    "nik": "0000717237235",
+    "status": "200",
+    "nama": "AISAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-08-1979",
+    "umur": "45",
+    "tinggi": "165",
+    "berat": "55.25"
+  },
+  {
+    "id": 592,
+    "nokertas": 1137,
+    "nik": "0000717237358",
+    "status": "404"
+  },
+  {
+    "id": 593,
+    "nokertas": 1138,
+    "nik": "0000717237775",
+    "status": "200",
+    "nama": "M.SOFAN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "06-11-1972",
+    "umur": "52",
+    "tinggi": "167",
+    "berat": "60.3"
+  },
+  {
+    "id": 594,
+    "nokertas": 1139,
+    "nik": "0000717237854",
+    "status": "200",
+    "nama": "LILIK JANNAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "25-02-1973",
+    "umur": "52",
+    "tinggi": "164",
+    "berat": "54.4"
+  },
+  {
+    "id": 595,
+    "nokertas": 1140,
+    "nik": "0000717238113",
+    "status": "200",
+    "nama": "IS'ADURROFIQ",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "25-12-2000",
+    "umur": "24",
+    "tinggi": "175",
+    "berat": "67.5"
+  },
+  {
+    "id": 596,
+    "nokertas": 1141,
+    "nik": "0000717240521",
+    "status": "404"
+  },
+  {
+    "id": 597,
+    "nokertas": 1142,
+    "nik": "0000717242681",
+    "status": "200",
+    "nama": "ABDUL WAKHID",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "03-02-1978",
+    "umur": "47",
+    "tinggi": "169",
+    "berat": "62.1"
+  },
+  {
+    "id": 598,
+    "nokertas": 1143,
+    "nik": "0000717242758",
+    "status": "200",
+    "nama": "LULUK MUCHOLIP.",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-09-1980",
+    "umur": "44",
+    "tinggi": "161",
+    "berat": "51.85"
+  },
+  {
+    "id": 599,
+    "nokertas": 1144,
+    "nik": "0000717248957",
+    "status": "200",
+    "nama": "WARNITI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "16-06-1952",
+    "umur": "72",
+    "tinggi": "167",
+    "berat": "59.8"
+  },
+  {
+    "id": 600,
+    "nokertas": 1145,
+    "nik": "0000717249778",
+    "status": "200",
+    "nama": "SAMSUL ARIFIN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-10-1975",
+    "umur": "49",
+    "tinggi": "175",
+    "berat": "67.5"
+  },
+  {
+    "id": 601,
+    "nokertas": 1146,
+    "nik": "0000717250432",
+    "status": "200",
+    "nama": "M FAIZIN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-02-1996",
+    "umur": "29",
+    "tinggi": "166",
+    "berat": "59.4"
+  },
+  {
+    "id": 602,
+    "nokertas": 1147,
+    "nik": "0000717251679",
+    "status": "200",
+    "nama": "LAILATUL CHIKMA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "25-07-2000",
+    "umur": "24",
+    "tinggi": "157",
+    "berat": "48.45"
+  },
+  {
+    "id": 603,
+    "nokertas": 1148,
+    "nik": "0000717253997",
+    "status": "200",
+    "nama": "MOCH. FADELI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "24-11-1956",
+    "umur": "68",
+    "tinggi": "166",
+    "berat": "62.37"
+  },
+  {
+    "id": 604,
+    "nokertas": 1149,
+    "nik": "0000717255628",
+    "status": "200",
+    "nama": "MUNAWAROH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-10-1967",
+    "umur": "57",
+    "tinggi": "156",
+    "berat": "47.6"
+  },
+  {
+    "id": 605,
+    "nokertas": 1150,
+    "nik": "0000717258205",
+    "status": "200",
+    "nama": "KHOLIQ",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-08-1967",
+    "umur": "57",
+    "tinggi": "173",
+    "berat": "65.7"
+  },
+  {
+    "id": 606,
+    "nokertas": 1151,
+    "nik": "0000717258374",
+    "status": "200",
+    "nama": "SUYAMI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-08-1977",
+    "umur": "47",
+    "tinggi": "165",
+    "berat": "55.25"
+  },
+  {
+    "id": 607,
+    "nokertas": 1152,
+    "nik": "0000717259825",
+    "status": "200",
+    "nama": "GOZALI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "17-01-1958",
+    "umur": "67",
+    "tinggi": "170",
+    "berat": "66.15"
+  },
+  {
+    "id": 608,
+    "nokertas": 1153,
+    "nik": "0000717259937",
+    "status": "200",
+    "nama": "HURIN",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-01-1970",
+    "umur": "55",
+    "tinggi": "159",
+    "berat": "50.15"
+  },
+  {
+    "id": 609,
+    "nokertas": 1154,
+    "nik": "0000717261129",
+    "status": "200",
+    "nama": "BUSRO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-08-1999",
+    "umur": "25",
+    "tinggi": "172",
+    "berat": "64.8"
+  },
+  {
+    "id": 610,
+    "nokertas": 1155,
+    "nik": "0000717261647",
+    "status": "200",
+    "nama": "LASENO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-01-1950",
+    "umur": "75",
+    "tinggi": "156",
+    "berat": "52.92"
+  },
+  {
+    "id": 611,
+    "nokertas": 1156,
+    "nik": "0000717261906",
+    "status": "200",
+    "nama": "M. MISBAHUDIN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "28-09-1996",
+    "umur": "28",
+    "tinggi": "166",
+    "berat": "59.4"
+  },
+  {
+    "id": 612,
+    "nokertas": 1157,
+    "nik": "0000717261952",
+    "status": "200",
+    "nama": "SLAMET ISROIL",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "05-02-1990",
+    "umur": "35",
+    "tinggi": "166",
+    "berat": "59.4"
+  },
+  {
+    "id": 613,
+    "nokertas": 1158,
+    "nik": "0000717262211",
+    "status": "404"
+  },
+  {
+    "id": 614,
+    "nokertas": 1159,
+    "nik": "0000717262255",
+    "status": "200",
+    "nama": "ABD. GHOFUR",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "02-03-1965",
+    "umur": "60",
+    "tinggi": "171",
+    "berat": "67.1"
+  },
+  {
+    "id": 615,
+    "nokertas": 1160,
+    "nik": "0000717263998",
+    "status": "200",
+    "nama": "MOCHAMMAD IRODAD",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "24-08-2004",
+    "umur": "20",
+    "tinggi": "174",
+    "berat": "66.6"
+  },
+  {
+    "id": 616,
+    "nokertas": 1161,
+    "nik": "0000717262716",
+    "status": "404"
+  },
+  {
+    "id": 617,
+    "nokertas": 1162,
+    "nik": "0000717264178",
+    "status": "200",
+    "nama": "M MANAKIBUL",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-12-1972",
+    "umur": "52",
+    "tinggi": "175",
+    "berat": "67.5"
+  },
+  {
+    "id": 618,
+    "nokertas": 1163,
+    "nik": "0000717264898",
+    "status": "200",
+    "nama": "HAULA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-10-1975",
+    "umur": "49",
+    "tinggi": "166",
+    "berat": "56.1"
+  },
+  {
+    "id": 619,
+    "nokertas": 1164,
+    "nik": "0000717266373",
+    "status": "200",
+    "nama": "KHOIRRU ANISAK",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "18-01-2002",
+    "umur": "23",
+    "tinggi": "163",
+    "berat": "53.55"
+  },
+  {
+    "id": 620,
+    "nokertas": 1165,
+    "nik": "0000717265269",
+    "status": "200",
+    "nama": "NURUL HUDA",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-12-1992",
+    "umur": "32",
+    "tinggi": "171",
+    "berat": "63.9"
+  },
+  {
+    "id": 621,
+    "nokertas": 1166,
+    "nik": "0000717267161",
+    "status": "200",
+    "nama": "MUDJIONO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "05-05-1960",
+    "umur": "64",
+    "tinggi": "160",
+    "berat": "56.7"
+  },
+  {
+    "id": 622,
+    "nokertas": 1167,
+    "nik": "0000717267868",
+    "status": "200",
+    "nama": "HARTONO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "06-10-1965",
+    "umur": "59",
+    "tinggi": "167",
+    "berat": "60.3"
+  },
+  {
+    "id": 623,
+    "nokertas": 1168,
+    "nik": "0000717268149",
+    "status": "200",
+    "nama": "NUR ROKHMAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "15-05-1972",
+    "umur": "52",
+    "tinggi": "165",
+    "berat": "55.25"
+  },
+  {
+    "id": 624,
+    "nokertas": 1169,
+    "nik": "0000717272177",
+    "status": "405"
+  },
+  {
+    "id": 625,
+    "nokertas": 1170,
+    "nik": "0000717272706",
+    "status": "200",
+    "nama": "YATIMAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-07-1976",
+    "umur": "48",
+    "tinggi": "159",
+    "berat": "50.15"
+  },
+  {
+    "id": 626,
+    "nokertas": 1171,
+    "nik": "0000717273562",
+    "status": "200",
+    "nama": "SLAMET FAUJI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-12-2009",
+    "umur": "15",
+    "tinggi": "123",
+    "berat": "18.63"
+  },
+  {
+    "id": 627,
+    "nokertas": 1172,
+    "nik": "0000717272807",
+    "status": "200",
+    "nama": "B ULUM",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-07-2001",
+    "umur": "23",
+    "tinggi": "173",
+    "berat": "65.7"
+  },
+  {
+    "id": 628,
+    "nokertas": 1173,
+    "nik": "0000717272908",
+    "status": "200",
+    "nama": "M FAJAR",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-01-2007",
+    "umur": "18",
+    "tinggi": "171",
+    "berat": "63.9"
+  },
+  {
+    "id": 629,
+    "nokertas": 1174,
+    "nik": "0000717720232",
+    "status": "404"
+  },
+  {
+    "id": 630,
+    "nokertas": 1175,
+    "nik": "0000717721481",
+    "status": "200",
+    "nama": "LULUK MAULIDIYAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "23-08-1993",
+    "umur": "31",
+    "tinggi": "159",
+    "berat": "50.15"
+  },
+  {
+    "id": 631,
+    "nokertas": 1176,
+    "nik": "0000717722695",
+    "status": "404"
+  },
+  {
+    "id": 632,
+    "nokertas": 1177,
+    "nik": "0000717723641",
+    "status": "200",
+    "nama": "KETANG",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "19-09-1959",
+    "umur": "65",
+    "tinggi": "167",
+    "berat": "59.8"
+  },
+  {
+    "id": 633,
+    "nokertas": 1178,
+    "nik": "0000717724225",
+    "status": "200",
+    "nama": "SURADI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "06-03-1950",
+    "umur": "75",
+    "tinggi": "160",
+    "berat": "56.7"
+  },
+  {
+    "id": 634,
+    "nokertas": 1179,
+    "nik": "0000717725485",
+    "status": "200",
+    "nama": "SITI HINDUN",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "09-06-1955",
+    "umur": "69",
+    "tinggi": "159",
+    "berat": "52.66"
+  },
+  {
+    "id": 635,
+    "nokertas": 1180,
+    "nik": "0000717725709",
+    "status": "200",
+    "nama": "SUDARTO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "05-07-1982",
+    "umur": "42",
+    "tinggi": "174",
+    "berat": "66.6"
+  },
+  {
+    "id": 636,
+    "nokertas": 1181,
+    "nik": "0000717727656",
+    "status": "200",
+    "nama": "NASLUKHA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "10-10-1989",
+    "umur": "35",
+    "tinggi": "157",
+    "berat": "48.45"
+  },
+  {
+    "id": 637,
+    "nokertas": 1182,
+    "nik": "0000717729377",
+    "status": "200",
+    "nama": "SURODJO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "08-08-1954",
+    "umur": "70",
+    "tinggi": "162",
+    "berat": "58.59"
+  },
+  {
+    "id": 638,
+    "nokertas": 1183,
+    "nik": "0000717729401",
+    "status": "200",
+    "nama": "SUNARSIH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "29-12-1953",
+    "umur": "71",
+    "tinggi": "158",
+    "berat": "51.77"
+  },
+  {
+    "id": 639,
+    "nokertas": 1184,
+    "nik": "0000717730571",
+    "status": "404"
+  },
+  {
+    "id": 640,
+    "nokertas": 1185,
+    "nik": "0000717739805",
+    "status": "404"
+  },
+  {
+    "id": 641,
+    "nokertas": 1186,
+    "nik": "0000717739772",
+    "status": "404"
+  },
+  {
+    "id": 642,
+    "nokertas": 1187,
+    "nik": "0000717730907",
+    "status": "404"
+  },
+  {
+    "id": 643,
+    "nokertas": 1188,
+    "nik": "0000717731291",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 644,
+    "nokertas": 1189,
+    "nik": "0000717734722",
+    "status": "200",
+    "nama": "EVAS EKO SAPUTRA",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "18-10-1999",
+    "umur": "25",
+    "tinggi": "165",
+    "berat": "58.5"
+  },
+  {
+    "id": 645,
+    "nokertas": 1190,
+    "nik": "0000717735014",
+    "status": "200",
+    "nama": "MOCH. MUDRIK",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-02-1971",
+    "umur": "54",
+    "tinggi": "172",
+    "berat": "64.8"
+  },
+  {
+    "id": 646,
+    "nokertas": 1191,
+    "nik": "0000717735712",
+    "status": "200",
+    "nama": "MUJIATI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "20-01-1969",
+    "umur": "56",
+    "tinggi": "167",
+    "berat": "56.95"
+  },
+  {
+    "id": 647,
+    "nokertas": 1192,
+    "nik": "0000717736522",
+    "status": "200",
+    "nama": "MUHAMMAD MULYONO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "02-09-1994",
+    "umur": "30",
+    "tinggi": "172",
+    "berat": "64.8"
+  },
+  {
+    "id": 648,
+    "nokertas": 1193,
+    "nik": "0000717741112",
+    "status": "200",
+    "nama": "FATHUR",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "29-12-1960",
+    "umur": "64",
+    "tinggi": "164",
+    "berat": "60.48"
+  },
+  {
+    "id": 649,
+    "nokertas": 1194,
+    "nik": "0000717742089",
+    "status": "200",
+    "nama": "FARIDA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "03-09-1948",
+    "umur": "76",
+    "tinggi": "162",
+    "berat": "55.34"
+  },
+  {
+    "id": 650,
+    "nokertas": 1195,
+    "nik": "0000717742427",
+    "status": "200",
+    "nama": "FADJAR ASWAD",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "12-02-1961",
+    "umur": "64",
+    "tinggi": "159",
+    "berat": "55.76"
+  },
+  {
+    "id": 651,
+    "nokertas": 1196,
+    "nik": "0000717742787",
+    "status": "404"
+  },
+  {
+    "id": 652,
+    "nokertas": 1197,
+    "nik": "0000717743338",
+    "status": "200",
+    "nama": "KHAMIDA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "19-08-1977",
+    "umur": "47",
+    "tinggi": "159",
+    "berat": "50.15"
+  },
+  {
+    "id": 653,
+    "nokertas": 1198,
+    "nik": "0000717743812",
+    "status": "200",
+    "nama": "NUR BAITI MULIANA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "27-05-2001",
+    "umur": "23",
+    "tinggi": "161",
+    "berat": "51.85"
+  },
+  {
+    "id": 654,
+    "nokertas": 1199,
+    "nik": "0000717743542",
+    "status": "200",
+    "nama": "NUR LAILA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "07-01-1997",
+    "umur": "28",
+    "tinggi": "162",
+    "berat": "52.7"
+  },
+  {
+    "id": 655,
+    "nokertas": 1200,
+    "nik": "0000717744216",
+    "status": "200",
+    "nama": "SAKUR",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "04-12-1966",
+    "umur": "58",
+    "tinggi": "174",
+    "berat": "66.6"
+  },
+  {
+    "id": 656,
+    "nokertas": 1201,
+    "nik": "0000717744431",
+    "status": "200",
+    "nama": "SALMAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "25-08-1970",
+    "umur": "54",
+    "tinggi": "158",
+    "berat": "49.3"
+  },
+  {
+    "id": 657,
+    "nokertas": 1202,
+    "nik": "0000717745342",
+    "status": "200",
+    "nama": "MASRIYADI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "05-04-1992",
+    "umur": "32",
+    "tinggi": "167",
+    "berat": "60.3"
+  },
+  {
+    "id": 658,
+    "nokertas": 1203,
+    "nik": "0000717745803",
+    "status": "200",
+    "nama": "SODIKIN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "15-12-1978",
+    "umur": "46",
+    "tinggi": "168",
+    "berat": "61.2"
+  },
+  {
+    "id": 659,
+    "nokertas": 1204,
+    "nik": "0000717745915",
+    "status": "200",
+    "nama": "SULAIMAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "25-01-1985",
+    "umur": "40",
+    "tinggi": "167",
+    "berat": "56.95"
+  },
+  {
+    "id": 660,
+    "nokertas": 1205,
+    "nik": "0000717744938",
+    "status": "404"
+  },
+  {
+    "id": 661,
+    "nokertas": 1206,
+    "nik": "0000717750191",
+    "status": "200",
+    "nama": "NUR AINI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-06-1972",
+    "umur": "52",
+    "tinggi": "164",
+    "berat": "54.4"
+  },
+  {
+    "id": 662,
+    "nokertas": 1207,
+    "nik": "0000717750279",
+    "status": "200",
+    "nama": "M.SUBHAN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-02-2002",
+    "umur": "23",
+    "tinggi": "174",
+    "berat": "66.6"
+  },
+  {
+    "id": 663,
+    "nokertas": 1208,
+    "nik": "0000717750551",
+    "status": "404"
+  },
+  {
+    "id": 664,
+    "nokertas": 1209,
+    "nik": "0000717751383",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 665,
+    "nokertas": 1210,
+    "nik": "0000717752711",
+    "status": "200",
+    "nama": "MIRATI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-07-1946",
+    "umur": "78",
+    "tinggi": "165",
+    "berat": "58.01"
+  },
+  {
+    "id": 666,
+    "nokertas": 1211,
+    "nik": "0000717755071",
+    "status": "404"
+  },
+  {
+    "id": 667,
+    "nokertas": 1212,
+    "nik": "0000717756917",
+    "status": "200",
+    "nama": "MIFTAKHUS SYIFAK",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "07-07-2000",
+    "umur": "24",
+    "tinggi": "167",
+    "berat": "60.3"
+  },
+  {
+    "id": 668,
+    "nokertas": 1213,
+    "nik": "0000717756017",
+    "status": "200",
+    "nama": "HENDRIK PRIYANTO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "12-05-1984",
+    "umur": "40",
+    "tinggi": "165",
+    "berat": "58.5"
+  },
+  {
+    "id": 669,
+    "nokertas": 1214,
+    "nik": "0000717757086",
+    "status": "200",
+    "nama": "SUNARYO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-12-1960",
+    "umur": "64",
+    "tinggi": "156",
+    "berat": "52.92"
+  },
+  {
+    "id": 670,
+    "nokertas": 1215,
+    "nik": "0000717757378",
+    "status": "200",
+    "nama": "JUMIATI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "06-04-1971",
+    "umur": "53",
+    "tinggi": "158",
+    "berat": "49.3"
+  },
+  {
+    "id": 671,
+    "nokertas": 1216,
+    "nik": "0000717760168",
+    "status": "200",
+    "nama": "MOKHAMAD CHOTIB",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "17-07-1971",
+    "umur": "53",
+    "tinggi": "165",
+    "berat": "58.5"
+  },
+  {
+    "id": 672,
+    "nokertas": 1217,
+    "nik": "0000717761169",
+    "status": "200",
+    "nama": "MARIYATI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "03-07-1968",
+    "umur": "56",
+    "tinggi": "160",
+    "berat": "51"
+  },
+  {
+    "id": 673,
+    "nokertas": 1218,
+    "nik": "0000717763127",
+    "status": "200",
+    "nama": "SUWANTI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "16-06-1995",
+    "umur": "29",
+    "tinggi": "166",
+    "berat": "56.1"
+  },
+  {
+    "id": 674,
+    "nokertas": 1219,
+    "nik": "0000717762655",
+    "status": "200",
+    "nama": "SITI KHODIJAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "24-10-1995",
+    "umur": "29",
+    "tinggi": "156",
+    "berat": "47.6"
+  },
+  {
+    "id": 675,
+    "nokertas": 1220,
+    "nik": "0000717761294",
+    "status": "200",
+    "nama": "M.YUSUF",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "14-12-1988",
+    "umur": "36",
+    "tinggi": "173",
+    "berat": "65.7"
+  },
+  {
+    "id": 676,
+    "nokertas": 1221,
+    "nik": "0000717763184",
+    "status": "405"
+  },
+  {
+    "id": 677,
+    "nokertas": 1222,
+    "nik": "0000717763252",
+    "status": "404"
+  },
+  {
+    "id": 678,
+    "nokertas": 1223,
+    "nik": "0000717764657",
+    "status": "405"
+  },
+  {
+    "id": 679,
+    "nokertas": 1224,
+    "nik": "0000717763858",
+    "status": "405"
+  },
+  {
+    "id": 680,
+    "nokertas": 1225,
+    "nik": "0000717764501",
+    "status": "200",
+    "nama": "INDRA PRASETYO AJI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "02-09-1993",
+    "umur": "31",
+    "tinggi": "170",
+    "berat": "63"
+  },
+  {
+    "id": 681,
+    "nokertas": 1226,
+    "nik": "0000717764848",
+    "status": "404"
+  },
+  {
+    "id": 682,
+    "nokertas": 1227,
+    "nik": "0000717769732",
+    "status": "200",
+    "nama": "WAGIOWATI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "30-06-1960",
+    "umur": "64",
+    "tinggi": "163",
+    "berat": "56.23"
+  },
+  {
+    "id": 683,
+    "nokertas": 1228,
+    "nik": "0000717772746",
+    "status": "200",
+    "nama": "AISAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "09-07-1965",
+    "umur": "59",
+    "tinggi": "162",
+    "berat": "52.7"
+  },
+  {
+    "id": 684,
+    "nokertas": 1229,
+    "nik": "0000717774276",
+    "status": "404"
+  },
+  {
+    "id": 685,
+    "nokertas": 1230,
+    "nik": "0000717775154",
+    "status": "200",
+    "nama": "SULASTRI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "26-09-1987",
+    "umur": "37",
+    "tinggi": "163",
+    "berat": "53.55"
+  },
+  {
+    "id": 686,
+    "nokertas": 1231,
+    "nik": "0000717775435",
+    "status": "404"
+  },
+  {
+    "id": 687,
+    "nokertas": 1232,
+    "nik": "0000717778372",
+    "status": "200",
+    "nama": "HARIATI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "03-03-1963",
+    "umur": "62",
+    "tinggi": "159",
+    "berat": "52.66"
+  },
+  {
+    "id": 688,
+    "nokertas": 1233,
+    "nik": "0000717778427",
+    "status": "200",
+    "nama": "DEWI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "",
+    "umur": "Format tanggal tidak valid. Harus dalam format DD-MM-YYYY.",
+    "tinggi": "165",
+    "berat": "55.25"
+  },
+  {
+    "id": 689,
+    "nokertas": 1234,
+    "nik": "0000717778258",
+    "status": "404"
+  },
+  {
+    "id": 690,
+    "nokertas": 1235,
+    "nik": "0000717779913",
+    "status": "404"
+  },
+  {
+    "id": 691,
+    "nokertas": 1236,
+    "nik": "0000717779979",
+    "status": "404"
+  },
+  {
+    "id": 692,
+    "nokertas": 1237,
+    "nik": "0000717918669",
+    "status": "200",
+    "nama": "SURYANI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "03-06-1942",
+    "umur": "82",
+    "tinggi": "156",
+    "berat": "49.98"
+  },
+  {
+    "id": 693,
+    "nokertas": 1238,
+    "nik": "0000717919323",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 694,
+    "nokertas": 1239,
+    "nik": "0000717920122",
+    "status": "200",
+    "nama": "ISMAIL",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "22-05-1953",
+    "umur": "71",
+    "tinggi": "160",
+    "berat": "56.7"
+  },
+  {
+    "id": 695,
+    "nokertas": 1240,
+    "nik": "0000717921009",
+    "status": "200",
+    "nama": "SUJIATI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-03-1960",
+    "umur": "65",
+    "tinggi": "162",
+    "berat": "55.34"
+  },
+  {
+    "id": 696,
+    "nokertas": 1241,
+    "nik": "0000717921202",
+    "status": "200",
+    "nama": "M.USMAN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-11-1987",
+    "umur": "37",
+    "tinggi": "175",
+    "berat": "67.5"
+  },
+  {
+    "id": 697,
+    "nokertas": 1242,
+    "nik": "0000717926534",
+    "status": "200",
+    "nama": "USMAN HADI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "30-12-1955",
+    "umur": "69",
+    "tinggi": "157",
+    "berat": "53.87"
+  },
+  {
+    "id": 698,
+    "nokertas": 1243,
+    "nik": "0000717926815",
+    "status": "200",
+    "nama": "UMAR",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "13-07-1952",
+    "umur": "72",
+    "tinggi": "164",
+    "berat": "60.48"
+  },
+  {
+    "id": 699,
+    "nokertas": 1244,
+    "nik": "0000717928176",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 700,
+    "nokertas": 1245,
+    "nik": "0000717928749",
+    "status": "200",
+    "nama": "WIJIATI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "",
+    "umur": "Format tanggal tidak valid. Harus dalam format DD-MM-YYYY.",
+    "tinggi": "156",
+    "berat": "47.6"
+  },
+  {
+    "id": 701,
+    "nokertas": 1246,
+    "nik": "0001043079715",
+    "status": "200",
+    "nama": "AKHMAD SAHRI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "10-04-1970",
+    "umur": "54",
+    "tinggi": "167",
+    "berat": "60.3"
+  },
+  {
+    "id": 702,
+    "nokertas": 1247,
+    "nik": "0001043079726",
+    "status": "200",
+    "nama": "KHABIBAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "12-10-1989",
+    "umur": "35",
+    "tinggi": "163",
+    "berat": "53.55"
+  },
+  {
+    "id": 703,
+    "nokertas": 1248,
+    "nik": "0001043079783",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 704,
+    "nokertas": 1249,
+    "nik": "0001043079794",
+    "status": "200",
+    "nama": "MACHMUDAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "15-06-1963",
+    "umur": "61",
+    "tinggi": "163",
+    "berat": "56.23"
+  },
+  {
+    "id": 705,
+    "nokertas": 1250,
+    "nik": "0001043079816",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 706,
+    "nokertas": 1251,
+    "nik": "0001043079939",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 707,
+    "nokertas": 1252,
+    "nik": "0001043079941",
+    "status": "200",
+    "nama": "SULAMAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "10-10-1959",
+    "umur": "65",
+    "tinggi": "163",
+    "berat": "56.23"
+  },
+  {
+    "id": 708,
+    "nokertas": 1253,
+    "nik": "0001043080029",
+    "status": "405"
+  },
+  {
+    "id": 709,
+    "nokertas": 1254,
+    "nik": "0001043080053",
+    "status": "200",
+    "nama": "KURSIJA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "30-05-1959",
+    "umur": "65",
+    "tinggi": "163",
+    "berat": "56.23"
+  },
+  {
+    "id": 710,
+    "nokertas": 1255,
+    "nik": "0001043080054",
+    "status": "404"
+  },
+  {
+    "id": 711,
+    "nokertas": 1256,
+    "nik": "0001043080108",
+    "status": "200",
+    "nama": "SITI BIBIT",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "20-02-1956",
+    "umur": "69",
+    "tinggi": "155",
+    "berat": "49.09"
+  },
+  {
+    "id": 712,
+    "nokertas": 1257,
+    "nik": "0001043080143",
+    "status": "200",
+    "nama": "LILIS WANINGSIH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "10-11-1969",
+    "umur": "55",
+    "tinggi": "158",
+    "berat": "49.3"
+  },
+  {
+    "id": 713,
+    "nokertas": 1258,
+    "nik": "0001043080165",
+    "status": "405"
+  },
+  {
+    "id": 714,
+    "nokertas": 1259,
+    "nik": "0001043080176",
+    "status": "405"
+  },
+  {
+    "id": 715,
+    "nokertas": 1260,
+    "nik": "0001043080187",
+    "status": "200",
+    "nama": "SUYADI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-06-1957",
+    "umur": "67",
+    "tinggi": "162",
+    "berat": "58.59"
+  },
+  {
+    "id": 716,
+    "nokertas": 1261,
+    "nik": "0001043080198",
+    "status": "200",
+    "nama": "SUKARLIN",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "12-06-1965",
+    "umur": "59",
+    "tinggi": "165",
+    "berat": "55.25"
+  },
+  {
+    "id": 717,
+    "nokertas": 1262,
+    "nik": "0001043080222",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 718,
+    "nokertas": 1263,
+    "nik": "0001043080277",
+    "status": "200",
+    "nama": "ENDAH ENY",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "19-09-1953",
+    "umur": "71",
+    "tinggi": "166",
+    "berat": "58.91"
+  },
+  {
+    "id": 719,
+    "nokertas": 1264,
+    "nik": "0001043080288",
+    "status": "200",
+    "nama": "PURWO ENDARTO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-05-1971",
+    "umur": "53",
+    "tinggi": "173",
+    "berat": "65.7"
+  },
+  {
+    "id": 720,
+    "nokertas": 1265,
+    "nik": "0001043080367",
+    "status": "200",
+    "nama": "SUGENG PURNOMO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "11-12-1952",
+    "umur": "72",
+    "tinggi": "160",
+    "berat": "56.7"
+  },
+  {
+    "id": 721,
+    "nokertas": 1266,
+    "nik": "0001043080378",
+    "status": "200",
+    "nama": "SUTIAMI",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "30-12-1960",
+    "umur": "64",
+    "tinggi": "165",
+    "berat": "58.01"
+  },
+  {
+    "id": 722,
+    "nokertas": 1267,
+    "nik": "0001043080402",
+    "status": "200",
+    "nama": "CHALIMAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "30-06-1959",
+    "umur": "65",
+    "tinggi": "162",
+    "berat": "55.34"
+  },
+  {
+    "id": 723,
+    "nokertas": 1268,
+    "nik": "0001043080435",
+    "status": "404"
+  },
+  {
+    "id": 724,
+    "nokertas": 1269,
+    "nik": "0001043080479",
+    "status": "404"
+  },
+  {
+    "id": 725,
+    "nokertas": 1270,
+    "nik": "0001043080492",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 726,
+    "nokertas": 1271,
+    "nik": "0001043080503",
+    "status": "200",
+    "nama": "MOCHAMAD FARUK",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "06-06-1977",
+    "umur": "47",
+    "tinggi": "173",
+    "berat": "65.7"
+  },
+  {
+    "id": 727,
+    "nokertas": 1272,
+    "nik": "0001043080514",
+    "status": "405"
+  },
+  {
+    "id": 728,
+    "nokertas": 1273,
+    "nik": "0001043080525",
+    "status": "200",
+    "nama": "PITOYO.",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-09-1949",
+    "umur": "75",
+    "tinggi": "170",
+    "berat": "66.15"
+  },
+  {
+    "id": 729,
+    "nokertas": 1274,
+    "nik": "0001043080536",
+    "status": "200",
+    "nama": "NUR CHADIYAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "08-06-1959",
+    "umur": "65",
+    "tinggi": "167",
+    "berat": "59.8"
+  },
+  {
+    "id": 730,
+    "nokertas": 1275,
+    "nik": "0001043080558",
+    "status": "405"
+  },
+  {
+    "id": 731,
+    "nokertas": 1276,
+    "nik": "0001043080593",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 732,
+    "nokertas": 1277,
+    "nik": "0001043080604",
+    "status": "200",
+    "nama": "SULTON",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-04-1991",
+    "umur": "33",
+    "tinggi": "170",
+    "berat": "63"
+  },
+  {
+    "id": 733,
+    "nokertas": 1278,
+    "nik": "0001043080637",
+    "status": "200",
+    "nama": "YULI HARIYANTO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "12-07-1988",
+    "umur": "36",
+    "tinggi": "171",
+    "berat": "63.9"
+  },
+  {
+    "id": 734,
+    "nokertas": 1279,
+    "nik": "0001043080626",
+    "status": "200",
+    "nama": "SUTRISNO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-01-1984",
+    "umur": "41",
+    "tinggi": "169",
+    "berat": "62.1"
+  },
+  {
+    "id": 735,
+    "nokertas": 1280,
+    "nik": "0001043080661",
+    "status": "405"
+  },
+  {
+    "id": 736,
+    "nokertas": 1281,
+    "nik": "0001043080672",
+    "status": "200",
+    "nama": "CHOIRUDIN.",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-05-1980",
+    "umur": "44",
+    "tinggi": "166",
+    "berat": "59.4"
+  },
+  {
+    "id": 737,
+    "nokertas": 1282,
+    "nik": "0001043080683",
+    "status": "200",
+    "nama": "DINA  ARITA",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "14-12-1980",
+    "umur": "44",
+    "tinggi": "156",
+    "berat": "47.6"
+  },
+  {
+    "id": 738,
+    "nokertas": 1283,
+    "nik": "0001043080694",
+    "status": "200",
+    "nama": "MUCHAMMAD FITRA MAULANA",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-12-2003",
+    "umur": "21",
+    "tinggi": "169",
+    "berat": "62.1"
+  },
+  {
+    "id": 739,
+    "nokertas": 1284,
+    "nik": "0001043080705",
+    "status": "200",
+    "nama": "FIRA DWI PANGESTU",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "09-04-2005",
+    "umur": "19",
+    "tinggi": "159",
+    "berat": "50.15"
+  },
+  {
+    "id": 740,
+    "nokertas": 1285,
+    "nik": "0001043080795",
+    "status": "405"
+  },
+  {
+    "id": 741,
+    "nokertas": 1286,
+    "nik": "0001043080806",
+    "status": "405"
+  },
+  {
+    "id": 742,
+    "nokertas": 1287,
+    "nik": "0001043080817",
+    "status": "405"
+  },
+  {
+    "id": 743,
+    "nokertas": 1288,
+    "nik": "0001043080839",
+    "status": "200",
+    "nama": "SYLVIA KUSUMA HALIM",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-04-2005",
+    "umur": "19",
+    "tinggi": "166",
+    "berat": "56.1"
+  },
+  {
+    "id": 744,
+    "nokertas": 1289,
+    "nik": "0001043080841",
+    "status": "200",
+    "nama": "HARIYONO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "07-05-1983",
+    "umur": "41",
+    "tinggi": "167",
+    "berat": "60.3"
+  },
+  {
+    "id": 745,
+    "nokertas": 1290,
+    "nik": "0001043080863",
+    "status": "200",
+    "nama": "BILBA NUR FADDILAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "02-05-2005",
+    "umur": "19",
+    "tinggi": "162",
+    "berat": "52.7"
+  },
+  {
+    "id": 746,
+    "nokertas": 1291,
+    "nik": "0001043080896",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 747,
+    "nokertas": 1292,
+    "nik": "0001043080929",
+    "status": "404"
+  },
+  {
+    "id": 748,
+    "nokertas": 1293,
+    "nik": "0001043080918",
+    "status": "404"
+  },
+  {
+    "id": 749,
+    "nokertas": 1294,
+    "nik": "0001043080975",
+    "status": "405"
+  },
+  {
+    "id": 750,
+    "nokertas": 1295,
+    "nik": "0001043081019",
+    "status": "200",
+    "nama": "MUJIONO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "03-11-1966",
+    "umur": "58",
+    "tinggi": "168",
+    "berat": "61.2"
+  },
+  {
+    "id": 751,
+    "nokertas": 1296,
+    "nik": "0001043081021",
+    "status": "404"
+  },
+  {
+    "id": 752,
+    "nokertas": 1297,
+    "nik": "0001043081065",
+    "status": "200",
+    "nama": "PATMI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-05-1954",
+    "umur": "70",
+    "tinggi": "156",
+    "berat": "52.92"
+  },
+  {
+    "id": 753,
+    "nokertas": 1298,
+    "nik": "0001043081076",
+    "status": "200",
+    "nama": "ACHMAD RAFIK",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "28-04-1978",
+    "umur": "46",
+    "tinggi": "165",
+    "berat": "58.5"
+  },
+  {
+    "id": 754,
+    "nokertas": 1299,
+    "nik": "0001043081087",
+    "status": "200",
+    "nama": "ROHMAN",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "03-01-1987",
+    "umur": "38",
+    "tinggi": "162",
+    "berat": "52.7"
+  },
+  {
+    "id": 755,
+    "nokertas": 1300,
+    "nik": "0001043081109",
+    "status": "200",
+    "nama": "SULAIMAN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "18-04-1950",
+    "umur": "74",
+    "tinggi": "156",
+    "berat": "52.92"
+  },
+  {
+    "id": 756,
+    "nokertas": 1301,
+    "nik": "0001043081111",
+    "status": "200",
+    "nama": "BADRIYAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "01-05-1951",
+    "umur": "73",
+    "tinggi": "157",
+    "berat": "50.87"
+  },
+  {
+    "id": 757,
+    "nokertas": 1302,
+    "nik": "0001043081144",
+    "status": "200",
+    "nama": "SYAHRUL ROHMAD",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "26-04-1988",
+    "umur": "36",
+    "tinggi": "170",
+    "berat": "63"
+  },
+  {
+    "id": 758,
+    "nokertas": 1303,
+    "nik": "0001043081122",
+    "status": "200",
+    "nama": "MOCH. SAWALLUDIN",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "12-04-1992",
+    "umur": "32",
+    "tinggi": "170",
+    "berat": "63"
+  },
+  {
+    "id": 759,
+    "nokertas": 1304,
+    "nik": "0001043081155",
+    "status": "200",
+    "nama": "MIFTACHUL HIDAYAT",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "07-09-1971",
+    "umur": "53",
+    "tinggi": "170",
+    "berat": "63"
+  },
+  {
+    "id": 760,
+    "nokertas": 1305,
+    "nik": "0001043081188",
+    "status": "200",
+    "nama": "MUNAWAR",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-06-1949",
+    "umur": "75",
+    "tinggi": "170",
+    "berat": "66.15"
+  },
+  {
+    "id": 761,
+    "nokertas": 1306,
+    "nik": "0001043081199",
+    "status": "200",
+    "nama": "RUPIATIN",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "30-04-1955",
+    "umur": "69",
+    "tinggi": "166",
+    "berat": "58.91"
+  },
+  {
+    "id": 762,
+    "nokertas": 1307,
+    "nik": "0001043081201",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 763,
+    "nokertas": 1308,
+    "nik": "0001043081212",
+    "status": "404"
+  },
+  {
+    "id": 764,
+    "nokertas": 1309,
+    "nik": "0001043081313",
+    "status": "200",
+    "nama": "BASORI",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-06-1960",
+    "umur": "64",
+    "tinggi": "170",
+    "berat": "66.15"
+  },
+  {
+    "id": 765,
+    "nokertas": 1310,
+    "nik": "0001043081324",
+    "status": "200",
+    "nama": "SITI ASIYAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "10-04-1963",
+    "umur": "61",
+    "tinggi": "166",
+    "berat": "58.91"
+  },
+  {
+    "id": 766,
+    "nokertas": 1311,
+    "nik": "0001043081346",
+    "status": "200",
+    "nama": "CHOIRUL A",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-07-1986",
+    "umur": "38",
+    "tinggi": "169",
+    "berat": "62.1"
+  },
+  {
+    "id": 767,
+    "nokertas": 1312,
+    "nik": "0001043081335",
+    "status": "404"
+  },
+  {
+    "id": 768,
+    "nokertas": 1313,
+    "nik": "0001043081368",
+    "status": "200",
+    "nama": "SUAMIR",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-05-1955",
+    "umur": "69",
+    "tinggi": "163",
+    "berat": "59.54"
+  },
+  {
+    "id": 769,
+    "nokertas": 1314,
+    "nik": "0001043081379",
+    "status": "Tidak aktif"
+  },
+  {
+    "id": 770,
+    "nokertas": 1315,
+    "nik": "0001043081425",
+    "status": "200",
+    "nama": "SLAMET JOYO",
+    "jeniskelamin": "Laki-laki",
+    "tanggallahir": "01-01-1964",
+    "umur": "61",
+    "tinggi": "157",
+    "berat": "53.87"
+  },
+  {
+    "id": 771,
+    "nokertas": 1316,
+    "nik": "0001043081436",
+    "status": "200",
+    "nama": "SITI KHOTIJAH",
+    "jeniskelamin": "Perempuan",
+    "tanggallahir": "16-06-1957",
+    "umur": "67",
+    "tinggi": "167",
+    "berat": "59.8"
+  },
+  {
+    "id": 772,
+    "nokertas": 1317,
+    "nik": "0001043081469",
+    "status": 0
+  },
+  {
+    "id": 773,
+    "nokertas": 1318,
+    "nik": "0001043081471",
+    "status": 0
+  },
+  {
+    "id": 774,
+    "nokertas": 1319,
+    "nik": "0001043081482",
+    "status": 0
+  },
+  {
+    "id": 775,
+    "nokertas": 1320,
+    "nik": "0001043081515",
+    "status": 0
+  },
+  {
+    "id": 776,
+    "nokertas": 1321,
+    "nik": "0001043081526",
+    "status": 0
+  },
+  {
+    "id": 777,
+    "nokertas": 1322,
+    "nik": "0001043081537",
+    "status": 0
+  },
+  {
+    "id": 778,
+    "nokertas": 1323,
+    "nik": "0001043081559",
+    "status": 0
+  },
+  {
+    "id": 779,
+    "nokertas": 1324,
+    "nik": "0001043081561",
+    "status": 0
+  },
+  {
+    "id": 780,
+    "nokertas": 1325,
+    "nik": "0001043081616",
+    "status": 0
+  },
+  {
+    "id": 781,
+    "nokertas": 1326,
+    "nik": "0001043081627",
+    "status": 0
+  },
+  {
+    "id": 782,
+    "nokertas": 1327,
+    "nik": "0001818432448",
+    "status": 0
+  },
+  {
+    "id": 783,
+    "nokertas": 1328,
+    "nik": "0001175148033",
+    "status": 0
+  },
+  {
+    "id": 784,
+    "nokertas": 1329,
+    "nik": "0002064234262",
+    "status": 0
+  },
+  {
+    "id": 785,
+    "nokertas": 1330,
+    "nik": "0001260893698",
+    "status": 0
+  },
+  {
+    "id": 786,
+    "nokertas": 1331,
+    "nik": "0001262077942",
+    "status": 0
+  },
+  {
+    "id": 787,
+    "nokertas": 1332,
+    "nik": "0001262649295",
+    "status": 0
+  },
+  {
+    "id": 788,
+    "nokertas": 1333,
+    "nik": "0001273634008",
+    "status": 0
+  },
+  {
+    "id": 789,
+    "nokertas": 1334,
+    "nik": "0001275734125",
+    "status": 0
+  },
+  {
+    "id": 790,
+    "nokertas": 1335,
+    "nik": "0001275733888",
+    "status": 0
+  },
+  {
+    "id": 791,
+    "nokertas": 1336,
+    "nik": "0001275734564",
+    "status": 0
+  },
+  {
+    "id": 792,
+    "nokertas": 1337,
+    "nik": "0001275734439",
+    "status": 0
+  },
+  {
+    "id": 793,
+    "nokertas": 1338,
+    "nik": "0001282982534",
+    "status": 0
+  },
+  {
+    "id": 794,
+    "nokertas": 1339,
+    "nik": "0001282982949",
+    "status": 0
+  },
+  {
+    "id": 795,
+    "nokertas": 1340,
+    "nik": "0002615879002",
+    "status": 0
+  },
+  {
+    "id": 796,
+    "nokertas": 1341,
+    "nik": "0001282983805",
+    "status": 0
+  },
+  {
+    "id": 797,
+    "nokertas": 1342,
+    "nik": "0001284164112",
+    "status": 0
+  },
+  {
+    "id": 798,
+    "nokertas": 1343,
+    "nik": "0001285400374",
+    "status": 0
+  },
+  {
+    "id": 799,
+    "nokertas": 1344,
+    "nik": "0001294674186",
+    "status": 0
+  },
+  {
+    "id": 800,
+    "nokertas": 1345,
+    "nik": "0002328522928",
+    "status": 0
+  },
+  {
+    "id": 801,
+    "nokertas": 1346,
+    "nik": "0002328523402",
+    "status": 0
+  },
+  {
+    "id": 802,
+    "nokertas": 1347,
+    "nik": "0001299934844",
+    "status": 0
+  },
+  {
+    "id": 803,
+    "nokertas": 1348,
+    "nik": "0001300390978",
+    "status": 0
+  },
+  {
+    "id": 804,
+    "nokertas": 1349,
+    "nik": "0001309146377",
+    "status": 0
+  },
+  {
+    "id": 805,
+    "nokertas": 1350,
+    "nik": "0001315990978",
+    "status": 0
+  },
+  {
+    "id": 806,
+    "nokertas": 1351,
+    "nik": "0001323059995",
+    "status": 0
+  },
+  {
+    "id": 807,
+    "nokertas": 1352,
+    "nik": "0001328492542",
+    "status": 0
+  },
+  {
+    "id": 808,
+    "nokertas": 1353,
+    "nik": "0001899891742",
+    "status": 0
+  },
+  {
+    "id": 809,
+    "nokertas": 1354,
+    "nik": "0001384833497",
+    "status": 0
+  },
+  {
+    "id": 810,
+    "nokertas": 1355,
+    "nik": "0001388055958",
+    "status": 0
+  },
+  {
+    "id": 811,
+    "nokertas": 1356,
+    "nik": "0001388056972",
+    "status": 0
+  },
+  {
+    "id": 812,
+    "nokertas": 1357,
+    "nik": "0002450960043",
+    "status": 0
+  },
+  {
+    "id": 813,
+    "nokertas": 1358,
+    "nik": "0001402520567",
+    "status": 0
+  },
+  {
+    "id": 814,
+    "nokertas": 1359,
+    "nik": "0001402520578",
+    "status": 0
+  },
+  {
+    "id": 815,
+    "nokertas": 1360,
+    "nik": "0001402520589",
+    "status": 0
+  },
+  {
+    "id": 816,
+    "nokertas": 1361,
+    "nik": "0001423822926",
+    "status": 0
+  },
+  {
+    "id": 817,
+    "nokertas": 1362,
+    "nik": "0001425152035",
+    "status": 0
+  },
+  {
+    "id": 818,
+    "nokertas": 1363,
+    "nik": "0002773650879",
+    "status": 0
+  },
+  {
+    "id": 819,
+    "nokertas": 1364,
+    "nik": "0001425152035",
+    "status": 0
+  },
+  {
+    "id": 820,
+    "nokertas": 1365,
+    "nik": "0001427403429",
+    "status": 0
+  },
+  {
+    "id": 821,
+    "nokertas": 1366,
+    "nik": "0002057180286",
+    "status": 0
+  },
+  {
+    "id": 822,
+    "nokertas": 1367,
+    "nik": "0001440338927",
+    "status": 0
+  },
+  {
+    "id": 823,
+    "nokertas": 1368,
+    "nik": "0001450674786",
+    "status": 0
+  },
+  {
+    "id": 824,
+    "nokertas": 1369,
+    "nik": "0001539260829",
+    "status": 0
+  },
+  {
+    "id": 825,
+    "nokertas": 1370,
+    "nik": "0001539261922",
+    "status": 0
+  },
+  {
+    "id": 826,
+    "nokertas": 1371,
+    "nik": "0001706726518",
+    "status": 0
+  },
+  {
+    "id": 827,
+    "nokertas": 1372,
+    "nik": "0001706726529",
+    "status": 0
+  },
+  {
+    "id": 828,
+    "nokertas": 1373,
+    "nik": "0001706726531",
+    "status": 0
+  },
+  {
+    "id": 829,
+    "nokertas": 1374,
+    "nik": "0001716263673",
+    "status": 0
+  },
+  {
+    "id": 830,
+    "nokertas": 1375,
+    "nik": "0007176263684",
+    "status": 0
+  },
+  {
+    "id": 831,
+    "nokertas": 1376,
+    "nik": "0001775720845",
+    "status": 0
+  },
+  {
+    "id": 832,
+    "nokertas": 1377,
+    "nik": "0001809013331",
+    "status": 0
+  },
+  {
+    "id": 833,
+    "nokertas": 1378,
+    "nik": "0001812191859",
+    "status": 0
+  },
+  {
+    "id": 834,
+    "nokertas": 1379,
+    "nik": "0001814564665",
+    "status": 0
+  },
+  {
+    "nokertas": 1380,
+    "nik": "0001814568063"
+  },
+  {
+    "nokertas": 1381,
+    "nik": "0001814566858"
+  },
+  {
+    "nokertas": 1382,
+    "nik": "0001830990576"
+  },
+  {
+    "nokertas": 1383,
+    "nik": "0001830994097"
+  },
+  {
+    "nokertas": 1384,
+    "nik": "0001831035824"
+  },
+  {
+    "nokertas": 1385,
+    "nik": "0001854595822"
+  },
+  {
+    "nokertas": 1386,
+    "nik": "0001854591669"
+  },
+  {
+    "nokertas": 1387,
+    "nik": "0001870453427"
+  },
+  {
+    "nokertas": 1388,
+    "nik": "0001870454079"
+  },
+  {
+    "nokertas": 1389,
+    "nik": "0001877053555"
+  },
+  {
+    "nokertas": 1390,
+    "nik": "0001877055671"
+  },
+  {
+    "nokertas": 1391,
+    "nik": "0001877056424"
+  },
+  {
+    "nokertas": 1392,
+    "nik": "0001878621671"
+  },
+  {
+    "nokertas": 1393,
+    "nik": "0001878622312"
+  },
+  {
+    "nokertas": 1394,
+    "nik": "0001900619087"
+  },
+  {
+    "nokertas": 1395,
+    "nik": "0001900620369"
+  },
+  {
+    "nokertas": 1396,
+    "nik": "0001901803353"
+  },
+  {
+    "nokertas": 1397,
+    "nik": "0001903513601"
+  },
+  {
+    "nokertas": 1398,
+    "nik": "0001960667076"
+  },
+  {
+    "nokertas": 1399,
+    "nik": "0001963354296"
+  },
+  {
+    "nokertas": 1400,
+    "nik": "0001965427097"
+  },
+  {
+    "nokertas": 1401,
+    "nik": "0001965427558"
+  },
+  {
+    "nokertas": 1402,
+    "nik": "0001965428291"
+  },
+  {
+    "nokertas": 1403,
+    "nik": "0002048851539"
+  },
+  {
+    "nokertas": 1404,
+    "nik": "0002048853093"
+  },
+  {
+    "nokertas": 1405,
+    "nik": "0002059719849"
+  },
+  {
+    "nokertas": 1406,
+    "nik": "0002066388028"
+  },
+  {
+    "nokertas": 1407,
+    "nik": "0002068126727"
+  },
+  {
+    "nokertas": 1408,
+    "nik": "0002082337852"
+  },
+  {
+    "nokertas": 1409,
+    "nik": "0002086604842"
+  },
+  {
+    "nokertas": 1410,
+    "nik": "0002090154892"
+  },
+  {
+    "nokertas": 1411,
+    "nik": "0002090157096"
+  },
+  {
+    "nokertas": 1412,
+    "nik": "0002090157579"
+  },
+  {
+    "nokertas": 1413,
+    "nik": "0002090157827"
+  },
+  {
+    "nokertas": 1414,
+    "nik": "0002156417897"
+  },
+  {
+    "nokertas": 1415,
+    "nik": "0002161799267"
+  },
+  {
+    "nokertas": 1416,
+    "nik": "0002161799357"
+  },
+  {
+    "nokertas": 1417,
+    "nik": "0002161799368"
+  },
+  {
+    "nokertas": 1418,
+    "nik": "0002162266222"
+  },
+  {
+    "nokertas": 1419,
+    "nik": "0002203042498"
+  },
+  {
+    "nokertas": 1420,
+    "nik": "0002203042904"
+  },
+  {
+    "nokertas": 1421,
+    "nik": "0002207701056"
+  },
+  {
+    "nokertas": 1422,
+    "nik": "0002207701912"
+  },
+  {
+    "nokertas": 1423,
+    "nik": "0002207702575"
+  },
+  {
+    "nokertas": 1424,
+    "nik": "0002208377924"
+  },
+  {
+    "nokertas": 1425,
+    "nik": "0002211630412"
+  },
+  {
+    "nokertas": 1426,
+    "nik": "0002211630851"
+  },
+  {
+    "nokertas": 1427,
+    "nik": "0002211632054"
+  },
+  {
+    "nokertas": 1428,
+    "nik": "0002211631378"
+  },
+  {
+    "nokertas": 1429,
+    "nik": "0002224841668"
+  },
+  {
+    "nokertas": 1430,
+    "nik": "0002224842445"
+  },
+  {
+    "nokertas": 1431,
+    "nik": "0002229879453"
+  },
+  {
+    "nokertas": 1432,
+    "nik": "0002229880206"
+  },
+  {
+    "nokertas": 1433,
+    "nik": "0002243984163"
+  },
+  {
+    "nokertas": 1434,
+    "nik": "0002243985052"
+  },
+  {
+    "nokertas": 1435,
+    "nik": "0002244047602"
+  },
+  {
+    "nokertas": 1436,
+    "nik": "0000717580001"
+  },
+  {
+    "nokertas": 1437,
+    "nik": "0002244052574"
+  },
+  {
+    "nokertas": 1438,
+    "nik": "0002249727862"
+  },
+  {
+    "nokertas": 1439,
+    "nik": "0002249728029"
+  },
+  {
+    "nokertas": 1440,
+    "nik": "0002249728615"
+  },
+  {
+    "nokertas": 1441,
+    "nik": "0002251217564"
+  },
+  {
+    "nokertas": 1442,
+    "nik": "0002259043176"
+  },
+  {
+    "nokertas": 1443,
+    "nik": "0002259045009"
+  },
+  {
+    "nokertas": 1444,
+    "nik": "0002275627691"
+  },
+  {
+    "nokertas": 1445,
+    "nik": "0002292957909"
+  },
+  {
+    "nokertas": 1446,
+    "nik": "0002298753145"
+  },
+  {
+    "nokertas": 1447,
+    "nik": "0002298753641"
+  },
+  {
+    "nokertas": 1448,
+    "nik": "0002311290123"
+  },
+  {
+    "nokertas": 1449,
+    "nik": "0002314785903"
+  },
+  {
+    "nokertas": 1450,
+    "nik": "0002318323522"
+  },
+  {
+    "nokertas": 1451,
+    "nik": "0002318323994"
+  },
+  {
+    "nokertas": 1452,
+    "nik": "0002318325491"
+  },
+  {
+    "nokertas": 1453,
+    "nik": "0002328664443"
+  },
+  {
+    "nokertas": 1454,
+    "nik": "0002328664869"
+  },
+  {
+    "nokertas": 1455,
+    "nik": "0002419951386"
+  },
+  {
+    "nokertas": 1456,
+    "nik": "0002419952354"
+  },
+  {
+    "nokertas": 1457,
+    "nik": "0002428448679"
+  },
+  {
+    "nokertas": 1458,
+    "nik": "0002428449333"
+  },
+  {
+    "nokertas": 1459,
+    "nik": "0002433992769"
+  },
+  {
+    "nokertas": 1460,
+    "nik": "0002433993063"
+  },
+  {
+    "nokertas": 1461,
+    "nik": "0002434578052 "
+  },
+  {
+    "nokertas": 1462,
+    "nik": "0002441601944 "
+  },
+  {
+    "nokertas": 1463,
+    "nik": "0002441605588 "
+  },
+  {
+    "nokertas": 1464,
+    "nik": "0002441604036 "
+  },
+  {
+    "nokertas": 1465,
+    "nik": "0002466077128 "
+  },
+  {
+    "nokertas": 1466,
+    "nik": "0002466289563 "
+  },
+  {
+    "nokertas": 1467,
+    "nik": "0002466289811 "
+  },
+  {
+    "nokertas": 1468,
+    "nik": "0002466327868 "
+  },
+  {
+    "nokertas": 1469,
+    "nik": "0002466328138 "
+  },
+  {
+    "nokertas": 1470,
+    "nik": "0002466328342 "
+  },
+  {
+    "nokertas": 1471,
+    "nik": "0002474914127 "
+  },
+  {
+    "nokertas": 1472,
+    "nik": "0002474914386 "
+  },
+  {
+    "nokertas": 1473,
+    "nik": "0002474914263 "
+  },
+  {
+    "nokertas": 1474,
+    "nik": "0002489033619 "
+  },
+  {
+    "nokertas": 1475,
+    "nik": "0002582171335 "
+  },
+  {
+    "nokertas": 1476,
+    "nik": "0002582716612 "
+  },
+  {
+    "nokertas": 1477,
+    "nik": "0002606121663"
+  },
+  {
+    "nokertas": 1478,
+    "nik": "0002583090448 "
+  },
+  {
+    "nokertas": 1479,
+    "nik": "0002583090461 "
+  },
+  {
+    "nokertas": 1480,
+    "nik": "0002583141851"
+  },
+  {
+    "nokertas": 1481,
+    "nik": "0002583142424"
+  },
+  {
+    "nokertas": 1482,
+    "nik": "0002584379845"
+  },
+  {
+    "nokertas": 1483,
+    "nik": "0002584594541"
+  },
+  {
+    "nokertas": 1484,
+    "nik": "0002584594552"
+  },
+  {
+    "nokertas": 1485,
+    "nik": "0002593789716"
+  },
+  {
+    "nokertas": 1486,
+    "nik": "0002584842085"
+  },
+  {
+    "nokertas": 1487,
+    "nik": "0002584850995"
+  },
+  {
+    "nokertas": 1488,
+    "nik": "0002584860489"
+  },
+  {
+    "nokertas": 1489,
+    "nik": "0002584860491"
+  },
+  {
+    "nokertas": 1490,
+    "nik": "0002588936488"
+  },
+  {
+    "nokertas": 1491,
+    "nik": "0002585023255"
+  },
+  {
+    "nokertas": 1492,
+    "nik": "0002589205239"
+  },
+  {
+    "nokertas": 1493,
+    "nik": "0002631186009"
+  },
+  {
+    "nokertas": 1494,
+    "nik": "0002637890379"
+  },
+  {
+    "nokertas": 1495,
+    "nik": "0002585023301"
+  },
+  {
+    "nokertas": 1496,
+    "nik": "0002604640274"
+  },
+  {
+    "nokertas": 1497,
+    "nik": "0002585074037"
+  },
+  {
+    "nokertas": 1498,
+    "nik": "0002633721366"
+  },
+  {
+    "nokertas": 1499,
+    "nik": "0002585591379"
+  },
+  {
+    "nokertas": 1500,
+    "nik": "0002595056905"
+  },
+  {
+    "nokertas": 1501,
+    "nik": "0002585591414"
+  },
+  {
+    "nokertas": 1502,
+    "nik": "0002630644391"
+  },
+  {
+    "nokertas": 1503,
+    "nik": "0002585668522"
+  },
+  {
+    "nokertas": 1504,
+    "nik": "0002585892734"
+  },
+  {
+    "nokertas": 1505,
+    "nik": "0002585938004"
+  },
+  {
+    "nokertas": 1506,
+    "nik": "0002587787728"
+  },
+  {
+    "nokertas": 1507,
+    "nik": "0002630013682"
+  },
+  {
+    "nokertas": 1508,
+    "nik": "0002584001913"
+  },
+  {
+    "nokertas": 1509,
+    "nik": "0002639392907"
+  },
+  {
+    "nokertas": 1510,
+    "nik": "0002588298873"
+  },
+  {
+    "nokertas": 1511,
+    "nik": "0002606347539"
+  },
+  {
+    "nokertas": 1512,
+    "nik": "0002604979315"
+  },
+  {
+    "nokertas": 1513,
+    "nik": "0002605535043"
+  },
+  {
+    "nokertas": 1514,
+    "nik": "0002588298996"
+  },
+  {
+    "nokertas": 1515,
+    "nik": "0002588936556"
+  },
+  {
+    "nokertas": 1516,
+    "nik": "0002640062632"
+  },
+  {
+    "nokertas": 1517,
+    "nik": "0002589076449"
+  },
+  {
+    "nokertas": 1518,
+    "nik": "0002628950646"
+  },
+  {
+    "nokertas": 1519,
+    "nik": "0002588554315"
+  },
+  {
+    "nokertas": 1520,
+    "nik": "0002598340757"
+  },
+  {
+    "nokertas": 1521,
+    "nik": "0002589205252"
+  },
+  {
+    "nokertas": 1522,
+    "nik": "0002590404085"
+  },
+  {
+    "nokertas": 1523,
+    "nik": "0002591087231"
+  },
+  {
+    "nokertas": 1524,
+    "nik": "0002591462621"
+  },
+  {
+    "nokertas": 1525,
+    "nik": "0002593789828"
+  },
+  {
+    "nokertas": 1526,
+    "nik": "0002594525725"
+  },
+  {
+    "nokertas": 1527,
+    "nik": "0002594664202"
+  },
+  {
+    "nokertas": 1528,
+    "nik": "0002594664213"
+  },
+  {
+    "nokertas": 1529,
+    "nik": "0002595056916"
+  },
+  {
+    "nokertas": 1530,
+    "nik": "0002585591425"
+  },
+  {
+    "nokertas": 1531,
+    "nik": "0002595628541"
+  },
+  {
+    "nokertas": 1532,
+    "nik": "0002596982477"
+  },
+  {
+    "nokertas": 1533,
+    "nik": "0002597324106"
+  },
+  {
+    "nokertas": 1534,
+    "nik": "0002598233128"
+  },
+  {
+    "nokertas": 1535,
+    "nik": "0002598534797"
+  },
+  {
+    "nokertas": 1536,
+    "nik": "0002599005576"
+  },
+  {
+    "nokertas": 1537,
+    "nik": "0002595297161"
+  },
+  {
+    "nokertas": 1538,
+    "nik": "0002599161985"
+  },
+  {
+    "nokertas": 1539,
+    "nik": "0002600648763"
+  },
+  {
+    "nokertas": 1540,
+    "nik": "0002596982703"
+  },
+  {
+    "nokertas": 1541,
+    "nik": "0002600648796"
+  },
+  {
+    "nokertas": 1542,
+    "nik": "0002596983513"
+  },
+  {
+    "nokertas": 1543,
+    "nik": "0002639448011"
+  },
+  {
+    "nokertas": 1544,
+    "nik": "0002600648842"
+  },
+  {
+    "nokertas": 1545,
+    "nik": "0002600648875"
+  },
+  {
+    "nokertas": 1546,
+    "nik": "0002608699836"
+  },
+  {
+    "nokertas": 1547,
+    "nik": "0002605565823"
+  },
+  {
+    "nokertas": 1548,
+    "nik": "0002600798589"
+  },
+  {
+    "nokertas": 1549,
+    "nik": "0002607134387"
+  },
+  {
+    "nokertas": 1550,
+    "nik": "0002594437942"
+  },
+  {
+    "nokertas": 1551,
+    "nik": "0002608047279"
+  },
+  {
+    "nokertas": 1552,
+    "nik": "0002608240318"
+  },
+  {
+    "nokertas": 1553,
+    "nik": "0002608336989"
+  },
+  {
+    "nokertas": 1554,
+    "nik": "0002606343322"
+  },
+  {
+    "nokertas": 1555,
+    "nik": "0002608672239"
+  },
+  {
+    "nokertas": 1556,
+    "nik": "0002598534999\t"
+  },
+  {
+    "nokertas": 1557,
+    "nik": "0002608750787"
+  },
+  {
+    "nokertas": 1558,
+    "nik": "0002637329343"
+  },
+  {
+    "nokertas": 1559,
+    "nik": "0002598534843"
+  },
+  {
+    "nokertas": 1560,
+    "nik": "0002608751169"
+  },
+  {
+    "nokertas": 1561,
+    "nik": "0002630286347"
+  },
+  {
+    "nokertas": 1562,
+    "nik": "0002608751643"
+  },
+  {
+    "nokertas": 1563,
+    "nik": "0002608751654"
+  },
+  {
+    "nokertas": 1564,
+    "nik": "0002588936501"
+  },
+  {
+    "nokertas": 1565,
+    "nik": "0002608897509"
+  },
+  {
+    "nokertas": 1566,
+    "nik": "0002632159719"
+  },
+  {
+    "nokertas": 1567,
+    "nik": "0002608957585"
+  },
+  {
+    "nokertas": 1568,
+    "nik": "0002609750507"
+  },
+  {
+    "nokertas": 1569,
+    "nik": "0002609750553"
+  },
+  {
+    "nokertas": 1570,
+    "nik": "0002607847086"
+  },
+  {
+    "nokertas": 1571,
+    "nik": "0002609851465"
+  },
+  {
+    "nokertas": 1572,
+    "nik": "0002598403127"
+  },
+  {
+    "nokertas": 1573,
+    "nik": "0002610580127"
+  },
+  {
+    "nokertas": 1574,
+    "nik": "0002612942526"
+  },
+  {
+    "nokertas": 1575,
+    "nik": "0002612942932"
+  },
+  {
+    "nokertas": 1576,
+    "nik": "0002612944023"
+  },
+  {
+    "nokertas": 1577,
+    "nik": "0002612943505"
+  },
+  {
+    "nokertas": 1578,
+    "nik": "0002612944708"
+  },
+  {
+    "nokertas": 1579,
+    "nik": "0002627249747"
+  },
+  {
+    "nokertas": 1580,
+    "nik": "0002627290001"
+  },
+  {
+    "nokertas": 1581,
+    "nik": "0002628351483"
+  },
+  {
+    "nokertas": 1582,
+    "nik": "0002637890357"
+  },
+  {
+    "nokertas": 1583,
+    "nik": "0002628709784"
+  },
+  {
+    "nokertas": 1584,
+    "nik": "0002628813508"
+  },
+  {
+    "nokertas": 1585,
+    "nik": "0002629116718"
+  },
+  {
+    "nokertas": 1586,
+    "nik": "0002629116729"
+  },
+  {
+    "nokertas": 1587,
+    "nik": "0002630013658"
+  },
+  {
+    "nokertas": 1588,
+    "nik": "0002593789751"
+  },
+  {
+    "nokertas": 1589,
+    "nik": "0002639009248"
+  },
+  {
+    "nokertas": 1590,
+    "nik": "0002629116764"
+  },
+  {
+    "nokertas": 1591,
+    "nik": "0002629171631"
+  },
+  {
+    "nokertas": 1592,
+    "nik": "0002605795637"
+  },
+  {
+    "nokertas": 1593,
+    "nik": "0002629871919"
+  },
+  {
+    "nokertas": 1594,
+    "nik": "0002629975476"
+  },
+  {
+    "nokertas": 1595,
+    "nik": "0002630013636"
+  },
+  {
+    "nokertas": 1596,
+    "nik": "0002608047101"
+  },
+  {
+    "nokertas": 1597,
+    "nik": "0002608751608"
+  },
+  {
+    "nokertas": 1598,
+    "nik": "0002630013704"
+  },
+  {
+    "nokertas": 1599,
+    "nik": "0002630644389"
+  },
+  {
+    "nokertas": 1600,
+    "nik": "0002631866995"
+  },
+  {
+    "nokertas": 1601,
+    "nik": "0002585892723"
+  },
+  {
+    "nokertas": 1602,
+    "nik": "0002632414667"
+  },
+  {
+    "nokertas": 1603,
+    "nik": "0002633721355"
+  },
+  {
+    "nokertas": 1604,
+    "nik": "0002633721377"
+  },
+  {
+    "nokertas": 1605,
+    "nik": "0002639314607"
+  },
+  {
+    "nokertas": 1606,
+    "nik": "0002594437683"
+  },
+  {
+    "nokertas": 1607,
+    "nik": "0002633745879"
+  },
+  {
+    "nokertas": 1608,
+    "nik": "0002633746173"
+  },
+  {
+    "nokertas": 1609,
+    "nik": "0002606607922"
+  },
+  {
+    "nokertas": 1610,
+    "nik": "0002633746184"
+  },
+  {
+    "nokertas": 1611,
+    "nik": "0002636030338"
+  },
+  {
+    "nokertas": 1612,
+    "nik": "0002634448555"
+  },
+  {
+    "nokertas": 1613,
+    "nik": "0002634738131"
+  },
+  {
+    "nokertas": 1614,
+    "nik": "0002635105667"
+  },
+  {
+    "nokertas": 1615,
+    "nik": "0002635327809"
+  },
+  {
+    "nokertas": 1616,
+    "nik": "0002595647913"
+  },
+  {
+    "nokertas": 1617,
+    "nik": "0002635682095"
+  },
+  {
+    "nokertas": 1618,
+    "nik": "0002635989636"
+  },
+  {
+    "nokertas": 1619,
+    "nik": "0002636369381"
+  },
+  {
+    "nokertas": 1620,
+    "nik": "0002629871864"
+  },
+  {
+    "nokertas": 1621,
+    "nik": "0002635682117"
+  },
+  {
+    "nokertas": 1622,
+    "nik": "0002597323972"
+  },
+  {
+    "nokertas": 1623,
+    "nik": "0002637329321"
+  },
+  {
+    "nokertas": 1624,
+    "nik": "0002629631237"
+  },
+  {
+    "nokertas": 1625,
+    "nik": "0002637525622"
+  },
+  {
+    "nokertas": 1626,
+    "nik": "0002637705587"
+  },
+  {
+    "nokertas": 1627,
+    "nik": "0002638645277"
+  },
+  {
+    "nokertas": 1628,
+    "nik": "0002639009226"
+  },
+  {
+    "nokertas": 1629,
+    "nik": "0002589205206"
+  },
+  {
+    "nokertas": 1630,
+    "nik": "0002639392852"
+  },
+  {
+    "nokertas": 1631,
+    "nik": "0002639448022"
+  },
+  {
+    "nokertas": 1632,
+    "nik": "0002640062619"
+  },
+  {
+    "nokertas": 1633,
+    "nik": "0002640063071"
+  },
+  {
+    "nokertas": 1634,
+    "nik": "0002762827604"
+  },
+  {
+    "nokertas": 1635,
+    "nik": "0002763712607"
+  },
+  {
+    "nokertas": 1636,
+    "nik": "0002808741723"
+  },
+  {
+    "nokertas": 1637,
+    "nik": "0002808741734"
+  },
+  {
+    "nokertas": 1638,
+    "nik": "0002808741745"
+  },
+  {
+    "nokertas": 1639,
+    "nik": "0002808741756"
+  },
+  {
+    "nokertas": 1640,
+    "nik": "0002808741767"
+  },
+  {
+    "nokertas": 1641,
+    "nik": "0002808741789"
+  },
+  {
+    "nokertas": 1642,
+    "nik": "0002808741824"
+  },
+  {
+    "nokertas": 1643,
+    "nik": "0002808741835"
+  },
+  {
+    "nokertas": 1644,
+    "nik": "0002808741846"
+  },
+  {
+    "nokertas": 1645,
+    "nik": "0002808741868"
+  },
+  {
+    "nokertas": 1646,
+    "nik": "0002808741879"
+  },
+  {
+    "nokertas": 1647,
+    "nik": "0002808741881"
+  },
+  {
+    "nokertas": 1648,
+    "nik": "0002808742151"
+  },
+  {
+    "nokertas": 1649,
+    "nik": "0002808742173"
+  },
+  {
+    "nokertas": 1650,
+    "nik": "0002808742184"
+  },
+  {
+    "nokertas": 1651,
+    "nik": "0002808742228"
+  },
+  {
+    "nokertas": 1652,
+    "nik": "0002808742239"
+  },
+  {
+    "nokertas": 1653,
+    "nik": "0002808742241"
+  },
+  {
+    "nokertas": 1654,
+    "nik": "0002808742252"
+  },
+  {
+    "nokertas": 1655,
+    "nik": "0002808742329"
+  },
+  {
+    "nokertas": 1656,
+    "nik": "0002808742386"
+  },
+  {
+    "nokertas": 1657,
+    "nik": "0002808742432"
+  },
+  {
+    "nokertas": 1658,
+    "nik": "0002808742713"
+  },
+  {
+    "nokertas": 1659,
+    "nik": "0002808742724"
+  },
+  {
+    "nokertas": 1660,
+    "nik": "0002808742781"
+  },
+  {
+    "nokertas": 1661,
+    "nik": "0002808742792"
+  },
+  {
+    "nokertas": 1662,
+    "nik": "0002808742893"
+  },
+  {
+    "nokertas": 1663,
+    "nik": "0002808743231"
+  },
+  {
+    "nokertas": 1664,
+    "nik": "0002808743242"
+  },
+  {
+    "nokertas": 1665,
+    "nik": "0002808743286"
+  },
+  {
+    "nokertas": 1666,
+    "nik": "0002808743297"
+  },
+  {
+    "nokertas": 1667,
+    "nik": "0002808743308"
+  },
+  {
+    "nokertas": 1668,
+    "nik": "0002808743422"
+  },
+  {
+    "nokertas": 1669,
+    "nik": "0002808743444"
+  },
+  {
+    "nokertas": 1670,
+    "nik": "0002808743567 "
+  },
+  {
+    "nokertas": 1671,
+    "nik": "0002808743556"
+  },
+  {
+    "nokertas": 1672,
+    "nik": "0002808743589 "
+  },
+  {
+    "nokertas": 1673,
+    "nik": "0002808743591"
+  },
+  {
+    "nokertas": 1674,
+    "nik": "0002808743602"
+  },
+  {
+    "nokertas": 1675,
+    "nik": "0002808743613"
+  },
+  {
+    "nokertas": 1676,
+    "nik": "0002808743736"
+  },
+  {
+    "nokertas": 1677,
+    "nik": "0002808743747"
+  },
+  {
+    "nokertas": 1678,
+    "nik": "0002808743758"
+  },
+  {
+    "nokertas": 1679,
+    "nik": "0002808743771"
+  },
+  {
+    "nokertas": 1680,
+    "nik": "0002808743782"
+  },
+  {
+    "nokertas": 1681,
+    "nik": "0002808743793"
+  },
+  {
+    "nokertas": 1682,
+    "nik": "0002808743804"
+  },
+  {
+    "nokertas": 1683,
+    "nik": "0002808743883"
+  },
+  {
+    "nokertas": 1684,
+    "nik": "0002808743894"
+  },
+  {
+    "nokertas": 1685,
+    "nik": "0002808743949"
+  },
+  {
+    "nokertas": 1686,
+    "nik": "0002808744164"
+  },
+  {
+    "nokertas": 1687,
+    "nik": "0002808744175"
+  },
+  {
+    "nokertas": 1688,
+    "nik": "0002808744221"
+  },
+  {
+    "nokertas": 1689,
+    "nik": "0002808744254"
+  },
+  {
+    "nokertas": 1690,
+    "nik": "0002808744366"
+  },
+  {
+    "nokertas": 1691,
+    "nik": "0002808744377"
+  },
+  {
+    "nokertas": 1692,
+    "nik": "0002808744513"
+  },
+  {
+    "nokertas": 1693,
+    "nik": "0002808744524"
+  },
+  {
+    "nokertas": 1694,
+    "nik": "0002808744614"
+  },
+  {
+    "nokertas": 1695,
+    "nik": "0002808744625"
+  },
+  {
+    "nokertas": 1696,
+    "nik": "0002808744636"
+  },
+  {
+    "nokertas": 1697,
+    "nik": "0002808744726 "
+  },
+  {
+    "nokertas": 1698,
+    "nik": "0002808744772"
+  },
+  {
+    "nokertas": 1699,
+    "nik": "0002808744783"
+  },
+  {
+    "nokertas": 1700,
+    "nik": "0002808744794"
+  },
+  {
+    "nokertas": 1701,
+    "nik": "0002808744805"
+  },
+  {
+    "nokertas": 1702,
+    "nik": "0002808744895"
+  },
+  {
+    "nokertas": 1703,
+    "nik": "0002808744996"
+  },
+  {
+    "nokertas": 1704,
+    "nik": "0002808745029"
+  },
+  {
+    "nokertas": 1705,
+    "nik": "0002808745121"
+  },
+  {
+    "nokertas": 1706,
+    "nik": "0002808745132"
+  },
+  {
+    "nokertas": 1707,
+    "nik": "0002808745266"
+  },
+  {
+    "nokertas": 1708,
+    "nik": "0002808745277"
+  },
+  {
+    "nokertas": 1709,
+    "nik": "0002808745367"
+  },
+  {
+    "nokertas": 1710,
+    "nik": "0002808745637"
+  },
+  {
+    "nokertas": 1711,
+    "nik": "0002808745648"
+  },
+  {
+    "nokertas": 1712,
+    "nik": "0002808745659"
+  },
+  {
+    "nokertas": 1713,
+    "nik": "0002808745929"
+  },
+  {
+    "nokertas": 1714,
+    "nik": "0002808745931"
+  },
+  {
+    "nokertas": 1715,
+    "nik": "0002808745986"
+  },
+  {
+    "nokertas": 1716,
+    "nik": "0002808746008"
+  },
+  {
+    "nokertas": 1717,
+    "nik": "0002808746019"
+  },
+  {
+    "nokertas": 1718,
+    "nik": "0002808746098"
+  },
+  {
+    "nokertas": 1719,
+    "nik": "0002808746109"
+  },
+  {
+    "nokertas": 1720,
+    "nik": "0002808746111"
+  },
+  {
+    "nokertas": 1721,
+    "nik": "0002808746144"
+  },
+  {
+    "nokertas": 1722,
+    "nik": "0002808746436"
+  },
+  {
+    "nokertas": 1723,
+    "nik": "0002808746842"
+  },
+  {
+    "nokertas": 1724,
+    "nik": "0002808747123"
+  },
+  {
+    "nokertas": 1725,
+    "nik": "0002808747382"
+  },
+  {
+    "nokertas": 1726,
+    "nik": "0002808747944"
+  },
+  {
+    "nokertas": 1727,
+    "nik": "0002808747955"
+  },
+  {
+    "nokertas": 1728,
+    "nik": "0002808748089"
+  },
+  {
+    "nokertas": 1729,
+    "nik": "0002808748091"
+  },
+  {
+    "nokertas": 1730,
+    "nik": "0002808748113"
+  },
+  {
+    "nokertas": 1731,
+    "nik": "0002808748361"
+  },
+  {
+    "nokertas": 1732,
+    "nik": "0002808748539"
+  },
+  {
+    "nokertas": 1733,
+    "nik": "0002808748541"
+  },
+  {
+    "nokertas": 1734,
+    "nik": "0002808748563"
+  },
+  {
+    "nokertas": 1735,
+    "nik": "0002808748664"
+  },
+  {
+    "nokertas": 1736,
+    "nik": "0002808748675"
+  },
+  {
+    "nokertas": 1737,
+    "nik": "0002808748686"
+  },
+  {
+    "nokertas": 1738,
+    "nik": "0002808748697"
+  },
+  {
+    "nokertas": 1739,
+    "nik": "0002808748732"
+  },
+  {
+    "nokertas": 1740,
+    "nik": "0002808748754"
+  },
+  {
+    "nokertas": 1741,
+    "nik": "0002808748765"
+  },
+  {
+    "nokertas": 1742,
+    "nik": "0002808748787"
+  },
+  {
+    "nokertas": 1743,
+    "nik": "0002808748855"
+  },
+  {
+    "nokertas": 1744,
+    "nik": "0002808748866"
+  },
+  {
+    "nokertas": 1745,
+    "nik": "0002808748967"
+  },
+  {
+    "nokertas": 1746,
+    "nik": "0002808748978"
+  },
+  {
+    "nokertas": 1747,
+    "nik": "0002808748989"
+  },
+  {
+    "nokertas": 1748,
+    "nik": "0002808749035"
+  },
+  {
+    "nokertas": 1749,
+    "nik": "0002808749046"
+  },
+  {
+    "nokertas": 1750,
+    "nik": "0002808749081"
+  },
+  {
+    "nokertas": 1751,
+    "nik": "0002808749103"
+  },
+  {
+    "nokertas": 1752,
+    "nik": "0002808749193"
+  },
+  {
+    "nokertas": 1753,
+    "nik": "0002808749215"
+  },
+  {
+    "nokertas": 1754,
+    "nik": "0002808749204"
+  },
+  {
+    "nokertas": 1755,
+    "nik": "0002808749226"
+  },
+  {
+    "nokertas": 1756,
+    "nik": "0002808749283"
+  },
+  {
+    "nokertas": 1757,
+    "nik": "0002808749452"
+  },
+  {
+    "nokertas": 1758,
+    "nik": "0002808749518"
+  },
+  {
+    "nokertas": 1759,
+    "nik": "0002808749744"
+  },
+  {
+    "nokertas": 1760,
+    "nik": "0002808749733"
+  },
+  {
+    "nokertas": 1761,
+    "nik": "0002808749856"
+  },
+  {
+    "nokertas": 1762,
+    "nik": "0002808749913"
+  },
+  {
+    "nokertas": 1763,
+    "nik": "0002808749924"
+  },
+  {
+    "nokertas": 1764,
+    "nik": "0002808749935"
+  },
+  {
+    "nokertas": 1765,
+    "nik": "0002808749946"
+  },
+  {
+    "nokertas": 1766,
+    "nik": "0002808749957"
+  },
+  {
+    "nokertas": 1767,
+    "nik": "0002808750148"
+  },
+  {
+    "nokertas": 1768,
+    "nik": "0002808750161"
+  },
+  {
+    "nokertas": 1769,
+    "nik": "0002808750317"
+  },
+  {
+    "nokertas": 1770,
+    "nik": "0002808750352"
+  },
+  {
+    "nokertas": 1771,
+    "nik": "0002808750385"
+  },
+  {
+    "nokertas": 1772,
+    "nik": "0002808750543"
+  },
+  {
+    "nokertas": 1773,
+    "nik": "0002808750598"
+  },
+  {
+    "nokertas": 1774,
+    "nik": "0002808750655"
+  },
+  {
+    "nokertas": 1775,
+    "nik": "0002808750734"
+  },
+  {
+    "nokertas": 1776,
+    "nik": "0002808750835"
+  },
+  {
+    "nokertas": 1777,
+    "nik": "0002808751037"
+  },
+  {
+    "nokertas": 1778,
+    "nik": "0002808751094"
+  },
+  {
+    "nokertas": 1779,
+    "nik": "0002808751239"
+  },
+  {
+    "nokertas": 1780,
+    "nik": "0002808751375"
+  },
+  {
+    "nokertas": 1781,
+    "nik": "0002808751386"
+  },
+  {
+    "nokertas": 1782,
+    "nik": "0002808751397"
+  },
+  {
+    "nokertas": 1783,
+    "nik": "0002808751847"
+  },
+  {
+    "nokertas": 1784,
+    "nik": "0002808751915"
+  },
+  {
+    "nokertas": 1785,
+    "nik": "0002808751937"
+  },
+  {
+    "nokertas": 1786,
+    "nik": "0002808752141"
+  },
+  {
+    "nokertas": 1787,
+    "nik": "0002808752152"
+  },
+  {
+    "nokertas": 1788,
+    "nik": "0002808752332"
+  },
+  {
+    "nokertas": 1789,
+    "nik": "0002808752703"
+  },
+  {
+    "nokertas": 1790,
+    "nik": "0002808752714 "
+  },
+  {
+    "nokertas": 1791,
+    "nik": "0002808752771"
+  },
+  {
+    "nokertas": 1792,
+    "nik": "0002808752859 "
+  },
+  {
+    "nokertas": 1793,
+    "nik": "0002808753085 "
+  },
+  {
+    "nokertas": 1794,
+    "nik": "0002808753107"
+  },
+  {
+    "nokertas": 1795,
+    "nik": "0002808753164"
+  },
+  {
+    "nokertas": 1796,
+    "nik": "0002808753186"
+  },
+  {
+    "nokertas": 1797,
+    "nik": "0002808753298"
+  },
+  {
+    "nokertas": 1798,
+    "nik": "0002808753388\t"
+  },
+  {
+    "nokertas": 1799,
+    "nik": "0002808753399"
+  },
+  {
+    "nokertas": 1800,
+    "nik": "0002808753401"
+  },
+  {
+    "nokertas": 1801,
+    "nik": "0002808753456"
+  },
+  {
+    "nokertas": 1802,
+    "nik": "0002808753502"
+  },
+  {
+    "nokertas": 1803,
+    "nik": "0002808753737"
+  },
+  {
+    "nokertas": 1804,
+    "nik": "0002808753873"
+  },
+  {
+    "nokertas": 1805,
+    "nik": "0002808753917"
+  },
+  {
+    "nokertas": 1806,
+    "nik": "0002808753952"
+  },
+  {
+    "nokertas": 1807,
+    "nik": "0002808753985"
+  },
+  {
+    "nokertas": 1808,
+    "nik": "0002808754029\t\t"
+  },
+  {
+    "nokertas": 1809,
+    "nik": "0002808754108"
+  },
+  {
+    "nokertas": 1810,
+    "nik": "0002808754244 "
+  },
+  {
+    "nokertas": 1811,
+    "nik": "0002808754367"
+  },
+  {
+    "nokertas": 1812,
+    "nik": "0002808754492 "
+  },
+  {
+    "nokertas": 1813,
+    "nik": "0002808754503"
+  },
+  {
+    "nokertas": 1814,
+    "nik": "0002808754841"
+  },
+  {
+    "nokertas": 1815,
+    "nik": "0002808754964"
+  },
+  {
+    "nokertas": 1816,
+    "nik": "0002808755212"
+  },
+  {
+    "nokertas": 1817,
+    "nik": "0002808755223"
+  },
+  {
+    "nokertas": 1818,
+    "nik": "0002808755234"
+  },
+  {
+    "nokertas": 1819,
+    "nik": "0002808755245"
+  },
+  {
+    "nokertas": 1820,
+    "nik": "0002808755256"
+  },
+  {
+    "nokertas": 1821,
+    "nik": "0002808755324"
+  },
+  {
+    "nokertas": 1822,
+    "nik": "0002808755403"
+  },
+  {
+    "nokertas": 1823,
+    "nik": "0002808755436"
+  },
+  {
+    "nokertas": 1824,
+    "nik": "0002808755458"
+  },
+  {
+    "nokertas": 1825,
+    "nik": "0002808755447"
+  },
+  {
+    "nokertas": 1826,
+    "nik": "0002808755853"
+  },
+  {
+    "nokertas": 1827,
+    "nik": "0002808755864"
+  },
+  {
+    "nokertas": 1828,
+    "nik": "0002808755875"
+  },
+  {
+    "nokertas": 1829,
+    "nik": "0002808755886"
+  },
+  {
+    "nokertas": 1830,
+    "nik": "0002808755932"
+  },
+  {
+    "nokertas": 1831,
+    "nik": "0002808755954"
+  },
+  {
+    "nokertas": 1832,
+    "nik": "0002808756191"
+  },
+  {
+    "nokertas": 1833,
+    "nik": "0002808756224"
+  },
+  {
+    "nokertas": 1834,
+    "nik": "0002808756415"
+  },
+  {
+    "nokertas": 1835,
+    "nik": "0002808756426"
+  },
+  {
+    "nokertas": 1836,
+    "nik": "0002808756448"
+  },
+  {
+    "nokertas": 1837,
+    "nik": "0002808756459"
+  },
+  {
+    "nokertas": 1838,
+    "nik": "0002808756516"
+  },
+  {
+    "nokertas": 1839,
+    "nik": "0002808756549"
+  },
+  {
+    "nokertas": 1840,
+    "nik": "0002808756573"
+  },
+  {
+    "nokertas": 1841,
+    "nik": "0002808756742"
+  },
+  {
+    "nokertas": 1842,
+    "nik": "0002808756775"
+  },
+  {
+    "nokertas": 1843,
+    "nik": "0002808756876"
+  },
+  {
+    "nokertas": 1844,
+    "nik": "0002808756887"
+  }
+]
