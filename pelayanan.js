@@ -38,6 +38,7 @@ async function sendWa(nosend, pesand) {
 
 try {
     (async () => {
+          console.log('HALLOOOOO')
             // Launch browser
             const browser = await puppeteer.launch({ headless: false });
             const page = await browser.newPage();
@@ -75,7 +76,7 @@ try {
                                 await new Promise(resolve => setTimeout(resolve, 5000));
                         }else{
                                 await new Promise(resolve => setTimeout(resolve, 2000));
-                                console.log(tanggalProses);
+                                console.log("Memilih tanggal :"+tanggalProses);
                                 await page.evaluate((tanggalProses) => {
                                         const dateElements = document.querySelectorAll('.datepicker-days td.day'); // Selector tanggal di date picker
                                         for (const dateElement of dateElements) {
