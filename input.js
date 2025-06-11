@@ -11,6 +11,29 @@ const url1 = "https://pasuruan.epuskesmas.id/pasien?broadcastNotif=1";
 const datuser = JSON.parse(fs.readFileSync(fileinput, 'utf-8'));
 
 
+//api console.log
+const express = require('express');
+const app = express ();
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
+const port = 8080;
+const cors = require('cors');
+app.use(cors());
+let logArray = [];
+logArray.push('[INFO] MEMULAI SERVER')  
+app.listen(port, () => {
+    console.log(`Example applistening on port ${port}`)
+  });
+app.get('/', (req,res) =>{
+    res.send("HELLO WOLD!")
+  });
+app.get('/ambil', async (req, res) => {
+    const lastFiveLogs = logArray.slice(-5); // Ambil dari belakang
+    res.status(200).json({ logs: lastFiveLogs });
+ });
+
+process.title = "Input E-PUSKESMAS";
+    
 //update sementara hanya ada disini wkwk
 //cek popup
 async function checkPopup(page) {
@@ -62,15 +85,28 @@ try {
                         const tanggalProses1 = await askQuestion('Masukkan Tanggal yang akan di Proses: ');
                         const tanggalProses = tanggalProses1;
                         await new Promise(resolve => setTimeout(resolve, 5000));
+                        logArray.push('[INFO] Sedang Melakukan Login Username & Password');
                         console.log('[INFO] Sedang Melakukan Login Username & Password');
                         await page.type("#email", email);
                         await page.type("#password", password)
                         await new Promise(resolve => setTimeout(resolve, 1000));
                         await page.click("#login")
+                        const loginInvalid = await page.evaluate(() => {
+                            const isiPesan = document.querySelector('body > div.col-xs-11.col-sm-4.alert.alert-danger.animated.fadeInDown > span:nth-child(4)');
+                        return isiPesan && isiPesan.innerText.includes('E-mail / Kata Kunci salah !');
+                        });
+                        if(loginInvalid){
+                            logArray.push('[INFO] Berhasil login lanjutkan proses');
+                            console.log("Berhasil login lanjutkan proses")
+                        }else{
+                            logArray.push('[INFO] Gagal Login');
+                            console.log("Gagal login, ganti user atau password")
+                        }
                         //end fungsi login
                         sendWa("081359536415", "Berhasil Login");
                         await new Promise(resolve => setTimeout(resolve, 5000));
                         console.log('[INFO] Memilih Lokasi Puskes');
+                        logArray.push('[INFO] Memilih Lokasi Puskes');
                         await new Promise(resolve => setTimeout(resolve, 3000));
                         await page.waitForSelector('#content > div:nth-child(2) > div.panel-body.row > form > div > button', { timeout: 5000 });
                         await page.click("#content > div:nth-child(2) > div.panel-body.row > form > div > button")
@@ -78,6 +114,7 @@ try {
                         await page.click("#menu_pendaftaran")
                         await new Promise(resolve => setTimeout(resolve, 2000));
                         await page.click("#menu_pendaftaran_pasien")
+                        logArray.push('[INFO] Memilih Fitur Tunda');
                         console.log('[INFO] Memilih Fitur Tunda');
                         await new Promise(resolve => setTimeout(resolve, 3000));
                         await page.click("#button_fitur_tunda")
@@ -109,6 +146,7 @@ try {
                         for (const entry of datuser) {
                             if(totalSelesai < 20 && entry.status == ""){
                                 console.log(`[INFO] Total data yang diproses: ${totalSelesai}`);
+                                logArray.push(`[INFO] Melakukan Input No Nik ${entry.nik}`);
                                 console.log(`[INFO] Melakukan Input No Nik ${entry.nik}`);
                                 await new Promise(resolve => setTimeout(resolve, 2000));
                                 await page.waitForSelector("#form_search > div:nth-child(2) > input")
@@ -170,6 +208,7 @@ try {
                                 const hasilumur = calculateAge(dataPasien.tanggalLahir);
                                 const resulttinggi = tinggi(hasilumur.toString(), dataPasien.jenisKelamin);
                                 const resultbadan = beratIdeal(resulttinggi.toString(), hasilumur.toString(), dataPasien.jenisKelamin)
+                                logArray.push(`[INFO] Sedang Memproses Data Status: ${statusBpjs} Nama: ${dataPasien.namaPasien} JK: ${dataPasien.jenisKelamin} Tanggal Lahir: ${dataPasien.tanggalLahir} Umur: ${hasilumur.toString()} dengan rata rata tinggi ${resulttinggi} dan rata rata berat ${resultbadan}`);
                                 console.log (`[INFO] Sedang Memproses Data Status: ${statusBpjs} Nama: ${dataPasien.namaPasien} JK: ${dataPasien.jenisKelamin} Tanggal Lahir: ${dataPasien.tanggalLahir} Umur: ${hasilumur.toString()} dengan rata rata tinggi ${resulttinggi} dan rata rata berat ${resultbadan}`);
                                 // Cek jenis kelamin dan jalankan fungsi yang sesuai
                                 await new Promise(resolve => setTimeout(resolve, 1000));
@@ -181,10 +220,12 @@ try {
                                             await page.type('#tinggi_badan', resulttinggi.toString());
                                             await page.type('#berat_badan', resultbadan.toString());
                                             if (hasilumur.toString() >= 60) {
+                                                    logArray.push(`[INFO] Mendapati data Pasien dengan umur lansia`)
                                                     console.log('[INFO] Mendapati data Pasien dengan umur Lansia');
                                                     await page.click('label.radio-inline input[name="Pendaftaran[status_hamil]"][value="0"]'); //status hamil/tidak
                                                     await page.click('label.radio-inline input[name="Pendaftaran[status]"][value="SEHAT"]'); //kunjungan sehat
                                                     await page.click('input[type="checkbox"][value="LANSIA"]');
+                                                    logArray.push(`[INFO] Sedang Memasukan Nama Tenaga Medis LILIK MASUDA. AMD.KEP (Perawat)`)
                                                     console.log('[INFO] Sedang Memasukan Nama Tenaga Medis LILIK MASUDA. AMD. KEP (Perawat)');
                                                     await new Promise(resolve => setTimeout(resolve, 1000));
                                                     await page.type('input[name="dokter_nama"]', 'lilik');
@@ -214,6 +255,7 @@ try {
                                                     await page.click('label.radio-inline input[name="Pendaftaran[status]"][value="SEHAT"]'); //kunjungan sehat
                                                     await new Promise(resolve => setTimeout(resolve, 1000));
                                                     await page.click('input[name="dokter_nama"].form-control.input-sm.ui-autocomplete-input');
+                                                    logArray.push(`[INFO] Sedang Memasukan Nama Tenaga Medis Siti Mariana (Bidan)`)
                                                     console.log('[INFO] Sedang Memasukan Nama Tenaga Medis Siti Mariana (Bidan)');
                                                     await new Promise(resolve => setTimeout(resolve, 1000));
                                                     await page.type('input[name="dokter_nama"]', 'siti maria');
@@ -232,6 +274,7 @@ try {
                                                                 await page.click('#button_save');
                                                                 updateJsonStatusSucces(dataPasien.namaPasien, entry.nik, dataPasien.jenisKelamin,dataPasien.tanggalLahir, hasilumur.toString(), resulttinggi.toString(), resultbadan.toString());
                                                                 await new Promise(resolve => setTimeout(resolve, 4000));
+                                                                logArray.push("[INFO] Berhasil Menambahkan Data:", entry.nik, "Nama: ", dataPasien.namaPasien)
                                                                 console.log("[INFO] Berhasil Menambahkan Data:", entry.nik, "Nama: ", dataPasien.namaPasien);
                                                                 const pesanSukses = `[INFO] Berhasil Menambahkan Data: ${entry.nik}, Nama: ${dataPasien.namaPasien}, Jenis Kelamin: ${dataPasien.jenisKelamin}, Umur: ${hasilumur.toString()}`;
                                                                 sendWa("083897738482", `${pesanSukses}`);
@@ -240,6 +283,7 @@ try {
                                                                 await page.goto(url1, {waitUntill: "networkidle2"});
                                                             
                                             } else{
+                                                    logArray.push(`[INFO] Mendapati data pasien dibawah umur 15 Tahun`)
                                                     console.log('[INFO] Mendapati data pasien dibawah umur 15 Tahun');
                                                     await page.click('#form_create > div:nth-child(3) > div:nth-child(2) > div:nth-child(4) > div > div:nth-child(2) > label');
                                                     await new Promise(resolve => setTimeout(resolve, 1000));
@@ -265,10 +309,12 @@ try {
                                                             
                                             }
                                     }else{
-                                        console.log("Pasien Laki-laki")
+                                            console.log("Pasien Laki-laki")
+                                            logArray.push(`Pasien Laki-Laki`)
                                             await page.type('#tinggi_badan', resulttinggi.toString());
                                             await page.type('#berat_badan', resultbadan.toString());
                                             await page.click('label.radio-inline input[name="Pendaftaran[status]"][value="SEHAT"]');
+                                            logArray.push(`[INFO] Sedang Memasukan Nama Tenaga Medis LILIK MASUDA. AMD. KEP (Perawat)`)
                                             console.log('[INFO] Sedang Memasukan Nama Tenaga Medis LILIK MASUDA. AMD. KEP (Perawat)');
                                             await new Promise(resolve => setTimeout(resolve, 1000));
                                             await page.type('input[name="dokter_nama"]', 'lilik');
@@ -297,21 +343,25 @@ try {
                                                     
                                     }
                                     }else{
+                                        logArray.push(`[INFO] ${entry.nik} Pasien Diluar Faskes`)
                                         console.log(`${entry.nik} Pasien Diluar Faskes`);
                                         updateJsonStatusRegion(entry.nik);
                                         await page.goto(url1, {waitUntill: "networkidle2"});
                                     }
                                 }else{
+                                    logArray.push(`${entry.nik} bukan pasien bpjs`)
                                     console.log(`${entry.nik} bukan pasien bpjs`);
                                     updateJsonStatusRegion(entry.nik);
                                     await page.goto(url1, {waitUntill: "networkidle2"});
                                 }
                         } else {
+                                logArray.push("[INFO] Pasien dengan No ", entry.nik, "Pasien tidak aktif")
                                 console.log("[INFO] Pasien dengan No ", entry.nik, "Pasien tidak aktif");
                                 updateJsonStatusBPJS(entry.nik);
                                 await page.goto(url1, {waitUntill: "networkidle2"});
                         }
                 }else{
+                    logArray.push("[INFO] Data dengan No Asuransi", entry.nik, "Tidak Ditemukan")
                     console.log("[INFO] Data dengan No Asuransi", entry.nik, "Tidak Ditemukan");
                         updateJsonStatusNotFound(entry.nik);
                         await page.evaluate(() => {
@@ -331,5 +381,5 @@ rl.close();
             }
         })();
 } catch (error){
-        console.log('[ALERT] error bang')
+    logArray.push('TERJADI ERRO')
 }

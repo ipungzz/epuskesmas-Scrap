@@ -11,7 +11,7 @@ const {calculateAge, askQuestion, tinggi, beratIdeal} = require('./function/scri
 const { table } = require('console');
 const email = loginpustu[0].email;
 const password = loginpustu[0].password;
-
+process.title = "Pelayanan E-PUSKESMAS";
 async function sendWa(nosend, pesand) {
   const url = "http://localhost:8080/postapi";
   const key = "SIPALINGNT";

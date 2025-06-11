@@ -1,0 +1,7 @@
+tunnel: abc12345-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+credentials-file: C:\Users\YourUser\.cloudflared\abc12345-xxxx-xxxx-xxxx-xxxxxxxxxxxx.json
+
+ingress:
+  - hostname: myapp.yourdomain.com
+    service: http://localhost:3654
+  - service: http_status:404
