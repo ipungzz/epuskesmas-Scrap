@@ -21,7 +21,7 @@ function convertExcelToJson(excelFilePath, jsonFilePath) {
 }
 
 // Contoh penggunaan: ganti 'data.xlsx' dan 'output.json' sesuai kebutuhan
-const excelFilePath = 'fileinput.xlsx'; // Path file Excel yang akan dikonversi
+const excelFilePath = './import/import.xlsx'; // Path file Excel yang akan dikonversi
 const jsonFilePath = './lib/data.json'; // Path file JSON output
 
 convertExcelToJson(excelFilePath, jsonFilePath);

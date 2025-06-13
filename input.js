@@ -16,7 +16,7 @@ const express = require('express');
 const app = express ();
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
-const port = 8080;
+const port = 8000;
 const cors = require('cors');
 app.use(cors());
 let logArray = [];
