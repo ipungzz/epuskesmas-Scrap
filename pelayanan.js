@@ -38,7 +38,6 @@ async function sendWa(nosend, pesand) {
 
 try {
     (async () => {
-          console.log('test aja bang')
             // Launch browser
             const browser = await puppeteer.launch({ headless: false });
             const page = await browser.newPage();
