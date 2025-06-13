@@ -14,15 +14,24 @@ const { askQuestion } = require('./function/script');
 
         // Kirim data
         const response = await axios.post(targetLink, jsonData);
-        console.log("Data berhasil dikirim:", response.data);
+
+        if (response.status === 200) {
+            console.log("[INFO] Data berhasil dikirim!");
+        } else {
+            console.log("Data dikirim, tetapi server mengembalikan status:", response.status);
+        }
         setTimeout(() => {
-            console.log("Berhasil Upload Data, menutup aplikasi...");
+            console.log("[INFO] Menutup aplikasi...");
             process.exit(0);
         }, 1000);
     } catch (error) {
-        //console.error("Gagal mengirim data:", error.message);
+        if (error.response) {
+            console.error("Gagal mengirim data:", error.response.status, error.response.data);
+        } else {
+            console.error("[INFO] "+ error.message);
+        }
         setTimeout(() => {
-            console.log("Berhasil Upload Data, menutup aplikasi...");
+            //console.log("Menutup aplikasi...");
             process.exit(0);
         }, 1000);
     }

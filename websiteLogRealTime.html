@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Log Viewer</title>
+  <title>Log Viewer & Runner</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -19,25 +19,34 @@
       padding: 5px;
       border-bottom: 1px solid #ccc;
     }
+    .button {
+      padding: 10px 20px;
+      margin: 5px;
+      font-size: 16px;
+    }
   </style>
 </head>
 <body>
   <h2>Log Realtime Viewer</h2>
   <div id="logContainer"></div>
 
+  <h3>Action:</h3>
+  <button class="button" onclick="runScript('input')">Run Input</button>
+  <button class="button" onclick="runScript('pelayanan')">Run Pelayanan</button>
+
   <script>
     async function fetchLogs() {
       const container = document.getElementById('logContainer');
       
       try {
-        const response = await fetch('http://localhost:8000/ambil');
+        const response = await fetch('http://localhost:8080/ambil');
         if (!response.ok) throw new Error('HTTP status ' + response.status);
   
         const data = await response.json();
   
-        container.innerHTML = ''; // Kosongkan isi sebelumnya
+        container.innerHTML = '';
   
-        data.logs.forEach((log, index) => {
+        data.logs.forEach((log) => {
           const div = document.createElement('div');
           div.className = 'logItem';
           div.textContent = `${log}`;
@@ -45,15 +54,24 @@
         });
       } catch (error) {
         console.error('Gagal mengambil log:', error);
-        container.innerHTML = '<div style="color: red;">Tidak dapat terhubung dengan server, mencoba menghubungkan ulang</div>';
+        container.innerHTML = '<div style="color: red;">Tidak dapat terhubung dengan server</div>';
       }
     }
   
     // Fetch log setiap 1 detik
     setInterval(fetchLogs, 1000);
-  
-    // Panggil pertama kali saat halaman dimuat
     fetchLogs();
+
+    // Function untuk tombol
+    async function runScript(type) {
+      try {
+        const response = await fetch(`http://localhost:8080/run?program=${type}`);
+        const data = await response.json();
+        alert(data.message);
+      } catch (err) {
+        alert('Gagal menjalankan script: ' + err);
+      }
+    }
   </script>
 </body>
 </html>

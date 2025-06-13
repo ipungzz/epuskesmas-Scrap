@@ -72,23 +72,28 @@ app.post('/upload', (req, res) => {
     const filePath = path.join(__dirname, '/lib/received_data.json');
 
     fs.writeFile(filePath, JSON.stringify(data, null, 2), (err) => {
-        if (err) {
-            res.status(500).send("Gagal menyimpan file");
-            process.exit(1);
-            return;
-        }
-        console.log("Berhasil menerima data");
-        dataReceived = true;  // tandai bahwa data sudah diterima
+    if (err) {
+        res.status(500).send("Gagal menyimpan file");
+        process.exit(1);
+        return;
+    }
+    console.log("Berhasil menerima data");
+    dataReceived = true;  // tandai bahwa data sudah diterima
 
-        setTimeout(() => {
-            process.exit(0);
-        }, 2000);
+    // Kirim respon sukses ke client
+    res.status(200).json({
+        success: true,
+        message: "Data berhasil diterima dan disimpan"
     });
+
+    setTimeout(() => {
+        process.exit(0);
+    }, 2000);
+});
 });
 
-app.listen(port, async () => {
+app.listen(port, '0.0.0.0', async () => {
     console.log(`Downloader aktif di port ${port}`);
-
     try {
         const publicUrl = await startCloudflared();
         console.log("\n=== LINK PUBLIK ANDA ===");

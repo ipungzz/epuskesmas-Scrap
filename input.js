@@ -16,13 +16,13 @@ const express = require('express');
 const app = express ();
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
-const port = 8000;
+const port = 8080;
 const cors = require('cors');
 app.use(cors());
 let logArray = [];
 logArray.push('[INFO] MEMULAI SERVER')  
 app.listen(port, () => {
-    //console.log(`Example applistening on port ${port}`)
+    console.log(`Example applistening on port ${port}`)
   });
 app.get('/', (req,res) =>{
     res.send("HELLO WOLD!")
@@ -91,22 +91,16 @@ try {
                         await page.type("#password", password)
                         await new Promise(resolve => setTimeout(resolve, 1000));
                         await page.click("#login")
-                        await new Promise(resolve => setTimeout(resolve, 1000));
                         const loginInvalid = await page.evaluate(() => {
                             const isiPesan = document.querySelector('body > div.col-xs-11.col-sm-4.alert.alert-danger.animated.fadeInDown > span:nth-child(4)');
                         return isiPesan && isiPesan.innerText.includes('E-mail / Kata Kunci salah !');
                         });
-                        if(loginInvalid == true){
-                            logArray.push('[INFO] Gagal Login');
-                            console.log("[INFO] Gagal login, ganti user atau password")
-                            console.log("[INFO] Update Data Login Terlebih Dahulu!")
-                            const emailLogin = await askQuestion('Masukkan Email: ');
-                            const passwordLogin = await askQuestion('Masukkan Password: ');
-                            updateUserLogin(emailLogin, passwordLogin);
-                            process.exit(0);
-                        }else{
+                        if(loginInvalid){
                             logArray.push('[INFO] Berhasil login lanjutkan proses');
                             console.log("Berhasil login lanjutkan proses")
+                        }else{
+                            logArray.push('[INFO] Gagal Login');
+                            console.log("Gagal login, ganti user atau password")
                         }
                         //end fungsi login
                         sendWa("081359536415", "Berhasil Login");
@@ -383,7 +377,7 @@ rl.close();
                 const emailLogin = await askQuestion('Masukkan Email: ');
                 const passwordLogin = await askQuestion('Masukkan Password: ');
                 updateUserLogin(emailLogin, passwordLogin);
-                process.exit(0);
+                rl.close();
             }
         })();
 } catch (error){

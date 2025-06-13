@@ -1,3 +1,4 @@
 # Abaikan folder node_modules
 node_modules/
 lib/userlogin.json
+lib/data.json
