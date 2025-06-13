@@ -30,7 +30,7 @@
       const container = document.getElementById('logContainer');
       
       try {
-        const response = await fetch('http://localhost:8080/ambil');
+        const response = await fetch('http://localhost:8000/ambil');
         if (!response.ok) throw new Error('HTTP status ' + response.status);
   
         const data = await response.json();
